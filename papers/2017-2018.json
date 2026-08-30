@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "zy-2017-read-1",
+    "type": "阅读理解",
+    "title": "2017年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Every Saturday morning, at 9 am, more than 50,000 runners set off to run 5km around their local park. The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad. Events are free, staffed by thousands of volunteers. Runners range from four years old to grandparents; their times range from Andrew Baddeley's world record 13 minutes 48 seconds up to an hour.\n\nParkrun is succeeding where London's Olympic \"legacy\" is failing. Ten years ago on Monday, it was announced that the Games of the 30th Olympiad would be in London. Planning documents pledged that the great legacy of the Games would be to lever a nation of sport lovers away from their couches. The population would be fitter, healthier and produce more winners. It has not happened. The number of adults doing weekly sport did rise, by nearly 2 million in the run-up to 2012 – but the general population was growing faster. Worse, the numbers are now falling at an accelerating rate. The opposition claims primary school pupils doing at least two hours of sport a week have nearly halved. Obesity has risen among adults and children. Official retrospections continue as to why London 2012 failed to \"inspire a generation.\" The success of Parkrun offers answers.\n\nParkun is not a race but a time trial: Your only competitor is the clock. The ethos welcomes anybody. There is as much joy over a puffed-out first-timer being clapped over the line as there is about top talent shining. The Olympic bidders, by contrast, wanted to get more people doing sport and to produce more elite athletes. The dual aim was mixed up: The stress on success over taking part was intimidating for newcomers.\n\nIndeed, there is something a little absurd in the state getting involved in the planning of such a fundamentally \"grassroots\" concept as community sports associations. If there is a role for government, it should really be getting involved in providing common goods – making sure there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision of all these activities in schools. But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education. Instead of wordy, worthy strategies, future governments need to do more to provide the conditions for sport to thrive. Or at least not make them worse.",
+    "passage_zh": "每周六上午9点，超过5万名跑步者出发在当地公园跑5公里。Parkrun现象始于十几个朋友，如今已在英国催生了400场活动，国外还有更多。活动免费，由数千名志愿者提供服务。跑步者从4岁儿童到祖父母辈不等；他们的成绩从Andrew Baddeley创造的13分48秒世界纪录到1小时不等。\n\nParkrun在伦敦奥运会\"遗产\"失败的地方取得了成功。十年前的周一，第30届奥林匹克运动会宣布将在伦敦举办。规划文件承诺，奥运会的伟大遗产将是撬动一个热爱运动的国家离开沙发。人口将更健康，产生更多赢家。但这并未发生。在2012年前夕，每周参加体育运动的成年人数量确实增加了近200万，但总人口增长更快。更糟的是，现在这些数字正在加速下降。反对派声称每周至少参加两小时体育运动的小学生几乎减半。成人和儿童的肥胖率都上升了。关于伦敦2012年为何未能\"激励一代人\"的官方反思仍在继续。Parkrun的成功提供了答案。\n\nParkrun不是一场比赛而是计时赛：你唯一的竞争对手是时钟。其理念欢迎任何人。当气喘吁吁的初次参加者在掌声中冲过终点线时的欢乐，与顶尖人才闪耀时的欢乐一样多。相比之下，奥运申办者想让更多人参加体育运动并培养更多精英运动员。这一双重目标混淆了：强调成功而非参与对新人来说令人生畏。\n\n事实上，政府参与规划社区体育协会这样一个根本上属于\"草根\"的概念，确实有些荒谬。如果政府有作用，它真正应该做的是参与提供公共产品——确保有运动场地的空间和铺设网球场和无挡板篮球场的资金，并鼓励学校提供所有这些活动。但历届政府却主持出售绿地，挤压地方当局的资金，减少对教育中体育的关注。未来的政府需要做更多工作来提供体育繁荣的条件，而不是空洞的、冠冕堂皇的战略。或者至少不要让情况变得更糟。",
+    "questions": [
+      {
+        "q": "According to Paragraph 1, Parkrun has____.",
+        "opts": [
+          "gained great popularity",
+          "created many jobs",
+          "strengthened community ties",
+          "become an official festival"
+        ],
+        "ans": 0,
+        "explain": "第1段提到超过5万名跑者、400场活动且免费开放，直接归纳为 Parkrun 广受欢迎。"
+      },
+      {
+        "q": "The author believes that London's Olympic \"legacy\" has failed to____.",
+        "opts": [
+          "boost population growth",
+          "promote sport participation",
+          "improve the city's image",
+          "increase sport hours in schools"
+        ],
+        "ans": 1,
+        "explain": "原文承诺让国民离开沙发多运动，但 It has not happened，即未能促进体育参与。"
+      },
+      {
+        "q": "Parkrun is different from Olympic games in that it____.",
+        "opts": [
+          "aims at discovering talents",
+          "focuses on mass competition",
+          "does not emphasize elitism",
+          "does not attract first-timers"
+        ],
+        "ans": 2,
+        "explain": "第3段说 Parkrun 欢迎任何人、不追求精英，与奥运强调精英运动员相对。"
+      },
+      {
+        "q": "With regard to mass sports, the author holds that governments should____.",
+        "opts": [
+          "organize \"grassroots\" sports events",
+          "supervise local sports associations",
+          "increase funds for sports clubs",
+          "invest in public sports facilities"
+        ],
+        "ans": 3,
+        "explain": "末段作者主张政府提供公共物品——场地与建设运动设施的资金，即投资公共体育设施。"
+      },
+      {
+        "q": "The author's attitude to what UK governments have done for sports is____.",
+        "opts": [
+          "tolerant",
+          "critical",
+          "uncertain",
+          "sympathetic"
+        ],
+        "ans": 1,
+        "explain": "作者批评历届政府卖绿地、抽资金、忽视体育，态度明确为批评。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-read-2",
+    "type": "阅读理解",
+    "title": "2017年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "With so much focus on children's use of screens, it's easy for parents to forget about their own screen use. \"Tech is designed to really suck you in,\" says Jenny Radesky in her study of digital play, \"and digital products are there to promote maximal engagement. It makes it hard to disengage, and leads to a lot of bleed-over into the family routine.\"\n\nRadesky has studied the use of mobile phones and tablets at mealtimes by giving mother-child pairs a food-testing exercise. She found that mothers who used devices during the exercise started 20 per cent fewer verbal and 39 per cent fewer nonverbal interactions with their children. During a separate observation, she saw that phones became a source of tension in the family. Parents would be looking at their emails while the children would be making excited bids for their attention.\n\nInfants are wired to look at parents' faces to try to understand their world, and if those faces are blank and unresponsive – as they often are when absorbed in a device – it can be extremely disconcerting for the children. Radesky cites the \"still face experiment\" devised by developmental psychologist Ed Tronick in the 1970s. In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention. \"Parents don't have to be exquisitely present at all times, but there needs to be a balance and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions of an emotional need,\" says Radesky.\n\nOn the other hand, Tronick himself is concerned that the worries about kids' use of screens are born out of an \"oppressive ideology that demands that parents should always be interacting\" with their children: \"It's based on a somewhat fantasised, very white, very upper-middle-class ideology that says if you're failing to expose your child to 30,000 words you are neglecting them.\" Tronick believes that just because a child isn't learning from the screen doesn't mean there's no value to it – particularly if it gives parents time to have a shower, do housework or simply have a break from their child. Parents, he says, can get a lot out of using their devices to speak to a friend or get some work out of the way. This can make them feel happier, which lets them be more available to their child the rest of the time.",
+    "passage_zh": "由于过多关注儿童使用屏幕的问题，家长很容易忘记自己对屏幕的使用。Jenny Radesky在她关于数字化游戏的研究中说：\"科技的设计就是要真正吸引你，数字产品的存在是为了促进最大程度的参与。这使人难以脱离，并导致大量渗透到家庭日常生活中。\"\n\nRadesky研究了用餐时使用手机和平板电脑的情况，她让母子配对进行食物测试练习。她发现，在练习过程中使用设备的母亲与孩子进行的语言互动减少了百分之二十，非语言互动减少了百分之三十九。在另一次观察中，她看到手机成为家庭中紧张关系的来源。父母会查看电子邮件，而孩子们则会兴奋地争取他们的注意力。\n\n婴儿天生会看着父母的脸来试图理解他们的世界，如果这些脸是空白和无反应的——就像沉浸在设备中时经常出现的那样——这对孩子来说可能会非常令人不安。Radesky引用了发展心理学家Ed Tronick在二十世纪七十年代设计的\"静止面孔实验\"。在实验中，要求一位母亲先以正常方式与孩子互动，然后面无表情，不给孩子任何视觉社交反馈：随着孩子试图吸引母亲的注意力，她变得越来越焦虑。Radesky说：\"父母不必时刻都极度专注，但需要有一个平衡，父母需要对孩子的语言或非语言情感需求表达做出回应和敏感。\"\n\n另一方面，Tronick本人担心对孩子使用屏幕的忧虑源于一种\"压迫性的意识形态，要求父母应该始终与孩子互动\"：\"这基于一种有些理想化的、非常白人的、非常中上阶层的意识形态，认为如果你没有让孩子接触三万个单词，你就是在忽视他们。\"Tronick认为，仅仅因为孩子没有从屏幕中学习并不意味着它没有价值——特别是如果它能让父母有时间洗澡、做家务或只是从孩子那里休息一下。他说，父母可以通过使用设备与朋友交谈或完成一些工作而获得很多好处。这可以让他们感到更快乐，从而让他们在其余时间更能陪伴孩子。",
+    "questions": [
+      {
+        "q": "According to Jenny Radesky, digital products are designed to____.",
+        "opts": [
+          "simplify routine matters",
+          "absorb user attention",
+          "better interpersonal relations",
+          "increase work efficiency"
+        ],
+        "ans": 1,
+        "explain": "Radesky说科技设计出来就是把人吸住、追求最大参与，即吸引用户注意力。"
+      },
+      {
+        "q": "Radesky's food-testing exercise shows that mothers' use of devices____.",
+        "opts": [
+          "takes away babies' appetite",
+          "distracts children's attention",
+          "slows down babies' verbal development",
+          "reduces mother-child communication"
+        ],
+        "ans": 3,
+        "explain": "实验发现使用设备的母亲与孩子语言、非语言互动都减少，即减少亲子交流。"
+      },
+      {
+        "q": "Radesky cites the \"still face experiment\" to show that____.",
+        "opts": [
+          "it is easy for children to get used to blank expressions",
+          "verbal expressions are unnecessary for emotional exchange",
+          "children are insensitive to changes in their parents' mood",
+          "parents need to respond to children's emotional needs"
+        ],
+        "ans": 3,
+        "explain": "实验表明孩子对空白表情焦虑不安，Radesky据此强调父母要回应孩子的情感需求。"
+      },
+      {
+        "q": "The oppressive ideology mentioned by Tronick requires parents to____.",
+        "opts": [
+          "protect kids from exposure to wild fantasies",
+          "teach their kids at least 30,000 words a year",
+          "ensure constant interaction with their children",
+          "remain concerned about kids' use of screens"
+        ],
+        "ans": 2,
+        "explain": "原文指这种意识形态 demands that parents should always be interacting，即要求时刻互动。"
+      },
+      {
+        "q": "According to Tronick, kids' use of screens may____.",
+        "opts": [
+          "give their parents some free time",
+          "make their parents more creative",
+          "help them with their homework",
+          "help them become more attentive"
+        ],
+        "ans": 0,
+        "explain": "Tronick认为屏幕给孩子接触时间反而让父母能洗澡、做家务、喘口气，即获得自由时间。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-read-3",
+    "type": "阅读理解",
+    "title": "2017年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Today, widespread social pressure to immediately go to college in conjunction with increasingly high expectations in a fast-moving world often causes students to completely overlook the possibility of taking a gap year. After all, if everyone you know is going to college in the fall, it seems silly to stay back a year, doesn't it? And after going to school for 12 years, it doesn't feel natural to spend a year doing something that isn't academic.\n\nBut while this may be true, it's not a good enough reason to condemn gap years. There's always a constant fear of falling behind everyone else on the socially perpetuated \"race to the finish line,\" whether that be toward graduate school, medical school or a lucrative career. But despite common misconceptions, a gap year does not hinder the success of academic pursuits – in fact, it probably enhances it.\n\nStudies from the United States and Australia show that students who take a gap year are generally better prepared for and perform better in college than those who do not. Rather than pulling students back, a gap year pushes them ahead by preparing them for independence, new responsibilities and environmental changes – all things that first-year students often struggle with the most. Gap year experiences can lessen the blow when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities rather than acclimation blunders.\n\nIf you're not convinced of the inherent value in taking a year off to explore interests, then consider its financial impact on future academic choices. According to the National Center for Education Statistics, nearly 80 percent of college students end up changing their majors at least once. This isn't surprising, considering the basic mandatory high school curriculum leaves students with a poor understanding of the vast academic possibilities that await them in college. Many students find themselves listing one major on their college applications, but switching to another after taking college classes. It's not necessarily a bad thing, but depending on the school, it can be costly to make up credits after switching too late in the game. At Boston College, for example, you would have to complete an extra year were you to switch to the nursing school from another department. Taking a gap year to figure things out initially can help prevent stress and save money later on.",
+    "passage_zh": "如今，普遍存在的立即上大学的社会压力，加上快速发展的世界中日益增高的期望，常常导致学生完全忽视间隔年的可能性。毕竟，如果你认识的每个人都在秋季上大学，那么推迟一年似乎很愚蠢，不是吗？而且在上了12年学之后，花一年时间做一些非学术性的事情感觉并不自然。\n\n但尽管这可能是事实，却不足以成为谴责间隔年的充分理由。人们总是不断担心在社会延续的\"冲向终点线的竞赛\"中落后于其他所有人，无论那是通向研究生院、医学院还是一份高薪职业。但尽管存在普遍的误解，间隔年并不会阻碍学业追求的成功——事实上，它可能会增强成功。\n\n来自美国和澳大利亚的研究表明，经历间隔年的学生通常比没有经历间隔年的学生为大学做了更好的准备，并且在大学中表现更好。间隔年不是把学生拉回来，而是通过让他们为独立、新责任和环境变化做好准备来推动他们前进——这些都是大一新生往往最难应对的事情。间隔年经历可以减轻适应大学和被投入全新环境时的冲击，使人更容易专注于学业和活动，而不是适应过程中的失误。\n\n如果你不相信用一年时间探索兴趣的内在价值，那么请考虑它对未来学业选择的财务影响。根据美国国家教育统计中心的数据，近80%的大学生最终至少换过一次专业。这并不令人惊讶，因为高中基础必修课程使学生对大学中等待他们的广阔学术可能性了解甚少。许多学生发现自己在大学申请中列出一个专业，但在上了大学课程后换到另一个专业。这不一定是坏事，但取决于学校，如果换专业太晚，补学分可能代价高昂。例如在Boston College，如果你从其他院系转到护理学院，就必须额外完成一年学业。最初花一年间隔年来弄清楚这些事情，可以帮助防止压力并在以后节省金钱。",
+    "questions": [
+      {
+        "q": "One of the reasons for high-school graduates not taking a gap year is that____.",
+        "opts": [
+          "they think it academically misleading",
+          "they have a lot of fun to expect in college",
+          "it feels strange to do differently from others",
+          "it seems worthless to take off-campus courses"
+        ],
+        "ans": 2,
+        "explain": "第1段说别人都上大学而自己留一年显得愚蠢、不自然，即与众不同会感觉奇怪。"
+      },
+      {
+        "q": "Studies from the US and Australia imply that taking a gap year helps____.",
+        "opts": [
+          "keep students from being unrealistic",
+          "lower risks in choosing careers",
+          "ease freshmen's financial burdens",
+          "relieve freshmen of pressures"
+        ],
+        "ans": 3,
+        "explain": "研究指出间隔年让学生为独立、新责任和环境变化做准备，这些正是新生最吃力的压力源。"
+      },
+      {
+        "q": "The word \"acclimation\" (Para. 3) is closest in meaning to____.",
+        "opts": [
+          "adaptation",
+          "application",
+          "motivation",
+          "competition"
+        ],
+        "ans": 0,
+        "explain": "前文 adjusting to college and being thrown into a brand new environment 提示 acclimation 即适应。"
+      },
+      {
+        "q": "A gap year may save money for students by helping them____.",
+        "opts": [
+          "avoid academic failures",
+          "establish long-term goals",
+          "switch to another college",
+          "decide on the right major"
+        ],
+        "ans": 3,
+        "explain": "末段指出先花一年想清楚专业可避免日后换专业补学分的高昂成本，即确定正确专业省了钱。"
+      },
+      {
+        "q": "The most suitable title for this text would be____.",
+        "opts": [
+          "In Favor of the Gap Year",
+          "The ABCs of the Gap Year",
+          "The Gap Year Comes Back",
+          "The Gap Year: A Dilemma"
+        ],
+        "ans": 0,
+        "explain": "全文用研究数据论证间隔年提升学业表现并省钱，立场是支持间隔年。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-read-4",
+    "type": "阅读理解",
+    "title": "2017年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars, says Professor Max Moritz, a specialist in fire ecology and management.\n\nIn 2015, the US Forest Service for the first time spent more than half of its $5.5 billion annual budget fighting fires – nearly double the percentage it spent on such efforts 20 years ago. In effect, fewer federal funds today are going towards the agency's other work – such as forest conservation, watershed and cultural resources management, and infrastructure upkeep – that affect the lives of all Americans.\n\nAnother nationwide concern is whether public funds from other agencies are going into construction in fire-prone districts. As Moritz puts it, how often are federal dollars building homes that are likely to be lost to a wildfire?\n\n\"It's already a huge problem from a public expenditure perspective for the whole country,\" he says. \"We need to take a magnifying glass to that. Like, 'Wait a minute, is this OK?' Do we want instead to redirect those funds to concentrate on lower-hazard parts of the landscape?\"\n\nSuch a view would require a corresponding shift in the way US society today views fire, researchers say.\n\nFor one thing, conversations about wildfires need to be more inclusive. Over the past decade, the focus has been on climate change – how the warming of the Earth from greenhouse gases is leading to conditions that worsen fires.\n\nWhile climate is a key element, Moritz says, it shouldn't come at the expense of the rest of the equation.\n\n\"The human systems and the landscapes we live on are linked, and the interactions go both ways,\" he says. Failing to recognize that, he notes, leads to \"an overly simplified view of what the solutions might be. Our perception of the problem and of what the solution is becomes very limited.\"\n\nAt the same time, people continue to treat fire as an event that needs to be wholly controlled and unleashed only out of necessity, says Professor Balch at the University of Colorado. But acknowledging fire's inevitable presence in human life is an attitude crucial to developing the laws, policies, and practices that make it as safe as possible, she says.\n\n\"We've disconnected ourselves from living with fire,\" Balch says. \"It is really important to understand and try and tease out what is the human connection with fire today.\"",
+    "passage_zh": "火灾生态学与管理专家Max Moritz教授表示，尽管野火发生频率的增加常被视为西部各州的问题，但由于其对联邦税收的影响，这是一个全国性的关切。\n\n2015年，美国林务局首次将其55亿美元年度预算的一半以上用于灭火，这一比例几乎是20年前的两倍。实际上，如今用于该机构其他工作的联邦资金减少了，这些工作包括森林保护、流域和文化资源管理以及基础设施维护，这些都影响着全体美国人的生活。\n\n另一个全国性的关切是，来自其他机构的公共资金是否正流向火灾高发地区的建设。正如Moritz所说，联邦资金有多少次在建造可能毁于野火的房屋？\n\n他说：\"从公共支出的角度来看，这对整个国家来说已经是一个巨大的问题。我们需要用放大镜来审视这个问题。比如，'等一下，这样做可以吗？'我们是否应该将这些资金重新引导，集中用于地形中危险性较低的部分？\"\n\n研究人员表示，这种观点需要美国社会对火灾的看法发生相应的转变。\n\n首先，关于野火的讨论需要更具包容性。过去十年，焦点一直集中在气候变化上，即温室气体导致的地球变暖如何造成恶化火灾的条件。\n\nMoritz表示，虽然气候是一个关键因素，但不应以牺牲等式中的其他部分为代价。\n\n他说：\"人类系统和我们生活的地貌是相互关联的，这种相互作用是双向的。\"他指出，未能认识到这一点，会导致\"对解决方案可能是什么产生过于简化的看法。我们对问题的认知和对解决方案的认知变得非常有限。\"\n\n与此同时，Colorado大学的Balch教授表示，人们继续将火灾视为需要完全控制、仅在必要时才释放的事件。但她说，承认火灾在人类生活中不可避免的存在，是制定使其尽可能安全的法律、政策和实践的关键态度。\n\nBalch说：\"我们已经将自己与火共生的状态割裂开来。理解并努力梳理出当今人类与火灾的联系是什么，这一点非常重要。\"",
+    "questions": [
+      {
+        "q": "More frequent wildfires have become a national concern because in 2015 they____.",
+        "opts": [
+          "exhausted unprecedented management efforts",
+          "consumed a record-high percentage of budget",
+          "severely damaged the ecology of western states",
+          "caused a huge rise of infrastructure expenditure"
+        ],
+        "ans": 1,
+        "explain": "2015年林务局首次把55亿美元预算过半用于灭火，比例创纪录，即消耗了创纪录高比例的预算。"
+      },
+      {
+        "q": "Moritz calls for the use of \"a magnifying glass\" to____.",
+        "opts": [
+          "raise more funds for fire-prone areas",
+          "avoid the redirection of federal money",
+          "find wildfire-free parts of the landscape",
+          "guarantee safer spending of public funds"
+        ],
+        "ans": 3,
+        "explain": "Moritz主张用放大镜审视公共支出并引导资金投向低风险区域，即保证公共资金更安全的使用。"
+      },
+      {
+        "q": "While admitting that climate is a key element, Moritz notes that____.",
+        "opts": [
+          "public debates have not settled yet",
+          "fire-fighting conditions are improving",
+          "other factors should not be overlooked",
+          "a shift in the view of fire has taken place"
+        ],
+        "ans": 2,
+        "explain": "Moritz说气候虽关键但不该牺牲等式其余部分，即其他因素不应被忽视。"
+      },
+      {
+        "q": "The overly simplified view Moritz mentions is a result of failing to____.",
+        "opts": [
+          "discover the fundamental makeup of nature",
+          "explore the mechanism of the human systems",
+          "maximize the role of landscape in human life",
+          "understand the interrelations of man and nature"
+        ],
+        "ans": 3,
+        "explain": "原文说未能认识到人类系统与地貌相互关联会导致认识过于简化，即没理解人与自然的相互关系。"
+      },
+      {
+        "q": "Professor Balch points out that fire is something man should____.",
+        "opts": [
+          "do away with",
+          "come to terms with",
+          "pay a price for",
+          "keep away from"
+        ],
+        "ans": 1,
+        "explain": "Balch主张承认火在人类生活中不可避免、与之共处，即学会接受火。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-match",
+    "type": "新题型",
+    "title": "2017年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. says that he switched to electrical engineering because he loves working with tools.",
+      "B. points out that there are enough people to fill the jobs that don't need much skill.",
+      "C. points out that the US doesn't manufacture anything anymore.",
+      "D. believes that it is important to keep a close eye on the age of his workers.",
+      "E. says that for factory owners, workers are harder to find because of stiff competition.",
+      "F. points out that a work/life balance can attract young people into manufacturing.",
+      "G. says that the manufacturing recession is to blame for the lay-off of the young people's parents."
+    ],
+    "paras": [
+      {
+        "text": "41. Jay Dunwell",
+        "ans": 4,
+        "explain": "答案E。Dunwell称工人更难找且因激烈竞争被其他行业挖走，对应E。"
+      },
+      {
+        "text": "42. Jason Stenquist",
+        "ans": 0,
+        "explain": "答案A。Stenquist称自己因热爱使用工具而转学电气工程，对应A。"
+      },
+      {
+        "text": "43. Birgit Klohs",
+        "ans": 6,
+        "explain": "答案G。Klohs称千禧一代将父母双双被裁员归咎于制造业衰退，对应G。"
+      },
+      {
+        "text": "44. Rob Spohr",
+        "ans": 1,
+        "explain": "答案B。Spohr指出麦当劳等低技能岗位人手充足，缺口在中间技能层，对应B。"
+      },
+      {
+        "text": "45. Julie Parks",
+        "ans": 5,
+        "explain": "答案F。Parks指出工作与生活平衡能把年轻人吸引进制造业，对应F。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-cloze",
+    "type": "完形填空",
+    "title": "2017年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "People have speculated for centuries about a future without work. Today is no different, with academics, writers, and activists once again (1) that technology is replacing human workers. Some imagine that the coming work-free world will be defined by (2) : A few wealthy people will own all the capital, and the masses will struggle in an impoverished wasteland.\n\nA different and not mutually exclusive (3) holds that the future will be a wasteland of a different sort, one (4) by purposelessness: Without jobs to give their lives (5) , people will simply become lazy and depressed. (6) , today's unemployed don't seem to be having a great time. One Gallup poll found that 20 percent of Americans who have been unemployed for at least a year report having depression, double the rate for (7) Americans. Also, some research suggests that the (8) for rising rates of mortality, mental-health problems, and addiction (9) poorly-educated, middle-aged people is a shortage of well-paid jobs. Perhaps this is why many (10) the agonizing dullness of a jobless future.\n\nBut it doesn't (11) follow from findings like these that a world without work would be filled with unease. Such visions are based on the (12) of being unemployed in a society built on the concept of employment. In the (13) of work, a society designed with other ends in mind could (14) strikingly different circumstances for the future of labor and leisure. Today, the (15) of work may be a bit overblown. \"Many jobs are boring, degrading, unhealthy, and a waste of human potential,\" says John Danaher, a lecturer at the National University of Ireland in Galway.\n\nThese days, because leisure time is relatively (16) for most workers, people use their free time to counterbalance the intellectual and emotional (17) of their jobs. \"When I come home from a hard day's work, I often feel (18) ,\" Danaher says, adding, \"In a world in which I don't have to work, I might feel rather different\" – perhaps different enough to throw himself (19) a hobby or a passion project with the intensity usually reserved for (20) matters.",
+    "passage_zh": "几个世纪以来，人们一直在推测没有工作的未来。今天也不例外，学者、作家和活动家再次警告说技术正在取代人类工人。一些人想象即将到来的无工作世界将由不平等来定义：少数富人将拥有所有资本，而大众将在贫困的荒原中挣扎。\n\n一个不同且并不相互排斥的预测认为，未来将是另一种荒原，其特征是漫无目的：没有工作赋予生活意义，人们将变得懒惰和抑郁。事实上，今天的失业者似乎过得并不愉快。Gallup的一项民意调查发现，失业至少一年的美国人中有20%报告患有抑郁症，是在职美国人比例的两倍。此外，一些研究表明，受教育程度低的中年人死亡率上升、心理健康问题和成瘾问题增加的原因是缺乏高薪工作。也许这就是为什么许多人担心无工作未来令人痛苦的枯燥乏味。\n\n但从这些发现中并不一定能得出没有工作的世界将充满不安的结论。这种愿景是基于在一个建立在就业概念之上的社会中失业的负面影响。在没有工作的情况下，一个以其他目标为设计理念的社会可能会为劳动和休闲的未来带来截然不同的境况。今天，工作的美德可能有点被夸大了。\"许多工作是无聊的、有辱人格的、不健康的，是对人类潜力的浪费，\"Galway的爱尔兰国立大学讲师John Danaher说。\n\n如今，由于大多数工人的闲暇时间相对稀缺，人们用空闲时间来平衡工作对智力和情感的要求。\"当我辛苦工作一天回家后，我经常感到疲惫，\"Danaher说，并补充道，\"在一个我不必工作的世界里，我的感觉可能会完全不同\"——也许不同到足以让他全身心投入到一个爱好或激情项目中，其投入程度通常只有在专业事务中才会保留。",
+    "blanks": [
+      {
+        "opts": [
+          "boasting",
+          "denying",
+          "warning",
+          "ensuring"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。学者们是在\"警告\"技术替代劳工的可怕后果。"
+      },
+      {
+        "opts": [
+          "inequality",
+          "instability",
+          "unreliability",
+          "uncertainty"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。冒号后两极分化图景的核心特征即\"不平等\"。"
+      },
+      {
+        "opts": [
+          "policy",
+          "guideline",
+          "resolution",
+          "prediction"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。与首段 speculated 呼应，罗列对未来的\"预测\"。"
+      },
+      {
+        "opts": [
+          "characterized",
+          "divided",
+          "balanced",
+          "measured"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。与上句 defined by 平行，be characterized by 表\"以……为特征\"。"
+      },
+      {
+        "opts": [
+          "wisdom",
+          "meaning",
+          "glory",
+          "freedom"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。与 purposelessness 构成反义，工作赋予生活\"意义\"。"
+      },
+      {
+        "opts": [
+          "Instead",
+          "Indeed",
+          "Thus",
+          "Nevertheless"
+        ],
+        "ans": 1,
+        "explain": "答案B（逻辑衔接）。\"确实\"用于举证加强前句失业者过得不好的论断。"
+      },
+      {
+        "opts": [
+          "rich",
+          "urban",
+          "working",
+          "educated"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。与 unemployed 形成反义，失业者抑郁率是在职者的两倍。"
+      },
+      {
+        "opts": [
+          "explanation",
+          "requirement",
+          "compensation",
+          "substitute"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。句子逻辑为\"X的___是Y\"，Y是X的成因，即\"解释\"。"
+      },
+      {
+        "opts": [
+          "under",
+          "beyond",
+          "alongside",
+          "among"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。rates among + 人群，指在受教育不足的中年人群中。"
+      },
+      {
+        "opts": [
+          "leave behind",
+          "make up",
+          "worry about",
+          "set aside"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。负面后果铺陈后自然得出\"人们担忧\"。"
+      },
+      {
+        "opts": [
+          "statistically",
+          "occasionally",
+          "necessarily",
+          "economically"
+        ],
+        "ans": 2,
+        "explain": "答案C（逻辑衔接）。not necessarily follow 是高频反驳句式。"
+      },
+      {
+        "opts": [
+          "chances",
+          "downsides",
+          "benefits",
+          "principles"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。悲观图景基于失业的\"弊端\"。"
+      },
+      {
+        "opts": [
+          "absence",
+          "height",
+          "face",
+          "course"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。与 without work 呼应，\"工作缺失时\"的反事实情景。"
+      },
+      {
+        "opts": [
+          "disturb",
+          "restore",
+          "exclude",
+          "yield"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。表\"产生、带来\"，另作设计的社会可能\"产生\"截然不同的局面。"
+      },
+      {
+        "opts": [
+          "model",
+          "practice",
+          "virtue",
+          "hardship"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。下文引言在打破\"工作的美德被夸大\"。"
+      },
+      {
+        "opts": [
+          "tricky",
+          "lengthy",
+          "mysterious",
+          "scarce"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。正因闲暇\"稀缺\"，人们才小心地用来平衡工作压力。"
+      },
+      {
+        "opts": [
+          "demands",
+          "standards",
+          "qualities",
+          "threats"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。counterbalance 的宾语是工作对智力与情绪的\"需求\"。"
+      },
+      {
+        "opts": [
+          "ignored",
+          "tired",
+          "confused",
+          "starved"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。a hard day's work 后最自然的体感状态即\"疲惫\"。"
+      },
+      {
+        "opts": [
+          "off",
+          "against",
+          "behind",
+          "into"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。throw oneself into 表\"全身心投入\"。"
+      },
+      {
+        "opts": [
+          "technological",
+          "professional",
+          "educational",
+          "interpersonal"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。与 a hobby 形成\"业余爱好 vs 正经专业\"对照。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2017-trans",
+    "type": "翻译",
+    "title": "2017年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+    "passage": "My dream has always been to work somewhere in an area between fashion and publishing. Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course. However, during that course I realized I was not good enough in this area to compete with other creative personalities in the future, so I decided that it was not the right path for me. Before applying for university I told everyone that I would study journalism, because writing was, and still is, one of my favourite activities. But, to be honest, I said it, because I thought that fashion and I together were just a dream – I knew that no one could imagine me in the fashion industry at all! So I decided to look for some fashion-related courses that included writing. This is when I noticed the course \"Fashion Media & Promotion.\"",
+    "passage_zh": "我的梦想一直是在时尚与出版之间的某个领域里工作。中学毕业前两年，我上了一门缝纫与设计课程，心想着之后会进而去读时尚设计课程。然而，在上那门课期间，我意识到自己在这个领域还不够出色，将来不足以和其他富有创意的人才竞争，于是我认定这条路并不适合我。申请大学之前，我告诉所有人我会去学新闻，因为写作过去是、现在也依然是我最喜欢的活动之一。但说实话，我之所以那么说，是因为我觉得我和时尚行业沾边只不过是个梦——我清楚，根本没有任何人能想象我会身处时尚行业！于是，我决定去找一些既与时尚相关、又包含写作内容的课程。正是在这时，我注意到了\"时尚传媒与推广\"这门课程。"
+  },
+  {
+    "id": "zy-2017-write-s",
+    "type": "写作",
+    "title": "2017年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose you are invited by Professor Williams to give a presentation about Chinese culture to a group of international students. Write a reply to 1)accept the invitation, and 2)introduce the key points of your presentation. You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use \"Li Ming\" instead. Do not write your address. (10 points)",
+    "tips": "写作要点：回信需完成两件事——接受邀请并致谢，以及预告讲座要点（可写书法、茶文化、传统节日等具体内容，用 First/Second/Finally 分点）；结尾表达期待并请求告知调整，署名 Li Ming，不写地址。参考范文见解析页：Dear Professor Williams, I am truly honored to receive your invitation... 约100词。"
+  },
+  {
+    "id": "zy-2017-write-b",
+    "type": "写作",
+    "title": "2017年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)",
+    "tips": "配图为折线图（2013—2015年我国博物馆数量和参观人数）：博物馆数量从2013年略高于4000家升至2014年约5000家后趋稳；参观人数从略高于6000稳步升至接近8000。写作思路：先总述两线齐升并聚焦关键数据，再从生活水平提高、政府扶持与免费开放两个角度归因，最后表态肯定文化需求升温并建议优化博物馆服务。参考范文见解析页，约150词。",
+    "chart": false
+  },
+  {
+    "id": "zy-2018-read-1",
+    "type": "阅读理解",
+    "title": "2018年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future.\n\nMr. Koziatek is part of something pioneering. He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical. When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain?\n\nAs Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum. They can also learn geometry by assembling a bicycle.\n\nBut he's also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority. Schools in the family of vocational education \"have that stereotype…that it's for kids who can't make it academically,\" he says.\n\nOn one hand, that viewpoint is a logical product of America's evolution. Manufacturing is not the economic engine that it once was. The job security that the US economy once offered to high school graduates has largely evaporated. More education is the new principle. We want more for our kids, and rightfully so.\n\nBut the headlong push into bachelor's degrees for all – and the subtle devaluing of anything less – misses an important point: That's not the only thing the American economy needs. Yes, a bachelor's degree opens more doors. But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing. But only 44 percent of workers are adequately trained.\n\nIn other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face. There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them. Koziatek's Manchester School of Technology High School is trying to fill that gap.\n\nKoziatek's school is a wake-up call. When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts.",
+    "passage_zh": "令人好奇的是，Stephen Koziatek几乎感到自己必须为努力给学生创造更好未来的行为进行辩护。\n\nKoziatek先生正参与一项开创性的事业。他是New Hampshire一所高中的教师，在那里学习不是关于书本、考试和机械记忆的事情，而是实践性的。何时起人们开始普遍认为学生应该能说出美国第十三任总统的名字，却对一条断裂的自行车链条完全束手无策？\n\n正如Koziatek所知，几乎一切事物中都有学问。强迫学生在一张涂满涂鸦、粘着几代人丢弃的口香糖的课桌前学习几何，未必能有所收获。他们也可以通过组装自行车来学习几何。\n\n但他也发现了一种潜在的偏见。用双手工作几乎被视为低人一等的标志。他说，职业教育体系中的学校\"有那种刻板印象……认为那是给学业上不行的孩子准备的\"。\n\n一方面，这种观点是美国演变的逻辑产物。制造业不再是曾经的经济引擎。美国经济曾经为高中毕业生提供的工作保障已在很大程度上消失了。接受更多教育成为新的原则。我们为孩子们想要更多，这理所应当。\n\n但不顾一切地推动所有人获得学士学位——以及对任何更低学历的微妙贬低——忽略了重要的一点：这并非美国经济需要的唯一东西。是的，学士学位能打开更多大门。但即使现在，全国54%的工作是中等技能工作，如建筑业和高技能制造业。但只有44%的工人接受了充分培训。\n\n换句话说，在工人阶级已让这个国家在政治上发生剧变的时刻，他们对曾经定义美国的机会正在消失感到沮丧，一个显而易见的解决方案正摆在我们面前。工人阶级岗位存在缺口，但最需要这些工作的工人却不具备胜任能力。Koziatek的Manchester School of Technology High School正试图填补这一缺口。\n\nKoziatek的学校是一记警钟。当教育变成一刀切时，它就有可能忽视一个国家天赋的多样性。",
+    "questions": [
+      {
+        "q": "A broken bike chain is mentioned to show students' lack of____.",
+        "opts": [
+          "practical ability",
+          "academic training",
+          "pioneering spirit",
+          "mechanical memorization"
+        ],
+        "ans": 0,
+        "explain": "学生会背总统名字却被坏链条难倒，讽刺的是动手（实践）能力的缺失。"
+      },
+      {
+        "q": "There exists the prejudice that vocational education is for kids who____.",
+        "opts": [
+          "have a stereotyped mind",
+          "have no career motivation",
+          "are not academically successful",
+          "are financially disadvantaged"
+        ],
+        "ans": 2,
+        "explain": "原文刻板印象认为职业教育是给学业上做不下来的孩子准备的。"
+      },
+      {
+        "q": "We can infer from Paragraph 5 that high school graduates____.",
+        "opts": [
+          "used to have big financial concerns",
+          "used to have more job opportunities",
+          "are reluctant to work in manufacturing",
+          "are entitled to more educational privileges"
+        ],
+        "ans": 1,
+        "explain": "过去经济曾为高中毕业生提供工作保障，如今已大体消失，反推他们过去机会更多。"
+      },
+      {
+        "q": "The headlong push into bachelor's degrees for all____.",
+        "opts": [
+          "helps create a lot of middle-skill jobs",
+          "may narrow the gap in working-class jobs",
+          "is expected to yield a better-trained workforce",
+          "indicates the overvaluing of higher education"
+        ],
+        "ans": 3,
+        "explain": "headlong（贸然）+ 对低于学位的贬低，表明把高等教育看得过高，即过度重视高等教育。"
+      },
+      {
+        "q": "The author's attitude toward Koziatek's school can be described as____.",
+        "opts": [
+          "supportive",
+          "tolerant",
+          "disappointed",
+          "cautious"
+        ],
+        "ans": 0,
+        "explain": "作者称其 pioneering、trying to fill that gap、a wake-up call，态度明显支持。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-read-2",
+    "type": "阅读理解",
+    "title": "2018年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "While fossil fuels – coal, oil, gas – still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar. The move to renewables is picking up momentum around the world: They now account for more than half of new power sources going on line.\n\nSome growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources. But increasingly the story is about the plummeting prices of renewables, especially wind and solar. The cost of solar panels has dropped by 80 percent and the cost of wind turbines by close to one-third in the past eight years.\n\nIn many parts of the world renewable energy is already a principal energy source. In Scotland, for example, wind turbines provide enough electricity to power 95 percent of homes. While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift. In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, reported the US Energy Information Administration.\n\nPresident Trump has underlined fossil fuels – especially coal – as the path to economic growth. In a recent speech in Iowa, he dismissed wind power as an unreliable energy source. But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation – and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers.\n\nThe question \"what happens when the wind doesn't blow or the sun doesn't shine?\" has provided a quick put-down for skeptics. But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.\n\nThe advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles. Although electric cars are still a rarity on roads now, this massive investment could change the picture rapidly in coming years.\n\nWhile there's a long way to go, the trend lines for renewables are spiking. The pace of change in energy sources appears to be speeding up – perhaps just in time to have a meaningful effect in slowing climate change. What Washington does – or doesn't do – to promote alternative energy may mean less and less at a time of a global shift in thought.",
+    "passage_zh": "尽管化石燃料——煤炭、石油、天然气——仍然产生世界能源供应的大约85%，但可再生能源如风能和太阳能属于未来这一点比以往任何时候都更加清晰。全球向可再生能源转变的势头正在加快：它们现在占新上线电力来源的一半以上。\n\n部分增长源于政府和有远见的企业对清洁能源的资助承诺。但这个故事越来越多地与可再生能源价格的暴跌有关，尤其是风能和太阳能。在过去八年中，太阳能电池板的成本下降了80%，风力涡轮机的成本下降了近三分之一。\n\n在世界许多地区，可再生能源已经是主要能源来源。例如在苏格兰，风力涡轮机提供的电力足以为95%的家庭供电。在世界其他地区引领潮流的同时，尤其是中国和欧洲，美国也正在经历显著的转变。据美国能源信息署报道，今年3月，风能和太阳能首次占美国发电量的10%以上。\n\nTrump总统强调化石燃料——尤其是煤炭——是经济增长的途径。在最近于Iowa的一次演讲中，他将风能斥为不可靠的能源来源。但这一信息在Iowa并未得到许多人的认同，在那里风力涡轮机遍布田野，提供该州36%的发电量——并且Microsoft等科技巨头正被清洁能源为其数据中心供电的可能性所吸引。\n\n\"当风不吹或太阳不照耀时会发生什么？\"这个问题为怀疑者提供了快速反驳。但电池储能容量的提升使其全天候保持电力流动的能力更有可能实现。\n\n这一进步部分是由汽车制造商推动的，他们在电池驱动的电动汽车上下了大赌注。尽管电动汽车目前在道路上仍然罕见，但这一巨额投资可能在未来几年迅速改变这一局面。\n\n尽管还有很长的路要走，但可再生能源的趋势线正在飙升。能源来源的变化速度似乎正在加快——也许正好及时产生减缓气候变化的有意义影响。在全球思想转变之际，华盛顿在促进替代能源方面做什么或不做什么可能变得越来越无关紧要。",
+    "questions": [
+      {
+        "q": "The word \"plummeting\" (Line 3, Para. 2) is closest in meaning to____.",
+        "opts": [
+          "stabilizing",
+          "changing",
+          "falling",
+          "rising"
+        ],
+        "ans": 2,
+        "explain": "紧邻数据 solar panels dropped by 80 percent 提示 plummeting 即\"下降\"。"
+      },
+      {
+        "q": "According to Paragraph 3, the use of renewable energy in America____.",
+        "opts": [
+          "is progressing notably",
+          "is as extensive as in Europe",
+          "faces many challenges",
+          "has proved to be impractical"
+        ],
+        "ans": 0,
+        "explain": "第3段称美国也 seeing a remarkable shift，首次超10%，即进展显著。"
+      },
+      {
+        "q": "It can be learned that in Iowa, ____.",
+        "opts": [
+          "wind is a widely used energy source",
+          "wind energy has replaced fossil fuels",
+          "tech giants are investing in clean energy",
+          "there is a shortage of clean energy supply"
+        ],
+        "ans": 0,
+        "explain": "Iowa风力涡轮机遍布田野、提供36%发电量，说明风能是广泛使用的能源。"
+      },
+      {
+        "q": "Which of the following is true about clean energy according to Paragraphs 5&6?",
+        "opts": [
+          "Its application has boosted battery storage.",
+          "It is commonly used in car manufacturing.",
+          "Its continuous supply is becoming a reality.",
+          "Its sustainable exploitation will remain difficult."
+        ],
+        "ans": 2,
+        "explain": "第5-6段说电池储能提升使全天候供电更可行、投资可能快速改变局面，即持续供应正成为现实。"
+      },
+      {
+        "q": "It can be inferred from the last paragraph that renewable energy____.",
+        "opts": [
+          "will bring the US closer to other countries",
+          "will accelerate global environmental change",
+          "is not really encouraged by the US government",
+          "is not competitive enough with regard to its cost"
+        ],
+        "ans": 2,
+        "explain": "尾段称华盛顿做什么或不做什么越来越无关紧要，且Trump主张化石燃料，即美国政府并未真正鼓励。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-read-3",
+    "type": "阅读理解",
+    "title": "2018年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "The power and ambition of the giants of the digital economy are astonishing—Amazon has just announced the purchase of the upmarket grocery chain Whole Foods for ＄13.5bn, but two years ago Facebook paid even more than that to acquire the WhatsApp messaging service, which doesn't have any physical product at all. What WhatsApp offered Facebook was an intricate and finely detailed web of its users' friendships and social lives.\n\nFacebook promised the European commission then that it would not link phone numbers to Facebook identities, but it broke the promise almost as soon as the deal went through. Even without knowing what was in the messages, the knowledge of who sent them and to whom was enormously revealing and still could be. What political journalist, what party whip, would not want to know the makeup of the WhatsApp groups in which Theresa May's enemies are currently plotting? It may be that the value of Whole Foods to Amazon is not so much the 460 shops it owns, but the records of which customers have purchased what.\n\nCompetition law appears to be the only way to address these imbalances of power. But it is clumsy. For one thing, it is very slow compared to the pace of change within the digital economy. By the time a problem has been addressed and remedied it may have vanished in the marketplace, to be replaced by new abuses of power. But there is a deeper conceptual problem, too. Competition law as presently interpreted deals with financial disadvantage to consumers and this is not obvious when the users of these services don't pay for them. The users of their services are not their customers. That would be the people who buy advertising from them – and Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies.\n\nThe product they're selling is data, and we, the users, convert our lives to data for the benefit of the digital giants. Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield. Ants keep predatory insects away from where their aphids feed; Gmail keeps the spammers out of our inboxes. It doesn't feel like a human or democratic relationship, even if both sides benefit.",
+    "passage_zh": "数字经济巨头的力量和野心令人震惊——Amazon刚刚宣布以135亿美元收购高端食品连锁店Whole Foods，但两年前Facebook为收购WhatsApp消息服务支付了更高的价格，而WhatsApp根本没有任何实体产品。WhatsApp提供给Facebook的是其用户友谊和社交生活的复杂而精细的网络。\n\nFacebook当时向欧盟委员会承诺不会将电话号码与Facebook身份关联，但交易完成后几乎立即违背了这一承诺。即使不知道消息内容是什么，了解谁发送了消息以及发给了谁也极具揭示性，而且现在仍然如此。哪个政治记者、哪个党鞭不想知道Theresa May的敌人目前正在密谋的WhatsApp群组的构成？Whole Foods对Amazon的价值可能不在于它拥有的460家店铺，而在于哪些顾客购买了什么的记录。\n\n竞争法似乎是解决这些权力失衡的唯一途径。但它很笨拙。首先，与数字经济内部的变化速度相比，它非常缓慢。当一个问题得到解决和补救时，它可能已经在市场上消失，被新的权力滥用所取代。但还有一个更深层次的概念问题。目前解释的竞争法处理的是消费者的财务劣势，而当这些服务的用户不为它们付费时，这一点并不明显。这些服务的用户不是他们的客户。客户应该是那些向他们购买广告的人——而Facebook和Google这两个虚拟巨头主导着数字广告，使所有其他媒体和娱乐公司处于劣势。\n\n他们销售的产品是数据，而我们这些用户为了数字巨头的利益将我们的生活转化为数据。正如一些蚂蚁饲养蚜虫以获取它们进食时产生的蜜露，Google也饲养我们以获取我们数字生活产生的数据。蚂蚁让捕食性昆虫远离蚜虫觅食的地方；Gmail让垃圾邮件发送者远离我们的收件箱。即使双方都受益，这感觉也不像是一种人性化或民主的关系。",
+    "questions": [
+      {
+        "q": "According to Paragraph 1, Facebook acquired WhatsApp for its____.",
+        "opts": [
+          "digital products",
+          "user information",
+          "physical assets",
+          "quality service"
+        ],
+        "ans": 1,
+        "explain": "WhatsApp 给 Facebook 的是用户友谊与社交关系的网络，即用户信息。"
+      },
+      {
+        "q": "Linking phone numbers to Facebook identities may____.",
+        "opts": [
+          "worsen political disputes",
+          "mess up customer records",
+          "pose a risk to Facebook users",
+          "mislead the European commission"
+        ],
+        "ans": 2,
+        "explain": "关联手机号后谁发给谁的信息极具揭示性，会给用户带来隐私风险。"
+      },
+      {
+        "q": "According to the author, competition law____.",
+        "opts": [
+          "should serve the new market powers",
+          "may worsen the economic imbalance",
+          "should not provide just one legal solution",
+          "cannot keep pace with the changing market"
+        ],
+        "ans": 3,
+        "explain": "作者指出竞争法非常缓慢，问题解决时可能已在市场消失，即跟不上市场变化。"
+      },
+      {
+        "q": "Competition law as presently interpreted can hardly protect Facebook users because____.",
+        "opts": [
+          "they are not defined as customers",
+          "they are not financially reliable",
+          "the services are generally digital",
+          "the services are paid for by advertisers"
+        ],
+        "ans": 0,
+        "explain": "原文明确 The users of their services are not their customers，用户未被定义为客户。"
+      },
+      {
+        "q": "The ants analogy is used to illustrate____.",
+        "opts": [
+          "a win-win business model between digital giants",
+          "a typical competition pattern among digital giants",
+          "the benefits provided for digital giants' customers",
+          "the relationship between digital giants and their users"
+        ],
+        "ans": 3,
+        "explain": "蚂蚁养蚜虫比喻 Google 用数据\"养\"用户，说明数字巨头与用户之间的关系。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-read-4",
+    "type": "阅读理解",
+    "title": "2018年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "To combat the trap of putting a premium on being busy, Cal Newport, author of Deep Work: Rules for Focused Success in a Distracted World, recommends building a habit of \"deep work\" – the ability to focus without distraction.\n\nThere are a number of approaches to mastering the art of deep work – be it lengthy retreats dedicated to a specific task; developing a daily ritual; or taking a \"journalistic\" approach to seizing moments of deep work when you can throughout the day. Whichever approach, the key is to determine your length of focus time and stick to it.\n\nNewport also recommends \"deep scheduling\" to combat constant interruptions and get more done in less time. \"At any given point, I should have deep work scheduled for roughly the next month. Once on the calendar, I protect this time like I would a doctor's appointment or important meeting\", he writes.\n\nAnother approach to getting more done in less time is to rethink how you prioritise your day – in particular how we craft our to-do lists. Tim Harford, author of Messy: The Power of Disorder to Transform Our Lives, points to a study in the early 1980s that divided undergraduates into two groups: some were advised to set out monthly goals and study activities; others were told to plan activities and goals in much more detail, day by day.\n\nWhile the researchers assumed that the well-structured daily plans would be most effective when it came to the execution of tasks, they were wrong: the detailed daily plans demotivated students. Harford argues that inevitable distractions often render the daily to-do list ineffective, while leaving room for improvisation in such a list can reap the best results.\n\nIn order to make the most of our focus and energy, we also need to embrace downtime, or as Newport suggests, \"be lazy\".\n\n\"Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body…[idleness] is, paradoxically, necessary to getting any work done,\" he argues.\n\nSrini Pillay, an assistant professor of psychiatry at Harvard Medical School, believes this counterintuitive link between downtime and productivity may be due to the way our brains operate. When our brains switch between being focused and unfocused on a task, they tend to be more efficient.\n\n\"What people don't realise is that in order to complete these tasks they need to use both the focus and unfocus circuits in their brain,\" says Pillay.",
+    "passage_zh": "为了对抗将忙碌视为优点的陷阱，《深度工作：在分心世界中专注成功的法则》一书的作者Cal Newport建议培养\"深度工作\"的习惯——即不受干扰地专注的能力。\n\n掌握深度工作艺术有多种方法——无论是专门用于特定任务的长时间静修、养成日常习惯，还是采取\"新闻工作者式\"的方法在一天中抓住深度工作的时刻。无论采用哪种方法，关键是确定你的专注时长并坚持下去。\n\nNewport还建议采用\"深度日程安排\"来对抗持续的干扰，在更短的时间内完成更多工作。他写道：\"在任何给定时刻，我都应该为未来大约一个月安排好深度工作。一旦列入日程，我就会像对待医生预约或重要会议一样保护这段时间。\"\n\n在更短时间内完成更多工作的另一种方法是重新思考如何安排一天的优先事项——特别是我们如何制定待办事项清单。《混乱：无序的力量如何改变我们的生活》一书的作者Tim Harford指出了20世纪80年代初的一项研究，该研究将本科生分为两组：一些人被建议制定月度目标和学习活动；另一些人被要求更详细地规划活动和目标，逐日进行。\n\n虽然研究人员认为结构良好的每日计划在执行任务时最有效，但他们错了：详细的每日计划削弱了学生的积极性。Harford认为，不可避免的干扰常常使每日待办事项清单失效，而在这样的清单中为即兴发挥留出空间可以获得最佳结果。\n\n为了充分利用我们的专注力和精力，我们还需要拥抱休息时间，或者如Newport所建议的，\"变得懒惰\"。\n\n他认为：\"闲散不仅仅是假期、放纵或恶习；它对大脑来说就像维生素D对身体一样不可或缺……[闲散]自相矛盾地是完成任何工作所必需的。\"\n\n哈佛医学院精神病学助理教授Srini Pillay认为，休息时间与生产力之间这种违反直觉的联系可能源于我们大脑的运作方式。当我们的大脑在专注和不专注于某项任务之间切换时，它们往往会更有效率。\n\nPillay说：\"人们没有意识到的是，为了完成这些任务，他们需要同时使用大脑中的专注和非专注回路。\"",
+    "questions": [
+      {
+        "q": "The key to mastering the art of deep work is to____.",
+        "opts": [
+          "keep to your focus time",
+          "list your immediate tasks",
+          "make specific daily plans",
+          "seize every minute to work"
+        ],
+        "ans": 0,
+        "explain": "第2段明确 the key is to determine your length of focus time and stick to it，即坚持专注时长。"
+      },
+      {
+        "q": "The study in the early 1980s cited by Harford shows that____.",
+        "opts": [
+          "distractions may actually increase efficiency",
+          "daily schedules are indispensable to studying",
+          "students are hardly motivated by monthly goals",
+          "detailed plans may not be as fruitful as expected"
+        ],
+        "ans": 3,
+        "explain": "研究者以为每日计划最有效却错了，详细的每日计划反而让学生失去动力，即不如预期有成效。"
+      },
+      {
+        "q": "According to Newport, idleness is____.",
+        "opts": [
+          "a desirable mental state for busy people",
+          "a major contributor to physical health",
+          "an effective way to save time and energy",
+          "an essential factor in accomplishing any work"
+        ],
+        "ans": 3,
+        "explain": "Newport称闲散 paradoxically necessary to getting any work done，即完成任何工作的必要因素。"
+      },
+      {
+        "q": "Pillay believes that our brains' shift between being focused and unfocused____.",
+        "opts": [
+          "can result in psychological well-being",
+          "can bring about greater efficiency",
+          "is aimed at better balance in work",
+          "is driven by task urgency"
+        ],
+        "ans": 1,
+        "explain": "第8段说大脑在专注与放空间切换时往往更高效，即能带来更高的效率。"
+      },
+      {
+        "q": "This text is mainly about____.",
+        "opts": [
+          "ways to relieve the tension of busy life",
+          "approaches to getting more done in less time",
+          "the key to eliminating distractions",
+          "the cause of the lack of focus time"
+        ],
+        "ans": 1,
+        "explain": "全文围绕深度工作、日程安排、待办清单与休息等，讲如何在更短时间内完成更多事。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-match",
+    "type": "新题型",
+    "title": "2018年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. Just say it",
+      "B. Be present",
+      "C. Pay a unique compliment",
+      "D. Name, places, things",
+      "E. Find the \"me too\"s",
+      "F. Skip the small talk",
+      "G. Ask for an opinion"
+    ],
+    "paras": [
+      {
+        "text": "Suppose you are in a room with someone you don't know and something within you says \"I want to talk with this person\" – this is something that mostly happens with all of us. You wanted to say something – the first word – but it just won't come out, it feels like it is stuck somewhere. I know the feeling and here is my advice: just get it out.\n\nJust think: what is the worst that could happen? They won't talk with you? Well, they are not talking with you now! So keep it simple: \"Hi\", \"Hey\" or \"Hello\" – do the best you can to gather all of the enthusiasm and energy you can, put on a big smile and say \"Hi\".",
+        "ans": 0,
+        "explain": "答案A。主旨：克服开不了口的障碍，直接说出第一句。"
+      },
+      {
+        "text": "It is a problem all of us face; you have limited time with the person that you want to talk with and you want to make this talk memorable.\n\nHonestly, if we got stuck in the rut of \"hi\", \"hello\", \"how are you?\" and \"what is going on?\", you will fail to give the initial jolt to the conversation that can make it so memorable.\n\nSo don't be afraid to ask more personal questions. Trust me, you'll be surprised to see how much people are willing to share if you just ask.",
+        "ans": 5,
+        "explain": "答案F。主旨：别困在寒暄套话里，敢问更深的问题。"
+      },
+      {
+        "text": "When you meet a person for the first time, make an effort to find the things which you and that person have in common so that you can build the conversation from that point. When you start conversation from there and then move outwards, you'll find all of a sudden that the conversation becomes a lot easier.",
+        "ans": 4,
+        "explain": "答案E。主旨：找出双方共同点作为谈话起点。"
+      },
+      {
+        "text": "Imagine you are pouring your heart out to someone and they are just busy on their phone, and if you ask for their attention you get the response \"I can multitask\".\n\nSo when someone tries to communicate with you, just be in that communication wholeheartedly. Make eye contact. Trust me, eye contact is where all the magic happens. When you make eye contact, you can feel the conversation.",
+        "ans": 1,
+        "explain": "答案B。主旨：交流时要全身心投入、保持眼神接触。"
+      },
+      {
+        "text": "You all came into a conversation where you first met the person, but after some time you may have met again and have forgotten their name. Isn't that awkward! So, remember the little details of the people you met or you talked with; perhaps the places they have been to, the places they want to go, the things they like, the things they hate – whatever you talk about.\n\nWhen you remember such things you can automatically become an investor in their wellbeing. So they feel a responsibility to you to keep that relationship going.",
+        "ans": 3,
+        "explain": "答案D。主旨：记住对方的名字与各种个人细节来维系关系。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-cloze",
+    "type": "完形填空",
+    "title": "2018年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Why do people read negative Internet comments and do other things that will obviously be painful? Because humans have an inherent need to (1) uncertainty, according to a recent study in Psychological Science. The new research reveals that the need to know is so strong that people will (2) to satisfy their curiosity even when it is clear the answer will (3) .\n\nIn a series of four experiments, behavioral scientists at the University of Chicago and the Wisconsin School of Business tested students' willingness to (4) themselves to unpleasant stimuli in an effort to satisfy curiosity. For one (5) , each participant was shown a pile of pens that the researcher claimed were from a previous experiment. The twist? Half of the pens would (6) an electric shock when clicked.\n\nTwenty-seven students were told which pens were electrified; another twenty-seven were told only that some were electrified. (7) left alone in the room, the students who did not know which ones would shock them clicked more pens and incurred more shocks than the students who knew what would (8) . Subsequent experiments reproduced this effect with other stimuli, (9) the sound of fingernails on a chalkboard and photographs of disgusting insects.\n\nThe drive to (10) is deeply rooted in humans, much the same as the basic drives for (11) or shelter, says Christopher Hsee of the University of Chicago. Curiosity is often considered a good instinct – it can (12) new scientific advances, for instance – but sometimes such (13) can backfire. The insight that curiosity can drive you to do (14) things is a profound one.\n\nUnhealthy curiosity is possible to (15) , however. In a final experiment, participants who were encouraged to (16) how they would feel after viewing an unpleasant picture were less likely to (17) to see such an image. These results suggest that imagining the (18) of following through on one's curiosity ahead of time can help determine (19) it is worth the endeavor. \"Thinking about long-term (20) is key to reducing the possible negative effects of curiosity,\" Hsee says. In other words, don't read online comments.",
+    "passage_zh": "为什么人们会阅读负面的网络评论并做其他明显会带来痛苦的事情？根据《心理科学》杂志最近的一项研究，这是因为人类有一种内在的需求去消解不确定性。这项新研究揭示，求知的需求是如此强烈，以至于即使明确知道答案会造成伤害，人们仍会寻求满足他们的好奇心。\n\n在一系列四项实验中，芝加哥大学和威斯康星商学院的行为科学家测试了学生为满足好奇心而使自己暴露于不愉快刺激的意愿。在其中一项试验中，每位参与者被展示一堆钢笔，研究人员声称这些钢笔来自之前的一个实验。其中的转折是什么？有一半的钢笔在按下时会产生电击。\n\n27名学生被告知哪些钢笔带电；另外27名学生只被告知有些钢笔带电。当独自留在房间里时，那些不知道哪些钢笔会电击他们的学生按下了更多钢笔并遭受了更多电击，相比那些知道会发生什么的学生。后续实验用其他刺激重现了这一效应，比如指甲刮黑板的声音和令人恶心的昆虫照片。\n\n芝加哥大学的Christopher Hsee说，探索的驱动力深深植根于人类，就像对食物或住所的基本驱动力一样。好奇心通常被认为是一种良好的本能——例如它可以带来新的科学进步——但有时这种探究会适得其反。认识到好奇心会驱使你做出自我毁灭的事情是一个深刻的见解。\n\n然而，不健康的好奇心是可以抵制的。在最后一项实验中，那些被鼓励预测自己在观看令人不快的图片后会有何感受的参与者，不太可能选择去看这样的图像。这些结果表明，提前想象追随自己好奇心的结果可以帮助判断这样做是否值得。Hsee说：\"思考长期后果是减少好奇心可能带来的负面影响的关键。\"换句话说，不要阅读网络评论。",
+    "blanks": [
+      {
+        "opts": [
+          "protect",
+          "resolve",
+          "discuss",
+          "ignore"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。resolve uncertainty 即\"消除不确定\"，与 need to know 呼应。"
+      },
+      {
+        "opts": [
+          "refuse",
+          "wait",
+          "regret",
+          "seek"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。seek to satisfy their curiosity 想方设法满足好奇心。"
+      },
+      {
+        "opts": [
+          "hurt",
+          "last",
+          "mislead",
+          "rise"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。与首句 painful 呼应，答案会\"伤人\"。"
+      },
+      {
+        "opts": [
+          "alert",
+          "tie",
+          "treat",
+          "expose"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。expose themselves to unpleasant stimuli 自愿暴露于不快刺激。"
+      },
+      {
+        "opts": [
+          "message",
+          "review",
+          "trial",
+          "concept"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。For one trial 在一次\"试验\"中，承接上文 experiments。"
+      },
+      {
+        "opts": [
+          "remove",
+          "weaken",
+          "interrupt",
+          "deliver"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。deliver an electric shock 释放一次电击。"
+      },
+      {
+        "opts": [
+          "When",
+          "If",
+          "Though",
+          "Unless"
+        ],
+        "ans": 0,
+        "explain": "答案A（语法形态）。When 引导时间状语，\"当被独自留下时\"。"
+      },
+      {
+        "opts": [
+          "continue",
+          "happen",
+          "disappear",
+          "change"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。知道会发生什么，与 which pens were electrified 对应。"
+      },
+      {
+        "opts": [
+          "rather than",
+          "regardless of",
+          "such as",
+          "owing to"
+        ],
+        "ans": 2,
+        "explain": "答案C（固定搭配）。such as 举例，列举其他刺激。"
+      },
+      {
+        "opts": [
+          "discover",
+          "forgive",
+          "forget",
+          "disagree"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。the drive to discover 探索的冲动，与 Curiosity 对应。"
+      },
+      {
+        "opts": [
+          "pay",
+          "marriage",
+          "schooling",
+          "food"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。food 与 shelter 并列，是最基本的生存需求。"
+      },
+      {
+        "opts": [
+          "lead to",
+          "rest on",
+          "learn from",
+          "begin with"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。好奇心能\"带来\"新的科学进步。"
+      },
+      {
+        "opts": [
+          "withdrawal",
+          "persistence",
+          "inquiry",
+          "diligence"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。such inquiry 回指好奇心这种\"探究\"，与 backfire 形成反差。"
+      },
+      {
+        "opts": [
+          "self-reliant",
+          "self-destructive",
+          "self-evident",
+          "self-deceptive"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。与 backfire 同义，做\"自我毁灭\"的事。"
+      },
+      {
+        "opts": [
+          "define",
+          "resist",
+          "replace",
+          "trace"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。不健康的好奇心可以\"抵制\"，承接下文应对策略。"
+      },
+      {
+        "opts": [
+          "overlook",
+          "predict",
+          "design",
+          "conceal"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。与 imagining ahead of time 同义，\"预想\"感受。"
+      },
+      {
+        "opts": [
+          "remember",
+          "promise",
+          "choose",
+          "pretend"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。更不愿意\"选择\"去看这样的图像。"
+      },
+      {
+        "opts": [
+          "relief",
+          "plan",
+          "duty",
+          "outcome"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。提前想象追随好奇心的\"结果\"。"
+      },
+      {
+        "opts": [
+          "why",
+          "whether",
+          "where",
+          "how"
+        ],
+        "ans": 1,
+        "explain": "答案B（语法形态）。判断\"是否\"值得努力。"
+      },
+      {
+        "opts": [
+          "consequences",
+          "investments",
+          "strategies",
+          "limitations"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。思考长期\"后果\"，与 outcome 同义。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2018-trans",
+    "type": "翻译",
+    "title": "2018年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+    "passage": "A fifth grader gets a homework assignment to select his future career path from a list of occupations. He ticks \"astronaut\" but quickly adds \"scientist\" to the list and selects it as well. The boy is convinced that if he reads enough, he can explore as many career paths as he likes. And so he reads – everything from encyclopedias to science fiction novels. He reads so passionately that his parents have to institute a \"no reading policy\" at the dinner table.\n\nThat boy was Bill Gates, and he hasn't stopped reading yet – not even after becoming one of the most successful people on the planet. Nowadays, his reading material has changed from science fiction and reference books: recently, he revealed that he reads at least 50 nonfiction books a year. Gates chooses nonfiction titles because they explain how the world works. \"Each book opens up new avenues of knowledge to explore\", Gates says.",
+    "passage_zh": "一名五年级的小学生接到一项家庭作业：从一份职业清单里选出自己未来的职业道路。他勾选了\"宇航员\"，但很快又把\"科学家\"添进清单，并一并选上。这个男孩确信，只要书读得够多，他想探索多少职业道路就能探索多少。于是他真的读了起来——从百科全书到科幻小说，什么书都读。他读书读得如此痴迷，以至于父母不得不在餐桌上立下一条\"吃饭不许看书\"的规矩。\n\n那个男孩就是比尔·盖茨，而他至今仍未停止读书——即便已成为这世上最成功的人物之一，也依旧手不释卷。如今，他读的东西已不再是科幻小说和工具书：最近他透露，自己每年至少要读50本非虚构类书籍。盖茨之所以选择非虚构类书籍，是因为这些书能讲清世界是如何运转的。他说：\"每一本书，都为我打开了一片片有待探索的知识新天地。\""
+  },
+  {
+    "id": "zy-2018-write-s",
+    "type": "写作",
+    "title": "2018年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose you have to cancel your travel plan and will not be able to visit Professor Smith. Write him an email to 1)apologize and explain the situation, and 2)suggest a future meeting. You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use \"Li Ming\" instead. Do not write your address. (10 points)",
+    "tips": "写作要点：写一封给 Professor Smith 的邮件，先为取消行程无法赴约致歉并说明原因（如突发家事），再委婉提议改期见面并请对方确认时间；落款 Yours sincerely + Li Ming，不写地址。参考范文见解析页：Dear Professor Smith, I am writing to apologize sincerely for having to cancel my upcoming trip... 约100词。"
+  },
+  {
+    "id": "zy-2018-write-b",
+    "type": "写作",
+    "title": "2018年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)",
+    "tips": "配图为饼图（2017年某市消费者选择餐厅时的关注因素）：特色36.30%、服务26.80%、环境23.80%、价格8.40%、其他4.70%。写作思路：先总起点题并按占比大小描述数据、突出\"特色居首、价格靠后\"的对比；再从生活水平提高、重体验轻价格两个角度归因；最后表态肯定转变并建议餐厅打磨特色、提升服务而非只拼低价。参考范文见解析页，约150词。",
+    "chart": false
+  }
+]

@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "zy-2015-cloze",
+    "type": "完形填空",
+    "title": "2015年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "In our contemporary culture, the prospect of communicating with – or even looking at – a stranger is virtually unbearable. Everyone around us seems to agree by the way they cling to their phones, even without a (1) on a subway. It's a sad reality – our desire to avoid interacting with other human beings – because there's (2) to be gained from talking to the stranger standing by you. But you wouldn't know it, (3) into your phone. This universal protection sends the (4) : \"Please don't approach me.\" What is it that makes us feel we need to hide (5) our screens? One answer is fear, according to Jon Wortmann, an executive mental coach. We fear rejection, or that our innocent social advances will be (6) as \"weird.\" We fear we'll be (7) . We fear we'll be disruptive. Strangers are inherently (8) to us, so we are more likely to feel (9) when communicating with them compared with our friends and acquaintances. To avoid this uneasiness, we (10) to our phones. \"Phones become our security blanket,\" Wortmann says. \"They are our happy glasses that protect us from what we perceive is going to be more (11) .\" But once we rip off the band-aid, tuck our smartphones in our pockets and look up, it doesn't (12) so bad. In one 2011 experiment, behavioral scientists Nicholas Epley and Juliana Schroeder asked commuters to do the unthinkable: Start a (13) . They had Chicago train commuters talk to their fellow (14) . \"When Dr. Epley and Ms. Schroeder asked other people in the same train station to (15) how they would feel after talking to a stranger, the commuters thought their (16) would be more pleasant if they sat on their own,\" The New York Times summarizes. Though the participants didn't expect a positive experience, after they (17) with the experiment, \"not a single person reported having been embarrassed.\" (18) , these commutes were reportedly more enjoyable compared with those without communication, which makes absolute sense, (19) human beings thrive off of social connections. It's that (20) : Talking to strangers can make you feel connected.",
+    "blanks": [
+      {
+        "opts": [
+          "signal",
+          "permit",
+          "ticket",
+          "record"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：地铁里没信号也照刷手机"
+      },
+      {
+        "opts": [
+          "nothing",
+          "little",
+          "another",
+          "much"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：作者立场：和陌生人聊有收获"
+      },
+      {
+        "opts": [
+          "beaten",
+          "plugged",
+          "guided",
+          "brought"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。线索：你埋头进手机里，所以浑然不觉"
+      },
+      {
+        "opts": [
+          "message",
+          "code",
+          "notice",
+          "sign"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：冒号后是完整一句话内容"
+      },
+      {
+        "opts": [
+          "under",
+          "beyond",
+          "behind",
+          "from"
+        ],
+        "ans": 2,
+        "explain": "答案C（固定搭配）。线索：屏幕是用来挡住自己的"
+      },
+      {
+        "opts": [
+          "misapplied",
+          "misinterpreted",
+          "misadjusted",
+          "mismatched"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。线索：我们怕善意的搭话被解读成'怪异'"
+      },
+      {
+        "opts": [
+          "judged",
+          "fired",
+          "replaced",
+          "delayed"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：三个 We fear 并列，本题为社交担忧"
+      },
+      {
+        "opts": [
+          "unreasonable",
+          "ungrateful",
+          "unconventional",
+          "unfamiliar"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：陌生人本质上对我们是'不熟悉的'"
+      },
+      {
+        "opts": [
+          "comfortable",
+          "confident",
+          "anxious",
+          "angry"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：feel + 与 fear 同向的负面情绪"
+      },
+      {
+        "opts": [
+          "attend",
+          "turn",
+          "take",
+          "point"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。线索：为了躲不安，我们转向手机求助"
+      },
+      {
+        "opts": [
+          "dangerous",
+          "mysterious",
+          "violent",
+          "boring"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：保护 us → 免遭'危险'"
+      },
+      {
+        "opts": [
+          "bend",
+          "resist",
+          "hurt",
+          "decay"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：撕掉创可贴的隐喻：其实没那么疼"
+      },
+      {
+        "opts": [
+          "lecture",
+          "debate",
+          "conversation",
+          "negotiation"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：实验任务＝和陌生人开口聊聊"
+      },
+      {
+        "opts": [
+          "trainees",
+          "employees",
+          "researchers",
+          "passengers"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：commuters 的同身份指代＝passengers"
+      },
+      {
+        "opts": [
+          "reveal",
+          "choose",
+          "predict",
+          "design"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：请受试者先预测搭话后的感受"
+      },
+      {
+        "opts": [
+          "voyage",
+          "flight",
+          "walk",
+          "ride"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：train commuters 的旅程＝乘车 ride"
+      },
+      {
+        "opts": [
+          "went through",
+          "did away",
+          "caught up",
+          "put up"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。线索：受试者完成了实验之后"
+      },
+      {
+        "opts": [
+          "In turn",
+          "In fact",
+          "In particular",
+          "In consequence"
+        ],
+        "ans": 1,
+        "explain": "答案B（逻辑关系）。线索：预期糟糕→实际更愉快：反差"
+      },
+      {
+        "opts": [
+          "unless",
+          "whereas",
+          "if",
+          "since"
+        ],
+        "ans": 3,
+        "explain": "答案D（逻辑关系）。线索：实验结果由人性常识解释"
+      },
+      {
+        "opts": [
+          "funny",
+          "simple",
+          "logical",
+          "rare"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。线索：结论就这么简单"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-read-1",
+    "type": "阅读理解",
+    "title": "2015年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "A new study suggests that contrary to most surveys, people are actually more stressed at home than at work. Researchers measured people's cortisol, which is a stress marker, while they were at work and while they were at home and found it higher at what is supposed to be a place of refuge.\n\n\"Further contradicting conventional wisdom, we found that women as well as men have lower levels of stress at work than at home,\" writes one of the researchers, Sarah Damaske. In fact women even say they feel better at work, she notes. \"It is men, not women, who report being happier at home than at work.\" Another surprise is that the findings hold true for both those with children and without, but more so for nonparents. This is why people who work outside the home have better health.\n\nWhat the study doesn't measure is whether people are still doing work when they're at home, whether it is household work or work brought home from the office. For many men, the end of the workday is a time to kick back. For women who stay home, they never get to leave the office. And for women who work outside the home, they often are playing catch-up with household tasks. With the blurring of roles, and the fact that the home front lags well behind the workplace in making adjustments for working women, it's not surprising that women are more stressed at home.\n\nBut it's not just a gender thing. At work, people pretty much know what they're supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income. The bargain is very pure: Employee puts in hours of physical or mental labor and employee draws out life-sustaining moola.\n\nOn the home front, however, people have no such clarity. Rare is the household in which the division of labor is so clinically and methodically laid out. There are a lot of tasks to be done, there are inadequate rewards for most of them. Your home colleagues – your family – have no clear rewards for their labor; they need to be talked into it, or if they're teenagers, threatened with complete removal of all electronic devices. Plus, they're your family. You cannot fire your family. You never really get to go home from home.\n\nSo it's not surprising that people are more stressed at home. Not only are the tasks apparently infinite, the co-workers are much harder to motivate.",
+    "passage_zh": "一项新研究表明,与大多数调查结果相反,人们实际上在家中比在工作时压力更大。研究人员测量了人们在工作时和在家时的皮质醇水平,这是一种压力标志物,结果发现在本应是避难所的地方,皮质醇水平反而更高。\n\n研究人员之一Sarah Damaske写道:\"进一步违背传统观念的是,我们发现女性和男性一样,在工作时的压力水平低于在家时。\"事实上,她指出,女性甚至表示在工作时感觉更好。\"是男性而非女性,报告说在家比在工作时更快乐。\"另一个令人惊讶的发现是,这些结果对有孩子和没有孩子的人都成立,但对没有孩子的人更为明显。这就是为什么在外工作的人拥有更好的健康状况。\n\n这项研究没有衡量的是,人们在家时是否仍在工作,无论是家务劳动还是从办公室带回家的工作。对许多男性来说,工作日结束是放松的时间。对于待在家里的女性,她们永远无法离开办公室。而对于在外工作的女性,她们常常在追赶家务任务。随着角色的模糊,以及家庭在为职业女性做出调整方面远远落后于职场这一事实,女性在家中压力更大就不足为奇了。\n\n但这不仅仅是性别问题。在工作中,人们很清楚自己应该做什么:工作、赚钱、完成为了获得收入而必须做的任务。这种交换非常纯粹:员工投入体力或脑力劳动的时间,员工获得维持生活的报酬。\n\n然而在家庭方面,人们没有这样的清晰度。很少有家庭能够如此临床化和有条理地安排劳动分工。有很多任务要做,其中大多数任务的回报不足。你的家庭同事——你的家人——他们的劳动没有明确的回报;他们需要被说服,或者如果他们是青少年,需要威胁完全没收所有电子设备。此外,他们是你的家人。你不能解雇你的家人。你永远无法真正从家中回家。\n\n因此,人们在家中压力更大并不令人惊讶。不仅任务显然无穷无尽,同事也更难激励。",
+    "questions": [
+      {
+        "q": "According to Paragraph 1, most previous surveys found that home____.",
+        "opts": [
+          "offered greater relaxation than the workplace",
+          "was an ideal place for stress measurement",
+          "generated more stress than the workplace",
+          "was an unrealistic place for relaxation"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：一项新研究指出，与大多数调查相反，人们其实在家里比在职场更紧张。"
+      },
+      {
+        "q": "According to Damaske, who are likely to be the happiest at home?",
+        "opts": [
+          "Working mothers.",
+          "Childless husbands.",
+          "Working fathers.",
+          "Childless wives."
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：在家里报告“比上班更开心”的是男性而非女性。另一个意外发现是，这一结果在有孩子和无孩子的人群中都成立，但在无孩家庭中更明显。"
+      },
+      {
+        "q": "The blurring of working women's roles refers to the fact that____.",
+        "opts": [
+          "their home is also a place for kicking back",
+          "they are both bread winners and housewives",
+          "there is often much housework left behind",
+          "it is difficult for them to leave their office"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义句意题）。定位：对于在外工作的女性，她们常常在追赶家务进度。由于角色界限模糊，加上家庭这一战线在为职业女性做出调整方面远远落后于职场，难怪女性在家里更紧张。"
+      },
+      {
+        "q": "The word \"moola\" (Line 4, Para. 4) most probably means____.",
+        "opts": [
+          "skills",
+          "energy",
+          "earnings",
+          "nutrition"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义句意题）。定位：这笔交易非常纯粹：员工投入若干小时的体力或脑力劳动，员工从中换取维持生计的 moola。"
+      },
+      {
+        "q": "The home front differs from the workplace in that____.",
+        "opts": [
+          "family labor is often adequately rewarded",
+          "home is hardly a cozier working environment",
+          "household tasks are generally more motivating",
+          "division of labor at home is seldom clear-cut"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：然而在家庭这条战线上，人们没有这种清晰感。少有家庭能把分工那么条理分明地划定出来。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-read-2",
+    "type": "阅读理解",
+    "title": "2015年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "For years, studies have found that first-generation college students – those who do not have a parent with a college degree – lag other students on a range of education achievement factors. Their grades are lower and their dropout rates are higher. But since such students are most likely to advance economically if they succeed in higher education, colleges and universities have pushed for decades to recruit more of them. This has created \"a paradox\" in that recruiting first-generation students, but then watching many of them fail, means that higher education has \"continued to reproduce and widen, rather than close\" an achievement gap based on social class, according to the depressing beginning of a paper forthcoming in the journal Psychological Science.\n\nBut the article is actually quite optimistic, as it outlines a potential solution to this problem, suggesting that an approach (which involves a one-hour, next-to-no-cost program) can close 63 percent of the achievement gap (measured by such factors as grades) between first-generation and other students.\n\nThe authors of the paper are from different universities, and their findings are based on a study involving 147 students (who completed the project) at an unnamed private university. First generation was defined as not having a parent with a four-year college degree. Most of the first-generation students (59.1 percent) were recipients of Pell Grants, a federal grant for undergraduates with financial need, while this was true only for 8.6 percent of the students with at least one parent with a four-year degree.\n\nTheir thesis – that a relatively modest intervention could have a big impact – was based on the view that first-generation students may be most lacking not in potential but in practical knowledge about how to deal with the issues that face most college students. They cite past research by several authors to show that this is the gap that must be narrowed to close the achievement gap.\n\nMany first-generation students \"struggle to navigate the middle-class culture of higher education, learn the 'rules of the game,' and take advantage of college resources,\" they write. And this becomes more of a problem when colleges don't talk about the class advantages and disadvantages of different groups of students. \"Because US colleges and universities seldom acknowledge how social class can affect students' educational experiences, many first-generation students lack insight about why they are struggling and do not understand how students 'like them' can improve.\"",
+    "passage_zh": "多年来,研究发现第一代大学生——即父母均未获得大学学位的学生——在一系列教育成就因素上落后于其他学生。他们的成绩更低,辍学率更高。但由于这类学生如果在高等教育中取得成功,最有可能在经济上获得提升,因此数十年来,各高校一直在努力招收更多这样的学生。这造成了\"一个悖论\":招收第一代大学生,却眼看着他们中的许多人失败,意味着高等教育\"继续再造并扩大,而非缩小\"基于社会阶层的成就差距,正如即将发表在《心理科学》期刊上的一篇论文令人沮丧的开头所指出的那样。\n\n但这篇文章实际上相当乐观,因为它概述了解决这一问题的潜在方案,表明一种方法(涉及一个一小时、几乎零成本的项目)可以缩小第一代大学生与其他学生之间63%的成就差距(以成绩等因素衡量)。\n\n这篇论文的作者来自不同的大学,他们的研究结果基于一项涉及某所未具名私立大学147名学生(完成了该项目)的研究。第一代大学生被定义为父母均未获得四年制大学学位。大多数第一代大学生(59.1%)是Pell助学金的受助者,这是一项面向有经济需求的本科生的联邦助学金,而在至少有一位父母拥有四年制大学学位的学生中,这一比例仅为8.6%。\n\n他们的论点——相对适度的干预可以产生重大影响——基于这样一种观点:第一代大学生最缺乏的可能不是潜力,而是关于如何应对大多数大学生面临问题的实用知识。他们引用了几位作者过去的研究来表明,这正是必须缩小以弥合成就差距的鸿沟。\n\n许多第一代大学生\"难以适应高等教育的中产阶级文化,难以学会'游戏规则',难以利用大学资源\",他们写道。当高校不谈论不同学生群体的阶层优势和劣势时,这就变成了一个更大的问题。\"由于美国高校很少承认社会阶层如何影响学生的教育经历,许多第一代大学生对自己为何挣扎缺乏认识,也不理解'像他们一样'的学生如何才能进步。",
+    "questions": [
+      {
+        "q": "Recruiting more first-generation students has____.",
+        "opts": [
+          "reduced their dropout rates",
+          "narrowed the achievement gap",
+          "missed its original purpose",
+          "depressed college students"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：这造成了一个 \"悖论\"：招收一代生、然后又看着许多人失败，意味着高等教育在基于社会阶层的成绩差距上 \"持续在复制和扩大，而非缩小\"——这是《心理科学》一篇即将发表的论文那段令人沮丧的开头给出的说法。"
+      },
+      {
+        "q": "The authors of the research article are optimistic because____.",
+        "opts": [
+          "their findings appeal to students",
+          "the recruiting rate has increased",
+          "the problem is solvable",
+          "their approach is costless"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：但这篇文章其实相当乐观，因为它勾勒出一个针对这个问题的潜在解决方案——它建议一种方法（包含一个仅一小时、几乎零成本的项目）可以缩小一代生与其他学生之间 63% 的成绩差距。"
+      },
+      {
+        "q": "The study suggests that most first-generation students____.",
+        "opts": [
+          "are from single-parent families",
+          "study at private universities",
+          "are in need of financial support",
+          "have failed their college"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：大多数一代生（59.1%）是 Pell Grants 的获得者——这是一项面向有经济需求的本科生的联邦助学金——而在至少有一方父母拥有四年制学位的学生中，只有 8.6% 是其获得者。"
+      },
+      {
+        "q": "The authors of the paper believe that first-generation students____.",
+        "opts": [
+          "may lack opportunities to apply for research projects",
+          "are inexperienced in handling their issues at college",
+          "can have a potential influence on other students",
+          "are actually indifferent to the achievement gap"
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：他们的论点——一个相对小的干预即可产生大的影响——是基于这样一个看法：一代生最缺的不是潜能，而是关于如何处理大多数大学生面临的问题的实用知识。"
+      },
+      {
+        "q": "We may infer from the last paragraph that____.",
+        "opts": [
+          "universities often reject the culture of the middle-class",
+          "students are usually to blame for their lack of resources",
+          "social class greatly helps enrich educational experiences",
+          "colleges are partly responsible for the problem in question"
+        ],
+        "ans": 3,
+        "explain": "答案D（推断题）。定位：因为美国的大学很少承认社会阶层会如何影响学生的教育经历，许多一代生缺乏对自己为何陷入困境的洞察，也不理解 \"像他们这样\" 的学生如何能改善处境。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-read-3",
+    "type": "阅读理解",
+    "title": "2015年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Even in traditional offices, \"the lingua franca of corporate America has gotten much more emotional and much more right-brained than it was 20 years ago,\" said Harvard Business School professor Nancy Koehn. She started spinning off examples. \"If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion. There were goals, there were strategies, there were objectives, but we didn't talk about energy; we didn't talk about passion.\"\n\nKoehn pointed out that this new era of corporate vocabulary is very \"team\"-oriented – and not by coincidence. \"Let's not forget sports – in male-dominated corporate America, it's still a big deal. It's not explicitly conscious; it's the idea that I'm a coach, and you're my team, and we're in this together. There are lots and lots of CEOs in very different companies, but most think of themselves as coaches and this is their team and they want to win.\"\n\nThese terms are also intended to infuse work with meaning – and, as Rakesh Khurana, another professor, points out, increase allegiance to the firm. \"You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like vision, values, passion, and purpose,\" said Khurana.\n\nThis new focus on personal fulfillment can help keep employees motivated amid increasingly loud debates over work-life balance. The \"mommy wars\" of the 1990s are still going on today, prompting arguments about why women still can't have it all and books like Sheryl Sandberg's Lean In, whose title has become a buzzword in its own right. Terms like unplug, offline, life-hack, bandwidth, and capacity are all about setting boundaries between the office and the home. But if your work is your \"passion,\" you'll be more likely to devote yourself to it, even if that means going home for dinner and then working long after the kids are in bed.\n\nBut this seems to be the irony of office speak: Everyone makes fun of it, but managers love it, companies depend on it, and regular people willingly absorb it. As a linguist once said, \"You can get people to think it's nonsense at the same time that you buy into it.\" In a workplace that's fundamentally indifferent to your life and its meaning, office speak can help you figure out how you relate to your work – and how your work defines who you are.",
+    "passage_zh": "哈佛商学院教授Nancy Koehn说，即使在传统办公室里，\"美国企业界的通用语言也比20年前变得更加感性化、更加偏重右脑思维\"。她开始列举实例。\"如果你我空降回1990年的财富500强公司，我们会发现像旅程、使命、激情这样的词汇使用频率要低得多。那时有目标、有战略、有目的，但我们不谈论能量，不谈论激情。\"\n\nKoehn指出，这个企业词汇的新时代非常强调\"团队\"——这并非巧合。\"我们不要忘记体育运动——在男性主导的美国企业界,它仍然是件大事。这不是明确的有意识行为,而是一种理念:我是教练,你们是我的团队,我们共同奋斗。不同公司有很多很多CEO,但大多数人都把自己看作教练,这是他们的团队,他们想要获胜。\"\n\n这些术语还旨在为工作注入意义——正如另一位教授Rakesh Khurana指出的,增强对公司的忠诚度。Khurana说:\"你看到了历史上曾与非营利组织和宗教组织相关的术语的引入:像愿景、价值观、激情和目标这样的词汇。\"\n\n这种对个人成就感的新关注可以帮助员工在关于工作生活平衡的日益激烈的辩论中保持动力。20世纪90年代的\"妈妈之战\"今天仍在继续,引发了关于为什么女性仍然无法兼顾一切的争论,以及像Sheryl Sandberg的《向前一步》这样的书籍,其标题本身就已成为一个流行语。像拔掉插头、离线、生活窍门、带宽和容量这样的术语都是关于在办公室和家庭之间设定界限。但如果你的工作是你的\"激情所在\",你就更有可能全身心投入其中,即使这意味着回家吃晚饭后在孩子们上床睡觉后还要长时间工作。\n\n但这似乎正是办公室用语的讽刺之处:每个人都嘲笑它,但管理者热爱它,公司依赖它,而普通人也心甘情愿地接受它。正如一位语言学家曾经说过的,\"你可以让人们一边认为它是废话,一边又接受它。\"在一个从根本上对你的生活及其意义漠不关心的职场中,办公室用语可以帮助你弄清楚自己与工作的关系——以及你的工作如何定义你是谁。",
+    "questions": [
+      {
+        "q": "According to Nancy Koehn, office language has become____.",
+        "opts": [
+          "less strategic",
+          "less energetic",
+          "more objective",
+          "more emotional"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：哈佛商学院教授 Nancy Koehn 说：\"美国企业界的通用语已经比 20 年前更感性、更右脑化得多。\""
+      },
+      {
+        "q": "\"Team\"-oriented corporate vocabulary is closely related to ____.",
+        "opts": [
+          "sports culture",
+          "gender difference",
+          "historical incidents",
+          "athletic executives"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：Koehn 指出，这种新时代的企业用语非常 \"团队\" 化——这并非巧合。\"别忘了体育——在男性主导的美国企业界，它依然是件大事。\""
+      },
+      {
+        "q": "Khurana believes that the importation of terminology aims to____.",
+        "opts": [
+          "revive historical terms",
+          "promote company image",
+          "foster corporate cooperation",
+          "strengthen employee loyalty"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：这些用语也意在赋予工作以意义——并且，正如另一位教授 Rakesh Khurana 指出的，增强对公司的忠诚。"
+      },
+      {
+        "q": "It can be inferred that Lean In____.",
+        "opts": [
+          "voices for working women",
+          "appeals to passionate workaholics",
+          "triggers debates among mommies",
+          "praises motivated employees"
+        ],
+        "ans": 0,
+        "explain": "答案A（推断题）。定位：1990 年代的 \"妈妈战争\" 至今仍在继续，引发了关于为什么女性仍无法兼得一切的争论，以及像 Sheryl Sandberg 的 Lean In 这样的书——其书名本身已成为流行语。"
+      },
+      {
+        "q": "Which of the following statements is true about office speak?",
+        "opts": [
+          "Linguists believe it to be nonsense.",
+          "Regular people mock it but accept it.",
+          "Companies find it to be fundamental.",
+          "Managers admire it but avoid it."
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：但这似乎正是 office speak 的反讽之处：人人都拿它取笑，但经理们喜欢它，公司依赖它，普通人也心甘情愿地吸收它。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-read-4",
+    "type": "阅读理解",
+    "title": "2015年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Many people talked of the 288,000 new jobs the Labor Department reported for June, along with the drop in the unemployment rate to 6.1 percent, as good news. And they were right. For now it appears the economy is creating jobs at a decent pace. We still have a long way to go to get back to full employment, but at least we are now finally moving forward at a faster pace.\n\nHowever, there is another important part of the jobs picture that was largely overlooked. There was a big jump in the number of people who report voluntarily working part-time. This figure is now 830,000 (4.4 percent) above its year ago level.\n\nBefore explaining the connection to the Obamacare, it is worth making an important distinction. Many people who work part-time jobs actually want full-time jobs. They take part-time work because this is all they can get. An increase in involuntary part-time work is evidence of weakness in the labor market and it means that many people will be having a very hard time making ends meet.\n\nThere was an increase in involuntary part-time in June, but the general direction has been down. Involuntary part-time employment is still far higher than before the recession, but it is down by 640,000 (7.9 percent) from its year ago level.\n\nWe know the difference between voluntary and involuntary part-time employment because people tell us. The survey used by the Labor Department asks people if they worked less than 35 hours in the reference week. If the answer is \"yes,\" they are classified as working part-time. The survey then asks whether they worked less than 35 hours in that week because they wanted to work less than full time or because they had no choice. They are only classified as voluntary part-time workers if they tell the survey taker they chose to work less than 35 hours a week.\n\nThe issue of voluntary part-time relates to Obamacare because one of the main purposes was to allow people to get insurance outside of employment. For many people, especially those with serious health conditions or family members with serious health conditions, before Obamacare the only way to get insurance was through a job that provided health insurance.\n\nHowever, Obamacare has allowed more than 12 million people to either get insurance through Medicaid or the exchanges. These are people who may previously have felt the need to get a full-time job that provided insurance in order to cover themselves and their families. With Obamacare there is no longer a link between employment and insurance.",
+    "passage_zh": "许多人将劳工部报告的6月新增28.8万个就业岗位以及失业率降至6.1%视为好消息,他们是对的。目前看来,经济正在以适当的速度创造就业岗位。我们距离实现充分就业还有很长的路要走,但至少现在我们终于以更快的速度向前推进了。\n\n然而,就业状况的另一个重要方面在很大程度上被忽视了。报告自愿从事兼职工作的人数出现了大幅增长。这一数字目前比去年同期水平高出83万人(4.4%)。\n\n在解释与Obamacare的联系之前,有必要做一个重要的区分。许多从事兼职工作的人实际上想要全职工作。他们从事兼职工作是因为这是他们能得到的全部。非自愿兼职工作的增加是劳动力市场疲软的证据,这意味着许多人将很难维持生计。\n\n6月份非自愿兼职工作有所增加,但总体趋势是下降的。非自愿兼职就业仍远高于经济衰退前的水平,但比去年同期水平下降了64万人(7.9%)。\n\n我们知道自愿兼职和非自愿兼职就业之间的区别,因为人们告诉了我们。劳工部使用的调查询问人们在参照周内工作时间是否少于35小时。如果答案是肯定的,他们就被归类为兼职工作。然后调查询问他们在那一周工作时间少于35小时是因为想要少于全职工作还是因为别无选择。只有当他们告诉调查人员自己选择每周工作少于35小时时,才会被归类为自愿兼职工作者。\n\n自愿兼职问题与Obamacare相关,因为其主要目的之一是允许人们在就业之外获得保险。对许多人来说,尤其是那些有严重健康问题或家庭成员有严重健康问题的人,在Obamacare出台之前,获得保险的唯一途径是通过提供医疗保险的工作。\n\n然而,Obamacare已使超过1200万人通过Medicaid或交易所获得保险。这些人以前可能觉得有必要找一份提供保险的全职工作,以便为自己和家人提供保障。有了Obamacare,就业和保险之间不再有关联。",
+    "questions": [
+      {
+        "q": "Which part of the jobs picture was neglected?",
+        "opts": [
+          "The prospect of a thriving job market.",
+          "The increase of voluntary part-time jobs.",
+          "The possibility of full employment.",
+          "The acceleration of job creation."
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：然而，就业图景里还有重要的另一块，被很大程度上忽视了：自愿做兼职的人数出现了大幅跃升。"
+      },
+      {
+        "q": "Many people work part-time because they____.",
+        "opts": [
+          "prefer part-time jobs to full-time jobs",
+          "feel that is enough to make ends meet",
+          "cannot get their hands on full-time jobs",
+          "haven't seen the weakness of the market"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：许多做兼职的人其实想要全职；他们之所以做兼职，是因为他们只能找到这样的工作。"
+      },
+      {
+        "q": "Involuntary part-time employment in the US____.",
+        "opts": [
+          "shows a general tendency of decline",
+          "is harder to acquire than one year ago",
+          "satisfies the real need of the jobless",
+          "is lower than before the recession"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：6 月非自愿兼职有所上升，但整体方向一直是向下的。"
+      },
+      {
+        "q": "It can be learned that with Obamacare, ____.",
+        "opts": [
+          "it is no longer easy for part-timers to get insurance",
+          "full-time employment is still essential for insurance",
+          "it is still challenging to get insurance for family members",
+          "employment is no longer a precondition to get insurance"
+        ],
+        "ans": 3,
+        "explain": "答案D（推断题）。定位：有了 Obamacare 之后，就业和保险之间不再有绑定。"
+      },
+      {
+        "q": "The text mainly discusses____.",
+        "opts": [
+          "employment in the US",
+          "part-timer classification",
+          "insurance through Medicaid",
+          "Obamacare's trouble"
+        ],
+        "ans": 0,
+        "explain": "答案A（主旨题）。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-match",
+    "type": "新题型",
+    "title": "2015年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. You are not alone",
+      "B. Experience helps you grow",
+      "C. Pave your own unique path",
+      "D. Most of your fears are unreal",
+      "E. Think about the present moment",
+      "F. Don't fear responsibility for your life",
+      "G. There are many things to be grateful for"
+    ],
+    "paras": [
+      {
+        "text": "Fear is both useful and harmful. This normal human reaction is used to protect us by signaling danger and preparing us to deal with it. Unfortunately, people create inner barriers with the help of exaggerating fears. My favorite actor Will Smith once said, \"Fear is not real. It is a product of thoughts you create. Do not misunderstand me. Danger is very real. But fear is a choice.\" I do completely agree that fears are just the product of our luxuriant imagination.",
+        "ans": 3,
+        "explain": "答案D。主旨：恐惧大多是自己想象出来的、并非真实"
+      },
+      {
+        "text": "If you are surrounded by problems and cannot stop thinking about the past, try to focus on the present moment. Many of us are weighed down by the past or anxious about the future. You may feel guilt over your past, but you are poisoning the present with the things and circumstances you cannot change. Value the present moment and remember how fortunate you are to be alive. Enjoy the beauty of the world around and keep your eyes open to see the possibilities before you. Happiness is not a point in the future and not a moment from the past, but a mindset that can be designed into the present.",
+        "ans": 4,
+        "explain": "答案E。主旨：别困在过去或焦虑未来，专注当下此刻"
+      },
+      {
+        "text": "Sometimes it is easy to feel bad because you are going through tough times. You can be easily caught up by life problems that you forget to pause and appreciate the things you have. Only strong people prefer to smile and value their life instead of crying and complaining about something.",
+        "ans": 6,
+        "explain": "答案G。主旨：别只顾烦恼，停下来珍惜你所拥有的"
+      },
+      {
+        "text": "No matter how isolated you might feel and how serious the situation is, you should always remember that you are not alone. Try to keep in mind that almost everyone respects and wants to help you if you are trying to make a good change in your life, especially your dearest and nearest people. You may have a circle of friends who provide constant good humor, help and companionship. If you have no friends or relatives, try to participate in several online communities, full of people who are always willing to share advice and encouragement.",
+        "ans": 0,
+        "explain": "答案A。主旨：无论多孤立，你都不是一个人、总有人愿帮你"
+      },
+      {
+        "text": "Today many people find it difficult to trust their own opinion and seek balance by gaining objectivity from external sources. This way you devalue your opinion and show that you are incapable of managing your own life. When you are struggling to achieve something important you should believe in yourself and be sure that your decision is the best. You live in your skin, think your own thoughts, have your own values and make your own choices.",
+        "ans": 2,
+        "explain": "答案C。主旨：相信自己的判断、自己做主，别依赖外部"
+      }
+    ]
+  },
+  {
+    "id": "zy-2015-trans",
+    "type": "翻译",
+    "title": "2015年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "Think about driving a route that's very familiar. It could be your commute to work, a trip into town or the way home. Whichever it is, you know every twist and turn like the back of your hand. On these sorts of trips it's easy to lose concentration on the driving and pay little attention to the passing scenery. The consequence is that you perceive that the trip has taken less time than it actually has.\n\nThis is the well-travelled road effect: People tend to underestimate the time it takes to travel a familiar route.\n\nThe effect is caused by the way we allocate our attention. When we travel down a well-known route, because we don't have to concentrate much, time seems to flow more quickly. And afterwards, when we come to think back on it, we can't remember the journey well because we didn't pay much attention to it. So we assume it was shorter.",
+    "passage_zh": "设想一下，你正开车行驶在一条十分熟悉的路上。它可能是你上班的通勤路，可能是进城的一趟，或是回家的路。无论是哪一条，路上的每一处弯道、每一个转角，你都了如指掌。开这类熟路时，人很容易对驾驶本身走神，而对沿途掠过的风景也几乎不加留意。结果就是，你会觉得这趟路花的时间，比它实际花的要少。\n\n这就是「熟路效应」：人们往往会低估走一条熟悉路线所需要的时间。\n\n这种效应源于我们分配注意力的方式。当我们沿着一条熟悉的路线行驶时，由于无需太过集中注意力，时间似乎就过得更快。而事后，当我们回过头去回想这趟行程时，却记不太清了，因为当时我们并没怎么留意它。于是，我们便想当然地以为这趟路花的时间更短。",
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2015-write-s",
+    "type": "写作",
+    "title": "2015年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose your university is going to host a summer camp for high school students. Write a notice to 1)briefly introduce the camp activities, and 2)call for volunteers. You should write about 100 words on the ANSWER SHEET. Do not use your name or the name of your university. Do not write your address. (10 points)",
+    "tips": "【参考范文】\nNotice A summer camp for high school students will be held on our campus from July 20 to July 30. During these ten days, participants will enjoy inspiring lectures, visit our laboratories, and take part in outdoor team activities, which aim to broaden their horizons and enrich their vacation. To make the camp a success, we sincerely call for volunteers. Volunteers will help guide the students, organize activities, and keep order. Anyone who is patient, responsible, and warm-hearted is warmly welcomed. Those interested may sign up by emailing summercamp@office.com before July 10. The Organizing Committee\nJune 25\n\n【参考译文】\n通知 一场面向高中生的夏令营将于7月20日至7月30日在本校校园举行。在这十天里，营员们将聆听精彩讲座、参观我们的实验室、参加户外团队活动，这些活动旨在开阔他们的视野、丰富他们的假期。 为使夏令营圆满成功，我们诚挚招募志愿者。志愿者将协助引导学生、组织活动并维持秩序。凡有耐心、有责任心、热心的同学，我们都热忱欢迎。有意者可于7月10日前发邮件至 summercamp@office.com 报名。 组委会\n6月25日"
+  },
+  {
+    "id": "zy-2015-write-b",
+    "type": "写作",
+    "title": "2015年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the following chart. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)（配图：这张图片是一个三维饼图，显示了四个类别及其相应的百分比占比）",
+    "tips": "【参考范文】\nThe pie chart clearly illustrates how residents in a certain Chinese city spent their money during the Spring Festival holiday. According to the figures, spending on New Year gifts accounted for the largest share, reaching 40% of the total. The remaining expenses were evenly divided, with dining gatherings, transportation and other items each taking up 20%. Several factors may account for this pattern. Firstly, giving gifts is a time-honored tradition through which Chinese people express affection and maintain relationships, so it naturally consumes the biggest portion. Secondly, family reunions and long-distance travel back home are essential parts of the festival, which explains why dining and transportation also weigh heavily. In my view, this spending structure reflects the deep cultural value that Chinese people place on family ties and human relationships. However, we should keep our consumption rational and avoid blindly comparing gifts, so that the festival remains about warmth rather than money.\n\n【参考译文】\n这张饼图清楚地展示了中国某市居民在春节假期期间是如何花钱的。根据数据，新年礼物的花销占比最大，达到总额的40%。其余开销则平均分配，聚会吃饭、交通和其它各占20%。 造成这一格局的原因有几点。首先，送礼是一项历史悠久的传统，中国人借此表达情谊、维系关系，所以它自然占去最大一块。其次，家庭团聚和长途返乡是春节不可或缺的环节，这也解释了为何聚餐和交通的花销同样不小。 在我看来，这样的花销结构折射出中国人极为看重家庭亲情与人情往来。然而，我们也应保持理性消费，不盲目攀比礼物，让节日回归温情，而非金钱。"
+  },
+  {
+    "id": "zy-2016-cloze",
+    "type": "完形填空",
+    "title": "2016年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Happy people work differently. They're more productive, more creative, and willing to take greater risks. And new research suggests that happiness might influence (1) firms work, too. Companies located in places with happier people invest more, according to a recent research paper. (2) , firms in happy places spend more on R&D (research and development). That's because happiness is linked to the kind of longer-term thinking (3) for making investments for the future. The researchers wanted to know if the (4) and inclination for risk-taking that come with happiness would (5) the way companies invested. So they compared U.S. cities' average happiness (6) by Gallup polling with the investment activity of publicly traded firms in those areas. (7) enough, firms' investment and R&D intensity were correlated with the happiness of the area in which they were (8) . But is it really happiness that's linked to investment, or could something else about happier cities (9) why firms there spend more on R&D? To find out, the researchers controlled for various (10) that might make firms more likely to invest – like size, industry, and sales – and for indicators that a place was (11) to live in, like growth in wages or population. The link between happiness and investment generally (12) even after accounting for these things. The correlation between happiness and investment was particularly strong for younger firms, which the authors (13) to \"less codified decision making process\" and the possible presence of \"younger and less (14) managers who are more likely to be influenced by sentiment.\" The relationship was (15) stronger in places where happiness was spread more (16) . Firms seem to invest more in places where most people are relatively happy, rather than in places with happiness inequality. (17) this doesn't prove that happiness causes firms to invest more or to take a longer-term view, the authors believe it at least (18) at that possibility. It's not hard to imagine that local culture and sentiment would help (19) how executives think about the future. \"It surely seems plausible that happy people would be more forward-thinking and creative and (20) R&D more than the average,\" said one researcher.",
+    "blanks": [
+      {
+        "opts": [
+          "why",
+          "how",
+          "where",
+          "when"
+        ],
+        "ans": 1,
+        "explain": "答案B（语法形态）。线索：上句铺垫“工作方式不同”"
+      },
+      {
+        "opts": [
+          "In return",
+          "In particular",
+          "In contrast",
+          "In conclusion"
+        ],
+        "ans": 1,
+        "explain": "答案B（逻辑关系）。线索：下句是上句的子集化具体"
+      },
+      {
+        "opts": [
+          "necessary",
+          "famous",
+          "perfect",
+          "sufficient"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：本句内的因果链"
+      },
+      {
+        "opts": [
+          "individualism",
+          "realism",
+          "optimism",
+          "modernism"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：全文反复出现的“快乐→冒险/前瞻”"
+      },
+      {
+        "opts": [
+          "miss",
+          "echo",
+          "spoil",
+          "change"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：整段研究设问"
+      },
+      {
+        "opts": [
+          "imagined",
+          "measured",
+          "assumed",
+          "invented"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。线索：Gallup polling 是测量工具"
+      },
+      {
+        "opts": [
+          "Sure",
+          "Odd",
+          "Unfortunate",
+          "Often"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。线索：前后预期 vs 结果一致"
+      },
+      {
+        "opts": [
+          "divided",
+          "advertised",
+          "overtaxed",
+          "headquartered"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：前文已反复表述选址"
+      },
+      {
+        "opts": [
+          "summarize",
+          "overstate",
+          "explain",
+          "emphasize"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：研究在排查替代解释"
+      },
+      {
+        "opts": [
+          "factors",
+          "stages",
+          "levels",
+          "methods"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：举例 like size, industry, and sales"
+      },
+      {
+        "opts": [
+          "desirable",
+          "sociable",
+          "reliable",
+          "reputable"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。线索：并列举例 growth in wages or population"
+      },
+      {
+        "opts": [
+          "resumed",
+          "emerged",
+          "held",
+          "broke"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。线索：控制变量后结论仍成立"
+      },
+      {
+        "opts": [
+          "assign",
+          "attribute",
+          "transfer",
+          "compare"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。线索：Y 是给“为何更强”的解释"
+      },
+      {
+        "opts": [
+          "serious",
+          "civilized",
+          "ambitious",
+          "experienced"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：并列 younger + less X 同轴"
+      },
+      {
+        "opts": [
+          "instead",
+          "thus",
+          "also",
+          "never"
+        ],
+        "ans": 2,
+        "explain": "答案C（逻辑关系）。线索：上一句先讲一种条件下更强"
+      },
+      {
+        "opts": [
+          "rapidly",
+          "directly",
+          "regularly",
+          "equally"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：后句 happiness inequality 反推 equally"
+      },
+      {
+        "opts": [
+          "While",
+          "Until",
+          "After",
+          "Since"
+        ],
+        "ans": 0,
+        "explain": "答案A（逻辑关系）。线索：从句否定结论+主句给出弱主张"
+      },
+      {
+        "opts": [
+          "arrives",
+          "jumps",
+          "hints",
+          "strikes"
+        ],
+        "ans": 2,
+        "explain": "答案C（固定搭配）。线索：前句 doesn't prove + 主句 at least"
+      },
+      {
+        "opts": [
+          "share",
+          "rediscover",
+          "simplify",
+          "shape"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。线索：全文主旨 influence/change/help shape"
+      },
+      {
+        "opts": [
+          "pray for",
+          "lean towards",
+          "send out",
+          "give away"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。线索：全文一以贯之的“快乐者更愿投 R&D”"
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-read-1",
+    "type": "阅读理解",
+    "title": "2016年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "It's true that high-school coding classes aren't essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science.\n\nHowever, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses. It's not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said.\n\nStudents also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the less-experienced or less-determined students away.\n\nThe Flatiron School, where people pay to learn programming, started as one of the many coding bootcamps that have become popular for adults looking for a career change. The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood.\n\nThe students in the Flatiron class probably won't drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market. But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina.\n\nIndeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives. The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better.",
+    "passage_zh": "诚然,高中编程课程对于在大学学习计算机科学并非必不可少。卡内基梅隆大学计算机科学学院的副院长Tom Cortina表示,没有经验的学生在学习几门入门课程后就能赶上进度。\n\n然而,Cortina说,早期接触是有益的。当年幼的孩子学习计算机科学时,他们会了解到这不仅仅是令人困惑的、无穷无尽的字母和数字串,而是构建应用程序、创作艺术作品或检验假设的工具。对他们来说,转变思维过程并不像对年龄较大的学生那样困难。将问题分解成小块并使用代码解决它们成为常态。Cortina说,让更多儿童接受这种训练可以增加对该领域感兴趣的人数,并有助于填补就业缺口。\n\n学生在上大学之前学习一些编程知识也会受益,因为大学的计算机科学入门课程人满为患,这可能会让经验较少或决心不够坚定的学生望而却步。\n\nFlatiron School是一所人们付费学习编程的学校,最初是众多编程训练营之一,这些训练营在寻求职业转变的成年人中变得流行起来。高中生接受同样的课程,但教师Victoria Friedman说,\"我们试图让课程面向他们感兴趣的事物\"。例如,学生正在开发的一个应用程序根据你的心情推荐电影。\n\nFlatiron班级的学生可能不会从高中辍学去创建下一个Facebook。编程语言更新换代很快,因此他们学习的Ruby on Rails语言到他们进入就业市场时甚至可能已经不再相关。但北卡罗来纳州教育顾问Deborah Seehorn说,他们学到的技能——如何从逻辑上思考问题并组织结果——适用于任何编程语言。\n\n事实上,Flatiron的学生可能根本不会进入IT行业。但培养未来的程序员大军并非这些课程的唯一目的。这些孩子在他们余生中都将被计算机包围——在他们的口袋里、办公室里、家里。他们越早学会计算机如何思考,如何哄骗机器产出他们想要的东西——越早学会他们有能力做到这一点——就越好。",
+    "questions": [
+      {
+        "q": "Cortina holds that early exposure to computer science makes it easier to____.",
+        "opts": [
+          "complete future job training",
+          "remodel the way of thinking",
+          "formulate logical hypotheses",
+          "perfect artwork production"
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：当年幼的孩子学习计算机科学时，他们会明白它不只是令人困惑的、没完没了的字母与数字串——而是用来开发应用、创作艺术作品或检验假设的工具。对他们来说，改变思维方式不像对年纪大些的学生那样困难。"
+      },
+      {
+        "q": "In delivering lessons for high-schoolers, Flatiron has considered their____.",
+        "opts": [
+          "experience",
+          "interest",
+          "career prospects",
+          "academic backgrounds"
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：高中生上的是同样的课程，但教师 Victoria Friedman 说：\"我们会努力把课程内容朝向他们感兴趣的方向去调整。\""
+      },
+      {
+        "q": "Deborah Seehorn believes that the skills learned at Flatiron will____.",
+        "opts": [
+          "help students learn other computer languages",
+          "have to be upgraded when new technologies come",
+          "need improving when students look for jobs",
+          "enable students to make big quick money"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：但 Deborah Seehorn——北卡罗来纳州的一位教育顾问——说，他们学到的技能，即如何对一个问题进行逻辑思考并组织结果，适用于任何编程语言。"
+      },
+      {
+        "q": "According to the last paragraph, Flatiron students are expected to____.",
+        "opts": [
+          "bring forth innovative computer technologies",
+          "stay longer in the information technology industry",
+          "become better prepared for the digitalized world",
+          "compete with a future army of programmers"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：这些孩子在余生中将被电脑包围——口袋里、办公室里、家里都是电脑。他们越早学会电脑如何思考、如何让机器做出自己想要的东西，越早明白自己有这种能力，就越好。"
+      },
+      {
+        "q": "The word \"coax\" (Line 4, Para. 6) is closest in meaning to____.",
+        "opts": [
+          "persuade",
+          "frighten",
+          "misguide",
+          "challenge"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义句意题）。定位：他们越早学会电脑如何思考、如何\"哄\"机器做出自己想要的东西——越早明白自己有这种能力——就越好。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-read-2",
+    "type": "阅读理解",
+    "title": "2016年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Biologists estimate that as many as 2 million lesser prairie chickens – a kind of bird living on stretching grasslands – once lent red to the often grey landscape of the midwestern and southwestern United States. But just some 22,000 birds remain today, occupying about 16% of the species' historic range.\n\nThe crash was a major reason the U.S. Fish and Wildlife Service (USFWS) decided to formally list the bird as threatened. \"The lesser prairie chicken is in a desperate situation,\" said USFWS Director Daniel Ashe. Some environmentalists, however, were disappointed. They had pushed the agency to designate the bird as \"endangered,\" a status that gives federal officials greater regulatory power to crack down on threats. But Ashe and others argued that the \"threatened\" tag gave the federal government flexibility to try out new, potentially less confrontational conservation approaches. In particular, they called for forging closer collaborations with western state governments, which are often uneasy with federal action, and with the private landowners who control an estimated 95% of the prairie chicken's habitat.\n\nUnder the plan, for example, the agency said it would not prosecute landowners or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat. Negotiated by USFWS and the states, the plan requires individuals and businesses that damage habitat as part of their operations to pay into a fund to replace every acre destroyed with 2 new acres of suitable habitat. The fund will also be used to compensate landowners who set aside habitat. USFWS also set an interim goal of restoring prairie chicken populations to an annual average of 67,000 birds over the next 10 years. And it gives the Western Association of Fish and Wildlife Agencies (WAFWA), a coalition of state agencies, the job of monitoring progress. Overall, the idea is to let \"states remain in the driver's seat for managing the species,\" Ashe said.\n\nNot everyone buys the win-win rhetoric. Some Congress members are trying to block the plan, and at least a dozen industry groups, four states, and three environmental groups are challenging it in federal court. Not surprisingly, industry groups and states generally argue it goes too far; environmentalists say it doesn't go far enough. \"The federal government is giving responsibility for managing the bird to the same industries that are pushing it to extinction,\" says biologist Jay Lininger.",
+    "passage_zh": "生物学家估计，曾有多达200万只小草原松鸡——一种生活在广袤草原上的鸟类——为美国中西部和西南部常常灰暗的景观增添了红色。但如今仅剩约22000只鸟，占据该物种历史分布范围的约16%。\n\n数量骤减是美国鱼类及野生动物管理局(USFWS)决定正式将该鸟列为受威胁物种的主要原因。USFWS局长Daniel Ashe说：\"小草原松鸡正处于绝望的境地。\"然而,一些环保人士感到失望。他们曾敦促该机构将这种鸟指定为\"濒危\"物种,这一地位赋予联邦官员更大的监管权力来打击威胁。但Ashe和其他人辩称,\"受威胁\"标签赋予联邦政府灵活性,可以尝试新的、潜在冲突较少的保护方法。特别是,他们呼吁与西部各州政府建立更紧密的合作关系,这些州政府往往对联邦行动感到不安,并与控制着估计95%的草原松鸡栖息地的私人土地所有者合作。\n\n例如,根据该计划,该机构表示不会起诉无意中杀死、伤害或干扰该鸟的土地所有者或企业,只要他们签署了恢复草原松鸡栖息地的全面管理计划。该计划由USFWS和各州协商制定,要求在其运营过程中破坏栖息地的个人和企业向一个基金支付费用,用每2英亩合适的栖息地替换被破坏的每1英亩。该基金还将用于补偿那些预留栖息地的土地所有者。USFWS还设定了一个中期目标,即在未来10年内将草原松鸡种群恢复到年平均67000只。它还将监测进展的工作交给西部鱼类和野生动物机构协会(WAFWA),这是一个州级机构联盟。总体而言,其理念是让\"各州在管理该物种方面保持主导地位\",Ashe说。\n\n并非所有人都认同这种双赢的说辞。一些国会议员正试图阻止该计划,至少有十几个行业团体、四个州和三个环保组织正在联邦法院对其提出质疑。不出所料,行业团体和各州普遍认为该计划走得太远;环保人士则说它做得还不够。生物学家Jay Lininger说:\"联邦政府正将管理这种鸟的责任交给那些正在将它推向灭绝的行业。",
+    "questions": [
+      {
+        "q": "The major reason for listing the lesser prairie chicken as threatened is____.",
+        "opts": [
+          "its drastically decreased population",
+          "the underestimate of the grassland acreage",
+          "a desperate appeal from some biologists",
+          "the insistence of private landowners"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：生物学家估计曾有多达 200 万只小草原松鸡为美国中西部和西南部常为灰色的景观增添了一抹红色。但今天只剩约 22,000 只，分布范围只占该物种历史栖息地的 16%。这一种群崩溃是美国鱼类与野生动植物管理局（USFWS）正式将其列为 threatened 的主要原因。"
+      },
+      {
+        "q": "The \"threatened\" tag disappointed some environmentalists in that it____.",
+        "opts": [
+          "was a give-in to governmental pressure",
+          "would involve fewer agencies in action",
+          "granted less federal regulatory power",
+          "went against conservation policies"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：然而，一些环保主义者感到失望。他们曾推动该机构把这鸟定为 \"endangered\"（濒危）——这一身份赋予联邦官员更大的监管权力以打击威胁。"
+      },
+      {
+        "q": "It can be learned from Paragraph 3 that unintentional harm-doers will not be prosecuted if they____.",
+        "opts": [
+          "agree to pay a sum for compensation",
+          "volunteer to set up an equally big habitat",
+          "offer to support the WAFWA monitoring job",
+          "promise to raise funds for USFWS operations"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：比如根据该计划，机构表示，只要无意杀伤、骚扰该鸟的地主或企业签署了一份全域管理方案以恢复松鸡栖息地，就不会被追诉。这份由 USFWS 与各州协商制定的方案要求，因经营活动破坏栖息地的个人和企业向一项基金交款，按 \"毁一英亩补两英亩适宜栖息地\" 的标准赔付。"
+      },
+      {
+        "q": "According to Ashe, the leading role in managing the species is____.",
+        "opts": [
+          "the federal government",
+          "the wildlife agencies",
+          "the landowners",
+          "the states"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：Ashe 表示，总体思路是让 \"各州继续坐在管理这一物种的驾驶位上\"。"
+      },
+      {
+        "q": "Jay Lininger would most likely support____.",
+        "opts": [
+          "industry groups",
+          "the win-win rhetoric",
+          "environmental groups",
+          "the plan under challenge"
+        ],
+        "ans": 2,
+        "explain": "答案C（推断题）。定位：并非所有人都买账这套 \"双赢\" 说辞。一些国会议员正试图阻止该方案；至少十几个行业团体、四个州、三个环保团体已在联邦法院提起诉讼。不出所料，行业团体和各州普遍认为方案过头，而环保人士则认为远远不够。生物学家 Jay Lininger 说：\"联邦政府正把管理这鸟的责任，交给那些正在把它推向灭绝的同一批行业。\""
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-read-3",
+    "type": "阅读理解",
+    "title": "2016年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "That everyone's too busy these days is a cliché. But one specific complaint is made especially mournfully: There's never any time to read.\n\nWhat makes the problem thornier is that the usual time-management techniques don't seem sufficient. The web's full of articles offering tips on making time to read: \"Give up TV\" or \"Carry a book with you at all times.\" But in my experience, using such methods to free up the odd 30 minutes doesn't work. Sit down to read and the flywheel of work-related thoughts keeps spinning – or else you're so exhausted that a challenging book's the last thing you need. The modern mind, Tim Parks, a novelist and critic, writes, \"is overwhelmingly inclined toward communication… It is not simply that one is interrupted; it is that one is actually inclined to interruption.\" Deep reading requires not just time, but a special kind of time which can't be obtained merely by becoming more efficient.\n\nIn fact, \"becoming more efficient\" is part of the problem. Thinking of time as a resource to be maximised means you approach it instrumentally, judging any given moment as well spent only in so far as it advances progress toward some goal. Immersive reading, by contrast, depends on being willing to risk inefficiency, goallessness, even time-wasting. Try to slot it in as a to-do list item and you'll manage only goal-focused reading – useful, sometimes, but not the most fulfilling kind. \"The future comes at us like empty bottles along an unstoppable and nearly infinite conveyor belt,\" writes Gary Eberle in his book Sacred Time, and \"we feel a pressure to fill these different-sized bottles (days, hours, minutes) as they pass, for if they get by without being filled, we will have wasted them.\" No mind-set could be worse for losing yourself in a book.\n\nSo what does work? Perhaps surprisingly, scheduling regular times for reading. You'd think this might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us \"step outside time's flow\" into \"soul time.\" You could limit distractions by reading only physical books, or on single-purpose e-readers. \"Carry a book with you at all times\" can actually work, too – providing you dip in often enough, so that reading becomes the default state from which you temporarily surface to take care of business, before dropping back down. On a really good day, it no longer feels as if you're \"making time to read,\" but just reading, and making time for everything else.",
+    "passage_zh": "如今每个人都太忙了,这已是陈词滥调。但有一种抱怨尤其令人哀伤:永远没有时间阅读。\n\n让这个问题更棘手的是,通常的时间管理技巧似乎并不够用。网上充斥着提供腾出时间阅读建议的文章:\"放弃看电视\"或\"随时随地带本书\"。但根据我的经验,用这些方法来挤出零星的30分钟并不奏效。坐下来阅读时,与工作相关的思绪飞轮依然转个不停——要么就是你疲惫不堪,一本有挑战性的书是你最不需要的东西。小说家兼评论家Tim Parks写道,现代人的思维\"压倒性地倾向于交流……问题不仅仅在于一个人被打断;而在于一个人实际上倾向于被打断\"。深度阅读不仅需要时间,还需要一种特殊的时间,这种时间无法仅仅通过提高效率来获得。\n\n事实上,\"提高效率\"本身就是问题的一部分。把时间视为需要最大化利用的资源,意味着你会工具性地对待它,仅仅根据某个时刻是否推进了某个目标的进展来判断它是否被妥善利用。相比之下,沉浸式阅读依赖于愿意冒无效率、无目标甚至浪费时间的风险。试图把它作为待办事项清单中的一项塞进去,你只能做到目标导向的阅读——有时有用,但不是最令人满足的那种。Gary Eberle在其著作《神圣时间》中写道:\"未来像空瓶子一样沿着一条无法停止且几乎无限的传送带向我们涌来\",\"我们感到一种压力,要在这些不同大小的瓶子(天、小时、分钟)经过时填满它们,因为如果它们没被填满就过去了,我们就浪费了它们\"。没有哪种心态比这更不利于让自己沉浸在一本书中。\n\n那么什么方法有效呢?或许令人惊讶的是,安排固定的阅读时间。你可能会认为这会助长效率心态,但事实上,Eberle指出,这种仪式化行为帮助我们\"走出时间的流动\"进入\"灵魂时间\"。你可以通过只阅读纸质书或专用电子阅读器来减少干扰。\"随时随地带本书\"实际上也能奏效——只要你足够频繁地翻阅,让阅读成为默认状态,你只是暂时从中浮出水面来处理事务,然后再沉回去。在真正美好的一天,你不再觉得自己是在\"腾出时间阅读\",而只是在阅读,并为其他一切事情腾出时间。",
+    "questions": [
+      {
+        "q": "The usual time-management techniques don't work because____.",
+        "opts": [
+          "what they can offer does not ease the modern mind",
+          "what challenging books demand is repetitive reading",
+          "what people often forget is carrying a book with them",
+          "what deep reading requires cannot be guaranteed"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：深度阅读所需要的不仅是时间，而是一种特殊的时间，这种时间不是仅靠提升效率就能得到的。"
+      },
+      {
+        "q": "The \"empty bottles\" metaphor illustrates that people feel a pressure to____.",
+        "opts": [
+          "update their to-do lists",
+          "make passing time fulfilling",
+          "carry their plans through",
+          "pursue carefree reading"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义句意题）。定位：\"未来像传送带上一只只空瓶子一样朝我们涌来\"，Gary Eberle 在《神圣时间》里写道，\"我们感到一种压力，要把不同大小的瓶子（日、时、分）在它们经过时一个个装满，因为如果它们空着流过去，我们就等于浪费了它们。\""
+      },
+      {
+        "q": "Eberle would agree that scheduling regular times for reading helps____.",
+        "opts": [
+          "encourage the efficiency mind-set",
+          "develop online reading habits",
+          "promote ritualistic reading",
+          "achieve immersive reading"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：你可能会觉得这反而会助长效率思维，但事实上，Eberle 指出，这种仪式化的行为能帮我们\"跳出时间的洪流\"，进入\"灵魂时间\"。"
+      },
+      {
+        "q": "\"Carry a book with you at all times\" can work if____.",
+        "opts": [
+          "reading becomes your primary business of the day",
+          "all the daily business has been promptly dealt with",
+          "you are able to drop back to business after reading",
+          "time can be evenly split for reading and business"
+        ],
+        "ans": 0,
+        "explain": "答案A（细节题）。定位：\"随身带本书\"也确实有效——前提是你要经常翻读，让阅读变成你的默认状态，你只是偶尔短暂地浮出水面去处理事务，然后再沉回阅读里去。"
+      },
+      {
+        "q": "The best title for this text could be____.",
+        "opts": [
+          "How to Enjoy Easy Reading",
+          "How to Find Time to Read",
+          "How to Set Reading Goals",
+          "How to Read Extensively"
+        ],
+        "ans": 1,
+        "explain": "答案B（主旨题）。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-read-4",
+    "type": "阅读理解",
+    "title": "2016年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Against a backdrop of drastic changes in economy and population structure, younger Americans are drawing a new 21st-century road map to success, the latest poll has found.\n\nAcross generational lines, Americans continue to prize many of the same traditional milestones of a successful life, including getting married, having children, owning a home, and retiring in their sixties. But while young and old mostly agree on what constitutes the finish line of a fulfilling life, they offer strikingly different paths for reaching it.\n\nYoung people who are still getting started in life were more likely than older adults to prioritize personal fulfillment in their work, to believe they will advance their careers most by regularly changing jobs, to favor communities with more public services and a faster pace of life, to agree that couples should be financially secure before getting married or having children, and to maintain that children are best served by two parents working outside the home, the survey found.\n\nFrom career to community and family, these contrasts suggest that in the aftermath of the searing Great Recession, those just starting out in life are defining priorities and expectations that will increasingly spread through virtually all aspects of American life, from consumer preferences to housing patterns to politics.\n\nYoung and old converge on one key point: Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations. While younger people are somewhat more optimistic than their elders about the prospects for those starting out today, big majorities in both groups believe those \"just getting started in life\" face a tougher climb than earlier generations in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing.\n\nPete Schneider considers the climb tougher today. Schneider, a 27-year-old auto technician from the Chicago suburbs, says he struggled to find a job after graduating from college. Even now that he is working steadily, he said, \"I can't afford to pay my monthly mortgage payments on my own, so I have to rent rooms out to people to make that happen.\" Looking back, he is struck that his parents could provide a comfortable life for their children even though neither had completed college when he was young. \"I still grew up in an upper middle-class home with parents who didn't have college degrees,\" Schneider said. \"I don't think people are capable of that anymore.\"",
+    "passage_zh": "最新民意调查发现，在经济和人口结构发生剧烈变化的背景下，美国年轻一代正在绘制一幅通往成功的21世纪新路线图。\n\n跨越代际界线，美国人继续珍视许多相同的传统成功人生里程碑,包括结婚、生育子女、拥有住房以及在六十多岁退休。但是,尽管年轻人和老年人在充实人生的终点线是什么这一问题上基本达成一致,他们却为实现这一目标提供了截然不同的路径。\n\n调查发现,仍处于人生起步阶段的年轻人比老年人更有可能将工作中的个人满足感放在优先位置,相信他们通过定期更换工作最能推进职业发展,偏好拥有更多公共服务和更快生活节奏的社区,认同夫妻应在经济上有保障后再结婚或生育子女,并坚持认为父母双方都外出工作最有利于子女成长。\n\n从职业到社区再到家庭,这些对比表明,在严重的大衰退之后,那些刚开始人生旅程的人正在确定优先事项和期望,这些将日益扩散到美国生活的几乎所有方面,从消费偏好到住房模式再到政治。\n\n年轻人和老年人在一个关键点上达成一致:两个群体中的压倒性多数都表示,他们认为今天的年轻人开始人生比早期几代人更加困难。尽管年轻人对今天起步者的前景比他们的长辈稍微乐观一些,但两个群体中的绝大多数都认为那些\"刚开始人生\"的人在实现诸如获得一份薪酬优厚的工作、组建家庭、管理债务和找到负担得起的住房等标志性成就方面,比早期几代人面临更艰难的攀登。\n\nPete Schneider认为今天的攀登更加艰难。Schneider是来自芝加哥郊区的一名27岁汽车技师,他说自己大学毕业后很难找到工作。即使现在有了稳定的工作,他说:\"我无法独自负担每月的抵押贷款,所以我不得不把房间租给别人来实现这一点。\"回首往事,他惊讶于他的父母能够为子女提供舒适的生活,尽管在他年幼时父母双方都没有完成大学学业。\"我仍然是在一个中上层阶级家庭中长大的,父母都没有大学学位,\"Schneider说。\"我认为人们不再有能力做到这一点了。",
+    "questions": [
+      {
+        "q": "One cross-generation mark of a successful life is____.",
+        "opts": [
+          "trying out different lifestyles",
+          "having a family with children",
+          "working beyond retirement age",
+          "setting up a profitable business"
+        ],
+        "ans": 1,
+        "explain": "答案B（细节题）。定位：跨越代际的分野，美国人依然珍视诸多相同的、传统的成功人生里程碑，包括结婚、生育子女、拥有住房，以及在六十多岁时退休。"
+      },
+      {
+        "q": "It can be learned from Paragraph 3 that young people tend to____.",
+        "opts": [
+          "favor a slower life pace",
+          "hold an occupation longer",
+          "attach importance to pre-marital finance",
+          "give priority to childcare outside the home"
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：调查发现，那些还在人生起步阶段的年轻人比年长者更倾向于：把工作中的个人满足感放在首位、相信靠经常跳槽最能让事业上升、偏爱公共服务更多且生活节奏更快的社区、同意夫妇在结婚或生子之前应当先实现财务稳定、坚持认为孩子由双职工父母抚养是最好的。"
+      },
+      {
+        "q": "The priorities and expectations defined by the young will____.",
+        "opts": [
+          "become increasingly clear",
+          "focus on materialistic issues",
+          "depend largely on political preferences",
+          "reach almost all aspects of American life"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：从职业到社区再到家庭，这些代际反差表明：在惨烈的大衰退之后，那些刚刚起步的人正在确立的优先级与预期，将日益渗透到美国生活的几乎所有方面——从消费偏好到住房模式到政治。"
+      },
+      {
+        "q": "Both young and old agree that____.",
+        "opts": [
+          "good-paying jobs are less available",
+          "the old made more life achievements",
+          "housing loans today are easy to obtain",
+          "getting established is harder for the young"
+        ],
+        "ans": 3,
+        "explain": "答案D（细节题）。定位：两个群体中的绝大多数人都说，他们相信如今的年轻人在人生起步上比之前几代人更难。"
+      },
+      {
+        "q": "Which of the following is true about Schneider?",
+        "opts": [
+          "He found a dream job after graduating from college.",
+          "His parents believe working steadily is a must for success.",
+          "His parents' good life has little to do with a college degree.",
+          "He thinks his job as a technician quite challenging."
+        ],
+        "ans": 2,
+        "explain": "答案C（细节题）。定位：\"我还是在一个父母都没有大学学历的中上层家庭长大的，\" Schneider 说。\"我觉得现在的人已经做不到这一点了。\""
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-match",
+    "type": "新题型",
+    "title": "2016年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. Be silly",
+      "B. Have fun",
+      "C. Ask for help",
+      "D. Express your emotions",
+      "E. Don't overthink it",
+      "F. Be easily pleased",
+      "G. Notice things"
+    ],
+    "paras": [
+      {
+        "text": "What does a child do when he's sad? He cries. When he's angry? He shouts. Scared? Probably a bit of both. As we grow up, we learn to control our emotions so they are manageable and don't dictate our behaviours, which is in many ways a good thing. But too often we take this process too far and end up suppressing emotions, especially negative ones. That's about as effective as brushing dirt under a carpet and can even make us ill. What we need to do is find a way to acknowledge and express what we feel appropriately, and then – again, like children – move on.",
+        "ans": 3,
+        "explain": "答案D。主旨：承认并恰当表达情绪"
+      },
+      {
+        "text": "A couple of Christmases ago, my youngest stepdaughter, who was nine years old at the time, got a Superman T-shirt for Christmas. It cost less than a fiver but she was overjoyed, and couldn't stop talking about it. Too often we believe that a new job, bigger house or better car will be the magic silver bullet that will allow us to finally be content, but the reality is these things have very little lasting impact on our happiness levels. Instead, being grateful for small things every day is a much better way to improve wellbeing.",
+        "ans": 5,
+        "explain": "答案F。主旨：为小事感恩、易满足"
+      },
+      {
+        "text": "Have you ever noticed how much children laugh? If we adults could indulge in a bit of silliness and giggling, we would reduce the stress hormones in our bodies, increase good hormones like endorphins, improve blood flow to our hearts and even have a greater chance of fighting off infection. All of which would, of course, have a positive effect on our happiness levels.",
+        "ans": 0,
+        "explain": "答案A。主旨：多笑、放任傻气嬉闹"
+      },
+      {
+        "text": "The problem with being a grownup is that there's an awful lot of serious stuff to deal with – work, mortgage payments, figuring out what to cook for dinner. But as adults we also have the luxury of being able to control our own diaries and it's important that we schedule in time to enjoy the things we love. Those things might be social, sporting, creative or completely random (dancing around the living room, anyone?) – it doesn't matter, so long as they're enjoyable, and not likely to have negative side effects, such as drinking too much alcohol or going on a wild spending spree if you're on a tight budget.",
+        "ans": 1,
+        "explain": "答案B。主旨：腾出时间做喜欢的事"
+      },
+      {
+        "text": "Having said all of the above, it's important to add that we shouldn't try too hard to be happy. Scientists tell us this can backfire and actually have a negative impact on our wellbeing. As the Chinese philosopher Chuang Tzu is reported to have said: \"Happiness is the absence of striving for happiness.\" And in that, once more, we need to look to the example of our children, to whom happiness is not a goal but a natural byproduct of the way they live.",
+        "ans": 4,
+        "explain": "答案E。主旨：别太刻意追求幸福"
+      }
+    ]
+  },
+  {
+    "id": "zy-2016-trans",
+    "type": "翻译",
+    "title": "2016年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "The supermarket is designed to lure customers into spending as much time as possible within its doors. The reason for this is simple: The longer you stay in the store, the more stuff you'll see, and the more stuff you see, the more you'll buy. And supermarkets contain a lot of stuff. The average supermarket, according to the Food Marketing Institute, carries some 44,000 different items, and many carry tens of thousands more. The sheer volume of available choice is enough to send shoppers into a state of information overload. According to brain-scan experiments, the demands of so much decision-making quickly become too much for us. After about 40 minutes of shopping, most people stop struggling to be rationally selective, and instead begin shopping emotionally – which is the point at which we accumulate the 50 percent of stuff in our cart that we never intended buying.",
+    "passage_zh": "超市的设计就是为了诱使顾客在店内逗留尽可能长的时间。这样做的原因很简单：你在店里待得越久，看到的商品就越多；而看到的商品越多，买得也就越多。而超市里有大量商品。据食品营销协会称，一家普通超市经营着约 44000 种不同的商品，许多超市经营的种类还要多出数万种。可供选择的商品数量之大，足以使购物者陷入信息过载的状态。脑部扫描实验表明，要做这么多决定所带来的负担，很快就会让我们吃不消。购物大约 40 分钟之后，大多数人就不再努力保持理性的挑选，反而开始凭情绪购物——而正是在这时，我们把购物车里那 50% 自己从没打算买的商品堆积了起来。",
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2016-write-s",
+    "type": "写作",
+    "title": "2016年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose you won a translation contest and your friend, Jack, wrote an email to congratulate you and ask for advice on translation. Write him a reply to 1)thank him, and 2)give your advice. You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead. Do not write your address. (10 points)",
+    "tips": "【参考范文】\nDear Jack, Thank you so much for your warm congratulations on my winning the translation contest. Your kind words mean a lot to me, and I am truly delighted to share the good news with a friend like you. As for translation, here are a few tips I found helpful. First, read plenty of bilingual texts and collect fixed expressions, which sharpen your sense of both languages. Second, understand the whole sentence before you start, rather than translating word by word. Finally, keep practising and revising your drafts, since skill grows only through steady effort. Yours,\nLi Ming\n\n【参考译文】\n亲爱的杰克： 非常感谢你为我在翻译比赛中获奖发来温暖的祝贺。你的话对我意义重大，能把这个好消息和你这样的朋友分享，我真的很开心。 说到翻译，这里有几条我觉得很有用的小建议。第一，多读双语对照的材料，积累固定表达，这能磨练你对两种语言的语感。第二，动笔前先理解整句话的意思，而不是逐字翻译。最后，坚持多练、勤改草稿，因为能力只有靠持续努力才会长进。 此致\n李明"
+  },
+  {
+    "id": "zy-2016-write-b",
+    "type": "写作",
+    "title": "2016年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)（配图：这张图片是一个饼图，图中的每个扇形代表了一个类别，并标有各自的百分比）",
+    "tips": "【参考范文】\nThe pie chart clearly illustrates the various purposes that drive students at a certain university to travel. As is shown, appreciating scenery ranks first, accounting for 37 percent, closely followed by relieving stress at 33 percent. In contrast, making friends and cultivating independence lie at the bottom, occupying merely 9 and 6 percent respectively. What the chart reveals is well worth pondering. The dominance of enjoying scenery and easing pressure can be attributed to the heavy academic burden that students shoulder today. Travelling offers them a precious chance to embrace nature and unwind, thus recharging for further study. Meanwhile, few regard travel as a means to make friends or foster independence, which suggests that many still overlook its social and educational value. In my view, students should broaden their vision of travel. Rather than merely a way to relax, it can also cultivate independence and enrich friendships if approached thoughtfully.\n\n【参考译文】\n这张饼图清晰地展示了某高校学生外出旅游的各种目的。如图所示，欣赏风景占比最高，达到 37%，紧随其后的是缓解压力，占 33%。相比之下，广交朋友与培养独立能力位居末端，分别仅占 9% 和 6%。 图表所揭示的现象值得深思。欣赏风景与缓解压力之所以占主导，可归因于当今学生所承受的沉重学业负担。旅游为他们提供了亲近自然、放松身心的宝贵机会，从而为后续学习充电。与此同时，很少有人把旅游视为结交朋友或培养独立的途径，这说明许多人仍然忽视了它在社交与成长方面的价值。 在我看来，学生应当拓宽对旅游的认识。旅游不应只是一种放松方式，若安排得当，它同样能锻炼独立、增进友谊。"
+  }
+]

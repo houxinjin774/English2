@@ -1,0 +1,20 @@
+{
+  "id": "merged",
+  "title": "考研英语二工作台",
+  "properties": [
+    {"id":"f1","name":"题型","type":"select","config":{"options":[]}},
+    {"id":"f2","name":"练习名","type":"text"},
+    {"id":"f3","name":"得分","type":"number"},
+    {"id":"f4","name":"满分","type":"number"},
+    {"id":"f5","name":"用时分钟","type":"number"},
+    {"id":"f6","name":"日期","type":"date"},
+    {"id":"f7","name":"错题笔记","type":"text"},
+    {"id":"f8","name":"单词","type":"text"},
+    {"id":"f9","name":"释义","type":"text"},
+    {"id":"f10","name":"掌握度","type":"select","config":{"options":[]}},
+    {"id":"f11","name":"添加日期","type":"date"},
+    {"id":"f12","name":"任务","type":"text"},
+    {"id":"f13","name":"状态","type":"select","config":{"options":[]}},
+    {"id":"f14","name":"类型","type":"select","config":{"options":[]}}
+  ]
+}

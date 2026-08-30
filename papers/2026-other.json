@@ -1,0 +1,286 @@
+[
+  {
+    "id": "zy-2026-cloze",
+    "type": "完形填空",
+    "title": "2026年真题 · 完形填空",
+    "score": 10,
+    "minutes": 12,
+    "passage": "Most of us strive for self-respect — to see ourselves in a positive light, to be ___1___ of who we are. Any comments or experiences that undermine those feelings of self-worth can be uncomfortable and it's only ___2___ to want to avoid them. But the thing is, ___3___ your self-worth really is being undermined is, to a large degree, subjective. Much of it comes down to your ___4___ of what someone said or did.\nWhen you take things personally, you're interpreting these situations as saying something significant and negative about you as a person. Say your boss picks holes in your sales report, and you come away feeling like this means she thinks you're a ___5___ member of staff. Or, two of your friends cancel your ___6___ get-together at the pub and you interpret this as meaning they're bored of you. Psychologists have a ___7___ for this way of thinking: personalisation.\nBut the ___8___ is that your boss might view you very highly. It's just you made some ___9___ in the report and she wanted to point these out so that you do better next time. ___10___, in the case of your friends cancelling, perhaps they both felt unwell that weekend or they just ___11___ their minds.\nIn both ___12___ — and others that we all experience — there's another ___13___ at work that psychologists call mind reading. This is when you assume to know what other people are thinking about you, when you can't really know without ___14___ them directly.\nOne simple way to avoid ___15___ personalisation and mind reading is to challenge your negative assumptions of what's ___16___. When you find yourself taking a situation personally, try to think of other interpretations that are less focused on you — especially in the sense of saying anything deep or ___17___ about you.\nWhen you do this, it might help to try to put yourself in other people's shoes. The fact your boss took the time to give you ___18___ at all means they care enough to want to help you ___19___. When it comes to your friends — maybe it's because your friendship is so ___20___ that they felt able to cancel at late notice.",
+    "passage_zh": "我们大多数人都追求自尊——以积极的眼光看待自己，为自己感到自豪。任何削弱这些自我价值感的评论或经历都会让人不舒服，想要避免它们是很自然的。但问题在于，你的自我价值是否真的受到了削弱，在很大程度上是主观的。这在很大程度上取决于你对某人所说或所做之事的理解。\n当你把事情往心里去时，你是在将这些情况理解为关于你这个人的某种重要且负面的东西。比如你的老板在你的销售报告中挑毛病，你离开时感觉这意味着她认为你是个糟糕的员工。或者，你的两个朋友取消了你们计划好的酒吧聚会，你将此理解为他们对你感到厌倦了。心理学家对这种思维方式有一个术语：个人化。\n但现实是，你的老板可能对你评价很高。只是你在报告中犯了一些错误，她想指出这些错误，以便你下次做得更好。同样，在你朋友取消聚会的情况下，也许他们俩那个周末都感觉不舒服，或者他们只是改变了主意。\n在这两个例子中——以及我们都会经历的其他例子中——还有另一个心理学家称之为读心术的过程在起作用。这是指你假设自己知道别人对你的想法，而实际上如果不直接询问他们，你是无法真正知道的。\n避免陷入个人化和读心术的一个简单方法是质疑你对所发生事情的负面假设。当你发现自己把某个情况往心里去时，试着想想其他不那么关注你的解释——尤其是在说关于你任何深层或根本性东西的意义上。\n当你这样做时，试着设身处地为他人着想可能会有所帮助。你的老板花时间给你反馈这一事实本身就意味着他们足够在意，想要帮助你进步。至于你的朋友——也许正是因为你们的友谊如此牢固，他们才觉得可以在最后时刻取消。",
+    "blanks": [
+      {
+        "opts": [
+          "afraid",
+          "critical",
+          "proud",
+          "tolerant"
+        ],
+        "ans": 2,
+        "explain": "be proud of 固定搭配，承接 self-respect 与正面看待自己的色彩。"
+      },
+      {
+        "opts": [
+          "risky",
+          "natural",
+          "admirable",
+          "foolish"
+        ],
+        "ans": 1,
+        "explain": "only 暗示\"再自然不过\"，it's only natural to do 是高频表达。"
+      },
+      {
+        "opts": [
+          "whether",
+          "where",
+          "why",
+          "how"
+        ],
+        "ans": 0,
+        "explain": "判断对象是\"是否真的受损\"这一真假维度，whether 契合 subjective。"
+      },
+      {
+        "opts": [
+          "citation",
+          "imitation",
+          "perception",
+          "introduction"
+        ],
+        "ans": 2,
+        "explain": "subjective 锁定主观解读，perception 意为\"看法、感知\"。"
+      },
+      {
+        "opts": [
+          "poor",
+          "loyal",
+          "creative",
+          "shy"
+        ],
+        "ans": 0,
+        "explain": "picks holes in 锁定负面评价，a poor member of staff 即\"差劲的员工\"。"
+      },
+      {
+        "opts": [
+          "sponsored",
+          "crowded",
+          "disputed",
+          "planned"
+        ],
+        "ans": 3,
+        "explain": "cancel a planned get-together 是典型搭配，只有约好的聚会才能取消。"
+      },
+      {
+        "opts": [
+          "method",
+          "term",
+          "design",
+          "goal"
+        ],
+        "ans": 1,
+        "explain": "冒号后 personalisation 是术语，have a term for X 表\"对X有专门叫法\"。"
+      },
+      {
+        "opts": [
+          "evidence",
+          "theory",
+          "condition",
+          "reality"
+        ],
+        "ans": 3,
+        "explain": "But 引出与前文相反的真相，reality 即\"现实、真相\"。"
+      },
+      {
+        "opts": [
+          "complaints",
+          "choices",
+          "mistakes",
+          "suggestions"
+        ],
+        "ans": 2,
+        "explain": "point these out 反推 mistakes，老板指出的是报告中的\"错误\"。"
+      },
+      {
+        "opts": [
+          "Similarly",
+          "Relatively",
+          "Accordingly",
+          "Contrarily"
+        ],
+        "ans": 0,
+        "explain": "老板事例与朋友事例平行递进，Similarly 表\"同样地\"。"
+      },
+      {
+        "opts": [
+          "opened",
+          "changed",
+          "trained",
+          "cleared"
+        ],
+        "ans": 1,
+        "explain": "change one's mind 固定搭配，意为\"改变主意\"。"
+      },
+      {
+        "opts": [
+          "quotations",
+          "experiments",
+          "questions",
+          "examples"
+        ],
+        "ans": 3,
+        "explain": "老板与朋友是两个例子，in both examples 呼应前文列举。"
+      },
+      {
+        "opts": [
+          "process",
+          "objective",
+          "outcome",
+          "background"
+        ],
+        "ans": 0,
+        "explain": "personalisation 与 mind reading 都是心理\"过程\"，another process at work。"
+      },
+      {
+        "opts": [
+          "blaming",
+          "warning",
+          "teaching",
+          "asking"
+        ],
+        "ans": 3,
+        "explain": "想真正知道别人想法只能直接询问，without asking them directly。"
+      },
+      {
+        "opts": [
+          "arguing about",
+          "accounting for",
+          "engaging in",
+          "interfering with"
+        ],
+        "ans": 2,
+        "explain": "engaging in personalisation 意为\"陷入个人化\"，与 mind reading 并列。"
+      },
+      {
+        "opts": [
+          "happened",
+          "continued",
+          "returned",
+          "disappeared"
+        ],
+        "ans": 0,
+        "explain": "负面假设针对的是\"发生的事情\"，what's happened。"
+      },
+      {
+        "opts": [
+          "casual",
+          "obvious",
+          "familiar",
+          "fundamental"
+        ],
+        "ans": 3,
+        "explain": "deep 锁定根本性，deep or fundamental 指关于你的深层或根本性内容。"
+      },
+      {
+        "opts": [
+          "reward",
+          "feedback",
+          "trust",
+          "proof"
+        ],
+        "ans": 1,
+        "explain": "picks holes + point out 即反馈，give you feedback 意为\"给予反馈\"。"
+      },
+      {
+        "opts": [
+          "innovate",
+          "concentrate",
+          "improve",
+          "relax"
+        ],
+        "ans": 2,
+        "explain": "feedback 与 do better 锁定 improve，帮助\"进步\"。"
+      },
+      {
+        "opts": [
+          "strange",
+          "strong",
+          "vulnerable",
+          "valuable"
+        ],
+        "ans": 1,
+        "explain": "敢在最后时刻取消是因关系牢固，friendship so strong。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2026-match",
+    "type": "新题型",
+    "title": "2026年真题 · 新题型（多项对应）",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. People must pay attention to the fact that some kinds of trees do not produce seeds annually.",
+      "B. Soil is an important element to be taken into account in forest restoration.",
+      "C. The purpose of restoration efforts may be different from the real needs of the people involved.",
+      "D. Human factors, as well as trees planted, should be emphasized in forest restoration.",
+      "E. The supply of seeds is a tough problem that has to be dealt with.",
+      "F. When it comes to restoration, we have to stay with an awareness of whose interests to serve.",
+      "G. Some creatures in the forest that multiply fast can become a great threat to forest restoration."
+    ],
+    "paras": [
+      {
+        "text": "41. Ramni Jamnadass\n\"Where's the planting material going to come from? That's one big bottleneck,\" says genetic-resources specialist Ramni Jamnadass.",
+        "ans": 4,
+        "explain": "\"种植材料来源是瓶颈\"与 E 的种子供应难题等值（planting material ↔ supply of seeds）。"
+      },
+      {
+        "text": "42. Christopher Kettle\nAsia is arguably the region most neglected by global efforts to increase diversity in restoration and to study native species. ... \"This is a really, really critical issue for restoration in Southeast Asia, because many of the most important timber species and tree species — the ones that will lock up the most carbon — they're all masting species.\"",
+        "ans": 0,
+        "explain": "Kettle 强调 masting 树种不每年结种，与 A 的\"有些树不每年产籽\"等值。"
+      },
+      {
+        "text": "43. John Stanturf\n\"Insects that today are a minor problem may become a major problem if they can produce three or four generations in a year,\" says forest ecologist John Stanturf.",
+        "ans": 6,
+        "explain": "繁殖快的昆虫可能成大威胁，与 G 等值（insects ↔ creatures in the forest）。"
+      },
+      {
+        "text": "44. Pedro Brancalion\nMuch of the global funding for restoration is dedicated to developing it as a tool to mitigate climate change ... \"But if you ask a farmer in Brazil if he or she is concerned about climate change, they would say, 'No, I am concerned about water.'\"",
+        "ans": 2,
+        "explain": "修复目的与当地人真实需求错位，与 C 等值（climate change ↔ purpose；water ↔ real needs）。"
+      },
+      {
+        "text": "45. Robin Chazdon\nRestoration is about more than what gets planted in the ground, she says. \"Yes, it's about forests, but it's really about people. They are the agents of restoration.\"",
+        "ans": 3,
+        "explain": "除了种树更要重视人的因素，与 D 等值（more than ↔ as well as；people ↔ human factors）。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2026-trans",
+    "type": "翻译",
+    "title": "2026年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "The influence of wearables on psychology refers to how the clothes we wear affect our thoughts, feelings, and behaviors. Clothing is not just about covering our bodies; it plays a significant role in shaping our self-perception and interactions with others.\nOne aspect of this influence is self-expression. The clothes we choose can reflect our personality, mood, and identity. Whether we opt for bold, colorful outfits or prefer more understated styles, our dress choices convey messages about who we are and how we want to be perceived.\nAdditionally, clothing can impact our confidence levels. When we wear clothes that make us feel comfortable and confident, it can positively affect our self-esteem and overall mood.\nMoreover, cultural and societal influences play a significant role in shaping our dress choices. Different cultures have their norms and expectations regarding dress, which can influence the types of clothing people wear and the meanings attributed to them.",
+    "passage_zh": "穿戴对心理的影响，指的是我们所穿的衣服如何影响我们的思想、感受和行为。衣服不仅仅是遮体之物，它在塑造我们的自我认知和与他人的互动方面，起着重要作用。\n这种影响的一个方面是自我表达。我们所选择的衣服可以反映我们的个性、心情和身份。无论我们选择大胆、色彩鲜艳的服装，还是偏爱更为低调的风格，我们的着装选择都在传递着关于我们是谁、以及我们希望别人如何看待自己的信息。\n此外，衣着还会影响我们的自信程度。当我们穿上让自己感到舒适和自信的衣服时，这会对我们的自尊心和整体情绪产生积极影响。\n再者，文化和社会方面的影响在塑造我们的着装选择方面，也起着重要作用。不同的文化对着装有着各自的规范与期望，这些规范与期望会影响人们所穿衣服的种类，以及人们赋予这些衣服的意义。",
+    "intro": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2026-write-s",
+    "type": "写作",
+    "title": "2026年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Suppose your friend Jack has shared with you a video of his family's travel in China. Write an email to tell him\n1) how you feel about the video, and\n2) your wish to learn more about their travel.\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email. Use \"Li Ming\" instead. (10 points)",
+    "tips": "要点：①先感谢 Jack 分享视频并说出真实感受（如惊艳于风景与笑容）；②表达想了解具体细节的愿望，可把愿望化为具体问句（行程安排、印象最深的地方、当地美食等）；③按\"称呼→感谢+感受→表达求知愿望→礼貌收束+落款\"谋篇，称呼正文落款三块齐全，署名必须用 Li Ming，全文约 100 词。"
+  },
+  {
+    "id": "zy-2026-write-b",
+    "type": "写作",
+    "title": "2026年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Write an essay based on the chart below. In your essay, you should\n1) describe and interpret the chart, and\n2) give your comments.\nWrite your answer in about 150 words on the ANSWER SHEET. (15 points)\n\n图表（柱状图）：「某项关于儿童户外活动看法的调查」\n数据：满足好奇心 54.60%，促进观察力 54.50%，强身健体 37.20%，增强亲子互动 33.20%。",
+    "chart": true,
+    "tips": "要点：①柱状图数据\"两高两低\"分两档描述（好奇/观察力高，强身/亲子互动低）并作总括；②解读反差成因（重智育轻体健亲情、户外活动被看作激发心智的途径）；③给出评论并收尾，主张户外活动应助孩子全面发展，约 150 词。"
+  }
+]

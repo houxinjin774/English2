@@ -1,0 +1,37 @@
+# 临时抓取缓存（agent 抓真题时的中间产物）
+cache/
+scrape_tmp/
+papers/cache/
+papers/scrape_tmp/
+
+# papers/ 下只保留 *.json + extra-papers.js，其余都是抓取中间产物
+papers/*.html
+papers/*.txt
+papers/*.py
+
+# 根目录 agent 抓取脚本（一次性、可复跑，不入库）
+build_*.py
+parse_*.py
+
+# 截图/测试图（自测中间产物）
+test-*.png
+test-shot-*.png
+test-*.png.bak
+
+# IDE/系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 浏览器自动化产物
+.agent-browser/
+
+# 工作台记忆（不入库，属个人数据）
+.workbuddy/
+
+# 临时
+*.log
+tmp/
+*.tmp

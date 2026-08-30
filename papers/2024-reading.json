@@ -1,0 +1,166 @@
+[
+  {
+    "id": "zy-2024-read-1",
+    "type": "阅读理解",
+    "title": "2024年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "In her new book Cogs and Monsters: What Economics Is, and What It Should Be, Diane Coyle, an economist at Cambridge University, argues that the digital economy requires new ways of thinking about progress. \"Whatever we mean by the economy growing, by things getting better, the gains will have to be more evenly shared than in the recent past,\" she writes. \"An economy of tech millionaires or billionaires and gig workers, with middle-income jobs undercut by automation, will not be politically sustainable.\"\n\nImproving living standards and increasing prosperity for more people will require greater use of digital technologies to boost productivity in various sectors, including health care and construction, says Coyle. But people can't be expected to embrace the changes if they're not seeing the benefits—if they're just seeing good jobs being destroyed.\n\nIn a recent interview, Coyle said she fears that tech's inequality problem could be a roadblock to deploying AI. \"We're talking about disruption,\" she says. \"These are transformative technologies that change the ways we spend our time every day, that change business models that succeed.\" To make such \"tremendous changes,\" she adds, you need social buy-in.\n\nInstead, says Coyle, resentment is simmering among many as the benefits are perceived to go to elites in a handful of prosperous cities.\n\nAccording to the Brookings Institution, a short list of eight American cities that included San Francisco, San Jose, Boston, and Seattle had roughly 38% of all tech jobs by 2019. New AI technologies are particularly concentrated: Brookings's Mark Muro and Sifan Liu estimate that just 15 cities account for two-thirds of the AI assets and capabilities in the United States.\n\nThe dominance of a few cities in the invention and commercialization of AI means that geographical disparities in wealth will continue to soar. Not only will this foster political and social unrest, but it could, as Coyle suggests, hold back the sorts of AI technologies needed for regional economies to grow.\n\nPart of the solution could lie in somehow loosening the stranglehold that Big Tech has on defining the AI agenda. That will likely take increased federal funding for research independent of the tech giants.\n\nA more immediate response is to broaden our digital imaginations to conceive of AI technologies that don't simply replace jobs but expand opportunities in the sectors that different parts of the country care most about, like health care, education, and manufacturing.",
+    "passage_zh": "在她的新书《齿轮与怪兽：经济学是什么，以及它应该是什么》中，剑桥大学经济学家Diane Coyle认为，数字经济需要关于进步的新思维方式。她写道：\"无论我们所说的经济增长、事物变得更好是什么意思，收益都必须比近期更加均匀地分享。一个由科技百万富翁或亿万富翁和零工工人组成的经济体，其中等收入工作被自动化削弱，将无法在政治上持续。\"\n\nCoyle说，提高生活水平和让更多人增加繁荣将需要更多地使用数字技术来提高包括医疗保健和建筑在内的各个部门的生产力。但如果人们看不到好处——如果他们只是看到好工作被摧毁，就不能期望他们接受这些变化。\n\n在最近的一次采访中，Coyle说她担心科技的不平等问题可能成为部署人工智能的障碍。她说：\"我们谈论的是颠覆。这些是变革性技术，改变了我们每天度过时间的方式，改变了成功的商业模式。\"她补充说，要做出这样的\"巨大变化\"，你需要社会认同。\n\nCoyle说，相反，随着收益被认为流向少数繁荣城市的精英，许多人的怨恨正在酝酿。\n\n根据Brookings Institution的数据，到2019年，包括旧金山、圣何塞、波士顿和西雅图在内的八个美国城市的简短名单拥有大约38%的科技工作岗位。新的人工智能技术尤其集中：Brookings的Mark Muro和Sifan Liu估计，仅15个城市就占据了美国三分之二的人工智能资产和能力。\n\n少数城市在人工智能发明和商业化方面的主导地位意味着地理上的财富差距将继续飙升。这不仅会助长政治和社会动荡，而且正如Coyle所说，它可能阻碍区域经济增长所需的各种人工智能技术。\n\n解决方案的一部分可能在于以某种方式放松大型科技公司对定义人工智能议程的控制。这可能需要增加联邦资金，用于独立于科技巨头的研究。\n\n一个更直接的应对措施是拓宽我们的数字想象力，构想不是简单地取代工作而是在国家不同地区最关心的部门（如医疗保健、教育和制造业）扩大机会的人工智能技术。",
+    "questions": [
+      {
+        "q": "Coyle argues in her new book that economic growth should_______.",
+        "opts": ["give rise to innovations", "diversify career choices", "benefit people equally", "be promoted forcefully"],
+        "ans": 2,
+        "explain": "定位P1：\"the gains will have to be more evenly shared than in the recent past\"（收益必须比近期更均匀地分享），C项benefit people equally即\"让人们平等受益\"的同义替换。"
+      },
+      {
+        "q": "According to Paragraph 2, digital technologies should be used to_______.",
+        "opts": ["bring about instant prosperity", "reduce people's workload", "raise overall work efficiency", "enhance cross-sector cooperation"],
+        "ans": 2,
+        "explain": "定位P2：\"to boost productivity in various sectors\"（提高各部门生产率），C项raise overall work efficiency即\"提高整体工作效率\"的同义替换。"
+      },
+      {
+        "q": "What does Coyle fear about transformative technologies?",
+        "opts": ["They may affect work-life balance.", "They may be impractical to deploy.", "They may incur huge expenditure.", "They may be unwelcome to the public."],
+        "ans": 3,
+        "explain": "定位P3：\"tech's inequality problem could be a roadblock to deploying AI\"和\"you need social buy-in\"，Coyle担心技术得不到社会认同，即\"不受公众欢迎\"。"
+      },
+      {
+        "q": "Several American cities are mentioned to show______.",
+        "opts": ["the uneven distribution of AI technologies in the US", "the disappointing prospect of tech jobs in the US", "the fast progress of US regional economies", "the increasing significance of US AI assets"],
+        "ans": 0,
+        "explain": "定位P5：\"just 15 cities account for two-thirds of the AI assets and capabilities in the United States\"，城市数据证明AI技术在美国\"分布不均\"。"
+      },
+      {
+        "q": "With regard to Coyle's concern, the author suggests______.",
+        "opts": ["raising funds to start new AI projects", "encouraging collaboration in AI research", "guarding against the side effects of AI", "redefining the role of AI technologies"],
+        "ans": 3,
+        "explain": "定位P8：\"broaden our digital imaginations to conceive of AI technologies that don't simply replace jobs but expand opportunities\"，即重新定义AI技术的角色。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2024-read-2",
+    "type": "阅读理解",
+    "title": "2024年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "The UK is facing a future construction crisis because of a failure to plant trees to produce wood, Confor has warned. The forestry and wood trade body has called for urgent action to reduce the country's reliance on timber imports and provide a stable supply of wood for future generations. Currently only 20 percent of the UK's wood requirement is home-grown while it remains the second-largest net importer of timber in the world.\n\nComing at a time of fresh incentives from the UK government for landowners to grow more trees, the trade body says these don't go far enough and fail to promote the benefits of planting them to boost timber supplies. \"Not only are we facing a carbon crisis now, but we will also be facing a future construction crisis because of a failure to plant trees to produce wood,\" said Stuart Goodall, chief executive of Confor. \"For decades we have not taken responsibility for investing in our domestic wood supply, leaving us exposed to fluctuating prices and fighting for future supplies of wood as global demand rises and our own supplies fall.\"\n\nThe UK has ideal conditions for growing wood to build low-carbon homes and is a global leader in certifying that its forests are sustainably managed, Confor says. While around three quarters of Scottish homes are built from Scottish timber, the use of home-grown wood in England is only around 25 percent. The causes of the UK's current position are complex and range from outdated perceptions of productive forestry to the decimation of trees by grey squirrels. It also encompasses significant hesitation on behalf of farmers and other landowners to invest in longer-term planting projects.\n\nWhile productive tree planting can deliver real financial benefits to rural economies and contribute to the UK's net-zero strategy, the focus of government support continues to be on food production and the rewilding and planting of native woodland solely for biodiversity. Goodall added: \"While food production and biodiversity health are clearly of critical importance, we need our land to also provide secure supplies of wood for construction, manufacturing and contribute to net zero.\"\n\n\"While the UK government has stated its ambition for more tree planting, there has been little action on the ground. Confor is now calling for much greater impetus behind those aspirations to ensure we have enough wood to meet increasing demand.\"",
+    "passage_zh": "Confor警告称，由于未能种植树木以生产木材，英国正面临未来的建筑危机。这家林业和木材贸易机构呼吁采取紧急行动，减少国家对木材进口的依赖，并为子孙后代提供稳定的木材供应。目前英国木材需求中仅有20%来自国内生产，而英国仍然是世界上第二大木材净进口国。\n\n在英国政府为土地所有者提供更多种树激励措施之际，该贸易机构表示这些措施力度不够，未能宣传种植树木以增加木材供应的好处。Confor首席执行官Stuart Goodall说：\"我们现在不仅面临碳危机，而且由于未能种植树木以生产木材，我们还将面临未来的建筑危机。几十年来，我们没有承担起投资国内木材供应的责任，这使我们面临价格波动的风险，并在全球需求上升而我们自身供应下降之际争夺未来的木材供应。\"\n\nConfor表示，英国拥有种植木材以建造低碳住宅的理想条件，并且在认证其森林可持续管理方面处于全球领先地位。虽然约四分之三的苏格兰住宅使用苏格兰木材建造，但英格兰使用国产木材的比例仅约25%。英国当前处境的原因是复杂的，既包括对生产性林业的过时认知，也包括灰松鼠对树木的大量破坏。这还涉及农民和其他土地所有者对投资长期种植项目的明显犹豫。\n\n虽然生产性树木种植可以为农村经济带来实际的经济效益，并有助于英国的净零排放战略，但政府支持的重点仍然集中在粮食生产以及仅为生物多样性而进行的野化和本土林地种植。Goodall补充说：\"虽然粮食生产和生物多样性健康显然至关重要，但我们需要土地也能提供用于建筑、制造的可靠木材供应，并为实现净零排放做出贡献。\"\n\n\"虽然英国政府已表明其扩大植树的雄心，但实际行动却很少。Confor现在呼吁为这些愿景注入更大的推动力，以确保我们有足够的木材来满足不断增长的需求。\"",
+    "questions": [
+      {
+        "q": "It can be learned from Paragraph 1 that the UK needs to_______.",
+        "opts": ["increase its domestic wood supply", "reduce its demand for timber", "lower its wood production costs", "lift its control on timber imports"],
+        "ans": 0,
+        "explain": "定位P1：\"only 20 percent of the UK's wood requirement is home-grown\"，英国本土木材仅满足需求20%，故需\"增加国内木材供应\"。"
+      },
+      {
+        "q": "According to Confor, the UK government's fresh incentives_______.",
+        "opts": ["can hardly address a construction crisis", "are believed to come at a wrong time", "seem to be misleading for landowners", "will be too costly to put into practice"],
+        "ans": 0,
+        "explain": "定位P2：\"these don't go far enough\"（这些激励措施力度不够），故\"难以解决建筑危机\"。"
+      },
+      {
+        "q": "The UK's exposure to fluctuating wood prices is a result of_______.",
+        "opts": ["the government's inaction on timber imports", "inadequate investment in growing wood", "the competition among timber traders at home", "wood producers' motive to maximise profits"],
+        "ans": 1,
+        "explain": "定位P2：\"we have not taken responsibility for investing in our domestic wood supply, leaving us exposed to fluctuating prices\"，即\"对种树投资不足\"。"
+      },
+      {
+        "q": "Which of the following causes the shortage of wood supply in the UK?",
+        "opts": ["Excessive timber consumption in construction.", "Unfavourable conditions for growing wood.", "Outdated technologies of the wood industry.", "Farmers' unwillingness to plant trees."],
+        "ans": 3,
+        "explain": "定位P3：\"significant hesitation on behalf of farmers and other landowners to invest in longer-term planting projects\"，即农民不愿植树。"
+      },
+      {
+        "q": "What does Goodall think the UK government should do?",
+        "opts": ["Subsidise the building of low-carbon homes.", "Pay greater attention to boosting rural economies.", "Provide more support for productive tree planting.", "Give priority to pursuing its net-zero strategy."],
+        "ans": 2,
+        "explain": "定位P4：政府支持仍集中于粮食生产与生物多样性，而productive tree planting能带来收益并助力净零，故应\"为生产性植树提供更多支持\"。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2024-read-3",
+    "type": "阅读理解",
+    "title": "2024年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "One of the biggest challenges in keeping unsafe aging drivers off the road is convincing them that it's time to turn over the keys. \"It's a complete life-changer\" when someone stops—or is forced to stop—driving, said former risk manager Anne M. Menke.\n\n\"The American Medical Association advises physicians that 'in situations where clear evidence of substantial driving impairment implies a strong threat to patient and public safety, and where the physician's advice to discontinue driving privileges is ignored, it is desirable and ethical to notify the Department of Motor Vehicles,'\" Menke wrote. \"Some states require physicians to report, others allow but do not mandate reports, while a few consider a report a breach of confidentiality. There could be liability and penalties if a physician does not act in accordance with state laws on reporting and confidentiality,\" she counseled.\n\nPart of the problem in keeping older drivers safe is that the difficulties are addressed piecemeal by different professions with different focuses, including gerontologists, highway administration officials, automotive engineers and others, said gerontologist Elizabeth Dugan. \"There's not a National Institute of Older Driver Studies,\" she said. \"We need better evidence on what makes drivers unsafe\" and what can help, said Dugan.\n\nOne thing that does seem to work is requiring drivers to report in person for license renewal. Mandatory in-person renewal was associated with a 31 percent reduction in fatal crashes involving drivers 85 or older, according to one study. Passing vision tests also produced a similar decline in fatal crashes for those drivers, although there appeared to be no benefit from combining the two.\n\nMany older drivers don't see eye doctors or can't afford to. Primary care providers have their hands full and may not be able to follow through with patients who have trouble driving because they can't turn their heads or remember where they are going—or have gotten shorter and haven't changed their seat settings sufficiently to reach car pedals easily.\n\nAs long as there are other cars on the roads, self-driving cars won't solve the problems of crashes, said Dugan. Avoiding dangers posed by all those human drivers would require too many algorithms, she said. But we need to do more to improve safety, said Dugan. \"If we're going to have 100-year lives, we need cars that a 90-year-old can drive comfortably.\"",
+    "passage_zh": "让不安全的老年驾驶员远离道路的最大挑战之一是说服他们是时候交出钥匙了。前风险管理人员Anne M. Menke说，当有人停止驾驶或被迫停止驾驶时，\"这完全改变了生活\"。\n\nMenke写道：\"美国医学会建议医生，'在有明确证据表明存在严重驾驶障碍，对患者和公共安全构成重大威胁，且医生建议停止驾驶特权而被忽视的情况下，通知机动车辆管理部门是可取且合乎道德的。'一些州要求医生报告，另一些州允许但不强制要求报告，而少数州认为报告属于违反保密义务。如果医生的行为不符合州法律关于报告和保密的规定，可能会承担责任和处罚。\"她建议道。\n\n老年学家Elizabeth Dugan说，保护老年驾驶员安全的部分问题在于，这些困难被不同专业、不同关注点的人员零散地处理，包括老年学家、公路管理官员、汽车工程师等。\"没有一个国家老年驾驶员研究所。\"她说。Dugan说：\"我们需要更好的证据来说明是什么让驾驶员不安全\"以及什么能有所帮助。\n\n一项研究显示，有一件事似乎确实有效，那就是要求驾驶员亲自到场更新驾照。强制性亲自更新与85岁或以上驾驶员涉及的致命车祸减少31%相关。通过视力测试也使这些驾驶员的致命车祸出现了类似的下降，尽管将两者结合起来似乎没有什么益处。\n\n许多老年驾驶员不去看眼科医生或负担不起。初级保健提供者手头工作繁重，可能无法跟进那些因无法转头或记不住要去哪里而驾驶困难的患者，或者那些身高变矮却没有充分调整座椅设置以便轻松够到汽车踏板的患者。\n\nDugan说，只要路上还有其他汽车，自动驾驶汽车就无法解决车祸问题。她说，避免所有那些人类驾驶员造成的危险需要太多算法。但Dugan说，我们需要做更多工作来提高安全性。\"如果我们要活到100岁，我们需要90岁的人能够舒适驾驶的汽车。\"",
+    "questions": [
+      {
+        "q": "According to Paragraph l, keeping unsafe aging drivers off the road_______.",
+        "opts": ["is a new safety measure", "has become a disputed issue", "can be a tough task to complete", "will be beneficial to their health"],
+        "ans": 2,
+        "explain": "定位P1：\"One of the biggest challenges...is convincing them that it's time to turn over the keys\"，即让老年司机停止驾驶\"是一项难以完成的艰巨任务\"。"
+      },
+      {
+        "q": "The American Medical Association's advice_______.",
+        "opts": ["has won support from drivers", "is generally considered unrealistic", "is widely dismissed as unnecessary", "has met with different responses"],
+        "ans": 3,
+        "explain": "定位P2：各州反应不一——\"Some states require...others allow but do not mandate...while a few consider a report a breach of confidentiality\"，即\"遇到了不同的反应\"。"
+      },
+      {
+        "q": "According to Dugan, efforts to keep older drivers safe_______.",
+        "opts": ["have brought about big changes", "need to be well coordinated", "have gained public recognition", "call for relevant legal support"],
+        "ans": 1,
+        "explain": "定位P3：\"the difficulties are addressed piecemeal by different professions with different focuses\"，Dugan批评各方零散应对、缺乏统筹，故需\"良好协调\"。"
+      },
+      {
+        "q": "Some older drivers have trouble driving because they tend to_______.",
+        "opts": ["stick with bad driving habits", "have a weakened memory", "suffer from chronic pains", "neglect car maintenance"],
+        "ans": 1,
+        "explain": "定位P5：原文列举\"can't turn their heads or remember where they are going\"等身体机能限制，其中\"记不住要去哪里\"即\"记忆力减弱\"。"
+      },
+      {
+        "q": "Dugan thinks that the solution to the problems of crashes may lie in_______.",
+        "opts": ["upgrading self-driving vehicles", "developing senior-friendly cars", "renovating transport facilities", "adjusting the age limit for drivers"],
+        "ans": 1,
+        "explain": "定位P6：\"we need cars that a 90-year-old can drive comfortably\"，即开发适合老年人的汽车。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2024-read-4",
+    "type": "阅读理解",
+    "title": "2024年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "If you look at the apps on your phone, chances are you have at least one related to your health—and probably several. Whether it is a mental health app, a fitness tracker, a connected health device or something else, many of us are taking advantage of this technology to keep better track of our health in some shape or form. Recent research from the Organization for the Review of Care and Health Applications found that 350,000 health apps were available on the market, 90,000 of which launched in 2020 alone.\n\nWhile these apps have a great deal to offer, it is not always clear how the personal information we input is collected, safeguarded and shared online. Existing health privacy law, such as the Health Insurance Portability and Accountability Act, is primarily focused on the way hospitals, doctors' offices, clinics and insurance companies store health records online. The health information these apps and health data tracking wearables are collecting typically does not receive the same legal protections.\n\nWithout additional protections in place, companies may share (and potentially monetize) personal health information in a way consumers may not have authorized or anticipated. In 2021, Flo Health faced a Federal Trade Commission (FTC) investigation. The FTC alleged in a complaint that \"despite express privacy claims, the company took control of users' sensitive fertility data and shared it with third parties.\" Flo Health and the FTC settled the matter with a Consent Order requiring the company to get app users' express affirmative consent before sharing their health information as well as to instruct the third parties to delete the data they had obtained.\n\nSection 5 of the FTC Act empowers the FTC to initiate enforcement action against unfair or deceptive acts, meaning the FTC can only act after the fact if a company's privacy practices are misleading or cause unjustified consumer harm. While the FTC is doing what it can to ensure apps are keeping their promises to consumers around the handling of their sensitive health information, the rate at which these health apps are hitting the market demonstrates just how immense of a challenge this is.\n\nAs to the prospects for federal legislation, commentators suggest that comprehensive federal privacy legislation seems unlikely in the short term. States have begun implementing their own solutions to shore up protections for consumer-generated health data. California has been at the forefront of state privacy efforts with the California Consumer Privacy Act of 2018. Virginia, Colorado and Utah have also recently passed state consumer data privacy legislation.",
+    "passage_zh": "如果你查看手机上的应用程序，很可能至少有一个与健康相关的应用——而且可能有好几个。无论是心理健康应用、健身追踪器、联网健康设备还是其他什么，我们中的许多人都在利用这项技术以某种形式更好地追踪自己的健康状况。健康与护理应用审查组织最近的研究发现，市场上有35万个健康应用程序，其中仅2020年就推出了9万个。\n\n虽然这些应用程序有很多好处，但我们输入的个人信息如何被收集、保护和在线共享并不总是清楚的。现有的健康隐私法律，如《健康保险携带和责任法案》，主要关注医院、诊所、门诊部和保险公司在线存储健康记录的方式。这些应用程序和健康数据追踪可穿戴设备收集的健康信息通常不会受到同样的法律保护。\n\n在没有额外保护措施的情况下，公司可能会以消费者未授权或未预料到的方式共享（并可能将其货币化）个人健康信息。2021年，Flo Health面临联邦贸易委员会的调查。联邦贸易委员会在一项投诉中指控\"尽管有明确的隐私声明，该公司还是控制了用户的敏感生育数据并将其与第三方共享\"。Flo Health与联邦贸易委员会通过一项同意令解决了此事，要求该公司在共享用户健康信息之前获得应用程序用户的明确肯定同意，并指示第三方删除他们已获得的数据。\n\n《联邦贸易委员会法》第5条授权联邦贸易委员会对不公平或欺骗性行为采取执法行动，这意味着联邦贸易委员会只能在公司的隐私做法具有误导性或造成不正当消费者损害之后采取行动。虽然联邦贸易委员会正在尽其所能确保应用程序信守对消费者关于处理其敏感健康信息的承诺，但这些健康应用程序进入市场的速度表明这是一个多么巨大的挑战。\n\n至于联邦立法的前景，评论人士认为短期内似乎不太可能出台全面的联邦隐私立法。各州已开始实施自己的解决方案，以加强对消费者生成的健康数据的保护。加利福尼亚州一直处于州隐私努力的前沿，制定了2018年《加利福尼亚州消费者隐私法》。弗吉尼亚州、科罗拉多州和犹他州最近也通过了州消费者数据隐私立法。",
+    "questions": [
+      {
+        "q": "The research findings are cited in Paragraph 1 to show______.",
+        "opts": ["the prevalence of health apps", "the public concern over health", "the popularity of smartphones", "the advancement of technology"],
+        "ans": 0,
+        "explain": "定位P1：市场上有35万个健康应用、仅2020年就推出9万个，数据证明健康应用\"普及\"。"
+      },
+      {
+        "q": "What does the author imply about existing health privacy law?",
+        "opts": ["Its coverage needs to be extended.", "Its enforcement needs strengthening.", "It has discouraged medical misconduct.", "It has disappointed insurance companies."],
+        "ans": 0,
+        "explain": "定位P2：现行法律主要管医院、诊所、保险公司，而apps和可穿戴设备收集的健康信息\"typically does not receive the same legal protections\"，故覆盖范围需扩大。"
+      },
+      {
+        "q": "Before sharing its users' health information, Flo Health is required to_______.",
+        "opts": ["seek the approval of the FTC", "find qualified third parties", "remove irrelevant personal data", "obtain their explicit permission"],
+        "ans": 3,
+        "explain": "定位P3：Consent Order要求公司\"get app users' express affirmative consent before sharing their health information\"，即获得用户明确许可。"
+      },
+      {
+        "q": "What challenge is the FTC currently faced with?",
+        "opts": ["The complexity of health information.", "The rapid increase in new health apps.", "The subtle deceptiveness of health apps.", "The difficulty in assessing consumer harm."],
+        "ans": 1,
+        "explain": "定位P4：\"the rate at which these health apps are hitting the market demonstrates just how immense of a challenge this is\"，即新健康应用快速增长构成巨大挑战。"
+      },
+      {
+        "q": "It can be learned from the last paragraph that health data protection_______.",
+        "opts": ["has been embraced by health app developers", "has been a focus of federal policy-making", "has encountered opposition in California", "has gained legislative support in some states"],
+        "ans": 3,
+        "explain": "定位P5：加州、弗吉尼亚、科罗拉多、犹他等州已通过州级数据隐私立法，即\"在一些州获得了立法支持\"。"
+      }
+    ]
+  }
+]

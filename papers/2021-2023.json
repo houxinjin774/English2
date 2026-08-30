@@ -1,0 +1,1652 @@
+[
+  {
+    "id": "zy-2021-read-1",
+    "type": "阅读理解",
+    "title": "2021年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "\"Reskilling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind. We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain. Research by the World Economic Forum finds that on average 42 per cent of the \"core skills\" within job roles will change by 2022. That is a very short timeline.\n\nThe question of who should pay for reskilling is a thorny one. For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are. That does not always happen. AT&T is often given as the gold standard of a company who decided to do a massive reskilling program rather than go with a fire-and-hire strategy. Other companies including Amazon and Disney had also pledged to create their own plans. When the skills mismatch is in the broader economy though, the focus usually turns to government to handle. Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.\n\nWith the pandemic, unemployment is very high indeed. In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere. As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so. In the medical field, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.\n\nOf course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it. But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned. That seems to be the case in Sweden: When forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff. The effort was a collective one and involved other companies as well as a Swedish university.",
+    "passage_zh": "\"再培训\"听起来像是一个流行词，但如果我们计划拥有一个不让大量潜在劳动者掉队的未来，它实际上是一项必需。我们知道我们正在进入一个需求岗位将快速变化的时期，现有岗位的要求也会随之变化。世界经济论坛的研究发现，到2022年，平均42%的岗位角色\"核心技能\"将发生变化。这是一个非常短的时间线。\n\n谁应该为再培训买单是一个棘手的问题。对于单个公司而言，诱惑总是解雇技能不再有需求的员工，并用那些拥有所需技能的人取而代之。但情况并非总是如此。AT&T常被视为决定实施大规模再培训计划而非采取解雇再招聘策略的公司的黄金标准。包括亚马逊和迪士尼在内的其他公司也承诺制定自己的计划。然而,当技能不匹配出现在更广泛的经济领域时,焦点通常转向政府来处理。加拿大和其他地方的努力可以说充其量是疲软的,并给我们带来了这样一种局面:我们经常听到雇主恳求招工,即使是在失业率很高的时期和地区。\n\n随着疫情的到来,失业率确实非常高。2月份,加拿大和美国的失业率分别为3.5%和5.5%,处于几代人以来的最低水平,各地都出现了劳动力短缺。到5月份,这些比率已飙升至13.3%和13.7%,尽管许多劳动力短缺已经消失,但并非所有短缺都消失了。以医疗领域为例,疫情意味着医生、护士和其他医务人员仍然明显短缺。\n\n当然,你不可能在几周内把一个失业的服务员培训成医生,无论由谁买单。但即使你无法弥合那种差距,也许你可以弥合其他差距,而这样做将使所有相关方受益。瑞典的情况似乎就是如此:当被迫让90%的机舱乘务员休假时,斯堪的纳维亚航空公司决定启动一个短期再培训项目,对下岗员工进行再培训以支援医院工作人员。这项努力是集体性的,涉及其他公司以及一所瑞典大学。",
+    "questions": [
+      {
+        "q": "Research by the World Economic Forum suggests____.",
+        "opts": [
+          "an increase in full-time employment",
+          "an urgent demand for new job skills",
+          "a steady growth of job opportunities",
+          "a controversy about the \"core skills\""
+        ],
+        "ans": 1,
+        "explain": "答案B。预判的\"对新技能有迫切需求\"被选项 B 几乎逐字对应：urgent ↔ short timeline，demand for new job skills ↔ core skills will change。"
+      },
+      {
+        "q": "AT&T is cited to show____.",
+        "opts": [
+          "an alternative to the fire-and-hire strategy",
+          "an immediate need for government support",
+          "the importance of staff appraisal standards",
+          "the characteristics of reskilling programs"
+        ],
+        "ans": 0,
+        "explain": "答案A。原文以动词短语\"rather than go with...\"表达替代关系，选项 A 用 an alternative to 这一名词短语把同一关系抽象出来，完全契合预判\"另一条路\"。"
+      },
+      {
+        "q": "Efforts to resolve the skills mismatch in Canada____.",
+        "opts": [
+          "have driven up labour costs",
+          "have proved to be inconsistent",
+          "have met with fierce opposition",
+          "have appeared to be insufficient"
+        ],
+        "ans": 3,
+        "explain": "答案D。原文既有 languid at best 这一直接评价，又有\"高失业仍缺人\"这一后果证据，两侧合力把语义钉在\"力度不足\"上，与 D 完全一致。"
+      },
+      {
+        "q": "We can learn from Paragraph 3 that there was____.",
+        "opts": [
+          "a call for policy adjustment",
+          "a change in hiring practices",
+          "a lack of medical workers",
+          "a sign of economic recovery"
+        ],
+        "ans": 2,
+        "explain": "答案C。原文以\"doctors+nurses+medical personnel\"具体列举，选项以 medical workers 一个上位短语整体涵盖，与预判\"医护短缺\"对位。"
+      },
+      {
+        "q": "Scandinavian Airlines decided to____.",
+        "opts": [
+          "create job vacancies for the unemployed",
+          "prepare their laid-off workers for other jobs",
+          "retrain their cabin staff for better services",
+          "finance their staff's college education"
+        ],
+        "ans": 1,
+        "explain": "答案B。原文具体动作\"reskill...to support hospital staff\"被选项以\"prepare...for other jobs\"做语义抽象，正好对应预判\"让被裁员工胜任另一份工作\"。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2021-read-2",
+    "type": "阅读理解",
+    "title": "2021年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "With the global population predicted to hit close to 10 billion by 2050, and forecasts that agricultural production in some regions will need to nearly double to keep pace, food security is increasingly making headlines. In the UK, it has become a big talking point recently too, for a rather particular reason: Brexit.\n\nBrexit is seen by some as an opportunity to reverse a recent trend towards the UK importing food. The country produces only about 60 per cent of the food it eats, down from almost three-quarters in the late 1980s. A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health. Sounds great—but how feasible is this vision?\n\nAccording to a report on UK food production from the University of Leeds, UK, 85 per cent of the country's total land area is associated with meat and dairy production. That supplies 80 per cent of what is consumed, so even covering the whole country in livestock farms wouldn't allow us to cover all our meat and dairy needs.\n\nThere are many caveats to those figures, but they are still grave. To become much more self-sufficient, the UK would need to drastically reduce its consumption of animal foods, and probably also farm more intensively—meaning fewer green fields and more factory-style production.\n\nBut switching to a mainly plant-based diet wouldn't help. There is a good reason why the UK is dominated by animal husbandry: most of its terrain doesn't have the right soil or climate to grow crops on a commercial basis. Just 25 per cent of the country's land is suitable for crop-growing, most of which is already occupied by arable fields. Even if we converted all the suitable land to fields of fruit and veg—which would involve taking out all the nature reserves and removing thousands of people from their homes—we would achieve only a 30 per cent boost in crop production.\n\nJust 23 per cent of the fruit and vegetables consumed in the UK are currently home-grown, so even with the most extreme measures we could meet only 30 per cent of our fresh produce needs. That is before we look for the space to grow the grains, sugars, seeds and oils that provide us with the vast bulk of our current calorie intake.",
+    "passage_zh": "据预测，到2050年全球人口将接近100亿，并且有预测称某些地区的农业生产需要增加近一倍才能跟上步伐,粮食安全正日益成为头条新闻。在英国,最近它也成为一个热门话题,原因相当特殊:英国脱欧。\n\n一些人将英国脱欧视为扭转英国近期进口粮食趋势的一个机会。该国仅生产其消费粮食的约60%,而在20世纪80年代末这一比例接近四分之三。有观点认为,回归自给自足将促进农业、政治主权甚至国民健康。听起来很好——但这一愿景的可行性如何?\n\n根据英国利兹大学一份关于英国粮食生产的报告,该国85%的土地总面积与肉类和乳制品生产相关。这供应了消费量的80%,因此即使将整个国家都覆盖上畜牧农场,我们也无法满足所有肉类和乳制品需求。\n\n这些数字有许多附加说明,但它们仍然严峻。要变得更加自给自足,英国需要大幅减少动物性食品的消费,并且可能还需要更集约化地耕作——这意味着更少的绿地和更多的工厂式生产。\n\n但转向以植物为主的饮食也无济于事。英国以畜牧业为主有一个很好的理由:其大部分地形没有合适的土壤或气候来进行商业化作物种植。该国只有25%的土地适合种植作物,其中大部分已被耕地占用。即使我们将所有适合的土地都转换为果蔬田——这将涉及占用所有自然保护区并将成千上万的人从家中迁出——我们也只能实现作物产量30%的提升。\n\n目前英国消费的水果和蔬菜中只有23%是本土种植的,因此即使采取最极端的措施,我们也只能满足30%的新鲜农产品需求。这还是在我们寻找空间种植谷物、糖类、种子和油料作物之前,而这些作物为我们提供了当前卡路里摄入的绝大部分。",
+    "questions": [
+      {
+        "q": "Some people argue that food self-sufficiency in the UK would____.",
+        "opts": [
+          "be hindered by its population growth",
+          "contribute to the nation's well-being",
+          "become a priority of the government",
+          "pose a challenge to its farming industry"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判中三项支持理由之一是「国民健康」，选项 contribute to the nation's well-being 用 well-being 包住 health 这一具体维度，与定位句中 even the nation's health 完全对应。"
+      },
+      {
+        "q": "The report by the University of Leeds shows that in the UK____.",
+        "opts": [
+          "farmland has been inefficiently utilized",
+          "factory-style production needs reforming",
+          "most land is used for meat and dairy production",
+          "more green fields will be converted for farming"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判中的「绝大多数国土用于肉与奶制品生产」与 most land is used for meat and dairy production 完全等价，是定位句的标准同义改写。"
+      },
+      {
+        "q": "Crop-growing in the UK is restricted due to____.",
+        "opts": [
+          "its farming technology",
+          "its dietary tradition",
+          "its natural conditions",
+          "its commercial interests"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要点是「土壤+气候」两项自然要素，its natural conditions 用 natural conditions 这一上位概念把两者打包覆盖，最贴合定位句。"
+      },
+      {
+        "q": "It can be learned from the last paragraph that British people____.",
+        "opts": [
+          "rely largely on imports for fresh produce",
+          "enjoy a steady rise in fruit consumption",
+          "are seeking effective ways to cut calorie intake",
+          "are trying to grow new varieties of grains"
+        ],
+        "ans": 0,
+        "explain": "答案A。预判要点是「大部分新鲜农产品依赖进口」，rely largely on imports for fresh produce 用 largely 量化补集，rely on imports 是 home-grown 反义的标准对应；属典型的推断题正答。"
+      },
+      {
+        "q": "The author's attitude to food self-sufficiency in the UK is____.",
+        "opts": [
+          "defensive",
+          "doubtful",
+          "tolerant",
+          "optimistic"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判全文极性是「怀疑」，doubtful 正是该极性的标准英文态度词；既不至于强烈到批判，也不会弱到中性，恰好对应作者保留观察、不轻信的姿态。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2021-read-3",
+    "type": "阅读理解",
+    "title": "2021年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "When Microsoft bought task management app Wunderlist and mobile calendar Sunrise in 2015, it picked two newcomers that were attracting considerable buzz in Silicon Valley. Microsoft's own Office dominates the market for \"productivity\" software, but the start-ups represented a new wave of technology designed from the ground up for the smartphone world.\n\nBoth apps, however, were later scrapped, after Microsoft said it had used their best features in its own products. Their teams of engineers stayed on, making them two of the many \"acqui-hires\" that the biggest companies have used to feed their great hunger for tech talent.\n\nTo Microsoft's critics, the fates of Wunderlist and Sunrise are examples of a remorseless drive by Big Tech to chew up any innovative companies that lie in their path. \"They bought the seedlings and closed them down,\" complained Paul Arnold, a partner at San Francisco-based Switch Ventures, putting an end to businesses that might one day turn into competitors. Microsoft declined to comment.\n\nLike other start-up investors, Mr. Arnold's own business often depends on selling start-ups to larger tech companies, though he admits to mixed feelings about the result: \"I think these things are good for me, if I put my selfish hat on. But are they good for the American economy? I don't know.\"\n\nThe US Federal Trade Commission says it wants to find the answer to that question. This week, it asked the five most valuable US tech companies for information about their many small acquisitions over the past decade. Although only a research project at this stage, the request has raised the prospect of regulators wading into early-stage tech markets that until now have been beyond their reach.\n\nGiven their combined market value of more than $5.5 trillion, rifling through such small deals—many of them much less prominent than Wunderlist and Sunrise—might seem beside the point. Between them, the five biggest tech companies have spent an average of only $3.4 billion a year on sub-$1 billion acquisitions over the past five years—a drop in the ocean compared with their massive financial reserves, and the more than $130 billion of venture capital that was invested in the US last year.\n\nHowever, critics say the big companies use such deals to buy their most threatening potential competitors before their businesses have a chance to gain momentum, in some cases as part of a \"buy and kill\" tactic to simply close them down.",
+    "passage_zh": "当微软在2015年收购任务管理应用Wunderlist和移动日历应用Sunrise时,它选中了两家在硅谷引起相当大关注的新兴公司。微软自己的Office在\"生产力\"软件市场占据主导地位,但这些初创公司代表着一波专为智能手机世界从零开始设计的新技术浪潮。\n\n然而,这两款应用后来都被废弃了,微软表示已经在自己的产品中使用了它们的最佳功能。它们的工程师团队留了下来,使它们成为最大型公司为满足对技术人才的巨大需求而采用的众多\"收购即招聘\"案例中的两个。\n\n在微软的批评者看来,Wunderlist和Sunrise的命运是大型科技公司无情吞噬任何挡在其道路上的创新公司的例证。\"他们买下幼苗然后关闭它们,\"旧金山Switch Ventures的合伙人Paul Arnold抱怨道,终结了那些有朝一日可能成为竞争对手的企业。微软拒绝置评。\n\n与其他初创企业投资者一样,Arnold先生自己的业务往往依赖于将初创企业出售给更大的科技公司,尽管他承认对结果心情复杂:\"我认为如果我戴上自私的帽子,这些事情对我有利。但它们对美国经济有利吗?我不知道。\n\n美国联邦贸易委员会表示它想找到这个问题的答案。本周,它要求五家最有价值的美国科技公司提供关于它们在过去十年中进行的众多小型收购的信息。尽管目前只是一个研究项目,但这一要求引发了监管机构涉足迄今为止超出其管辖范围的早期科技市场的可能性。\n\n考虑到它们总计超过5.5万亿美元的市值,仔细审查这些小型交易——其中许多远不如Wunderlist和Sunrise那样知名——似乎无关紧要。在过去五年中,五大科技公司平均每年仅在10亿美元以下的收购上花费34亿美元——与它们庞大的财务储备以及去年在美国投资的超过1300亿美元风险资本相比不过是沧海一粟。\n\n然而,批评者称,大公司利用此类交易在最具威胁性的潜在竞争对手的业务有机会获得发展势头之前将其收购,在某些情况下作为\"买了就关\"策略的一部分,干脆将它们关闭。",
+    "questions": [
+      {
+        "q": "What is true about Wunderlist and Sunrise after their acquisitions?",
+        "opts": [
+          "Their engineers were retained.",
+          "Their market values declined.",
+          "Their tech features improved.",
+          "Their products were re-priced."
+        ],
+        "ans": 0,
+        "explain": "答案A。预判要找「工程师 + 留下」的语义，A 项 Their engineers were retained 主谓完全对应，无多余信息，无信息缺失，是定位句的标准同义替换。"
+      },
+      {
+        "q": "Microsoft's critics believe that the big tech companies tend to____.",
+        "opts": [
+          "exaggerate their product quality",
+          "eliminate their potential competitors",
+          "treat new tech talent unfairly",
+          "ignore public opinions"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判要找「消灭/扼杀 + 潜在竞争对手」的语义，B 项 eliminate their potential competitors 在动词和宾语两端都与原文等值，无多余、无遗漏。"
+      },
+      {
+        "q": "Paul Arnold is concerned that small acquisitions might____.",
+        "opts": [
+          "weaken big tech companies",
+          "worsen market competition",
+          "harm the national economy",
+          "discourage start-up investors"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要找「损害 + 国家经济」的语义，C 项 harm the national economy 动词 harm 抓住了 not good 的反面，宾语 national economy 与 American economy 对应，无多余无遗漏。"
+      },
+      {
+        "q": "The US Federal Trade Commission intends to____.",
+        "opts": [
+          "limit Big Tech's expansion",
+          "encourage research collaboration",
+          "examine small acquisitions",
+          "supervise start-ups' operation"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要找「审视/调查 + 小型收购」，C 项 examine small acquisitions 动词宾语两端都与原文等值——examine 是 ask for information about 的目的层概括。"
+      },
+      {
+        "q": "For the five biggest tech companies, their small acquisitions have____.",
+        "opts": [
+          "brought little financial pressure",
+          "raised few management challenges",
+          "set an example for future deals",
+          "generated considerable profits"
+        ],
+        "ans": 0,
+        "explain": "答案A。预判要找「财务压力很小」，A 项 brought little financial pressure 用 little + financial pressure 准确转译 a drop in the ocean 的比喻含义，等值无偏。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2021-read-4",
+    "type": "阅读理解",
+    "title": "2021年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive. In one study of the ability she called \"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness. Their ratings correlated strongly with students' end-of-semester ratings. Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory. Their ratings were just as accurate, demonstrating the intuitive nature of the social processing.\n\nCritically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating. Accuracy dropped dramatically. Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression. She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.\n\nOther research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection. \"It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University, \"and if you start thinking about it too much, you can't remember what you're doing. But if you go on automatic pilot, you're fine. Much of our social life is like that.\"\n\nThinking too much can also harm our ability to form preferences. College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale. And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex—when they had a lot of information to process.\n\nIntuition's special powers are unleashed only in certain circumstances. In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech). Then they rated the degree to which they had used intuition (\"gut feelings,\" \"hunches,\" \"my heart\"). Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. Sometimes the heart is smarter than the head.",
+    "passage_zh": "我们相当擅长基于第一印象来判断他人，这种薄片体验范围从瞥见一张照片到五分钟的互动，而深思熟虑不仅可能是多余的，还可能是干扰性的。在一项关于她称之为\"薄片切割\"能力的研究中,已故心理学家Nalini Ambady要求参与者观看教授们的10秒无声视频片段,并对教师的整体有效性进行评分。他们的评分与学生的学期末评分高度相关。另一组参与者在观看视频片段时必须从1000倒数,每次减9,占用他们有意识的工作记忆。他们的评分同样准确,证明了社会处理过程的直觉性质。\n\n关键的是,另一组被要求在给出评分之前花一分钟写下他们判断的理由。准确性急剧下降。Ambady怀疑深思熟虑使他们专注于生动但具有误导性的线索,例如某些手势或话语,而不是让微妙信号的复杂相互作用形成整体印象。当参与者观看15秒的两人配对视频片段并判断他们是陌生人、朋友还是约会对象时,她发现了类似的干扰。\n\n其他研究表明,当我们依靠直觉而非反思时,我们更善于从薄片中检测欺骗。东北大学心理学家Judith Hall说:\"这就像你在开手动挡车,如果你开始想得太多,你就记不住自己在做什么。但如果你进入自动驾驶模式,你就没问题。我们的社会生活很大程度上就是这样。\"\n\n思考过多也会损害我们形成偏好的能力。当大学生不被要求分析他们的理由时,他们对草莓酱和大学课程的评分与专家意见更一致。当人们被要求关注自己的感受而非细节时,他们做出的购车决策既在客观上更好,也在个人层面上更令人满意,但只有在决策复杂时才如此——当他们有大量信息需要处理时。\n\n直觉的特殊力量只在特定情况下才会释放。在一项研究中,参与者完成了八项任务,其中四项利用反思性思维(辨别规则、理解词汇),四项利用直觉和创造力(生成新产品或修辞手法)。然后他们评估自己使用直觉的程度(\"直觉感受\"、\"预感\"、\"我的内心\")。如预期的那样,使用直觉损害了他们在前四项任务上的表现,但帮助了他们完成其余任务。有时心灵比头脑更聪明。",
+    "questions": [
+      {
+        "q": "Nalini Ambady's study deals with____.",
+        "opts": [
+          "the power of people's memory",
+          "the reliability of first impressions",
+          "Instructor-student interaction",
+          "people's ability to influence others"
+        ],
+        "ans": 1,
+        "explain": "答案B。the reliability of first impressions 恰好是\"凭第一印象判断他人有多准\"的名词化表达，与定位句的语义和预判一致。"
+      },
+      {
+        "q": "In Ambady's study, rating accuracy dropped when participants____.",
+        "opts": [
+          "focused on specific details",
+          "gave the rating in limited time",
+          "watched shorter video clips",
+          "discussed with one another"
+        ],
+        "ans": 0,
+        "explain": "答案A。focused on specific details 用上位概括词覆盖了原文的具体细节例证，与预判完全一致。"
+      },
+      {
+        "q": "Judith Hall mentions driving to show that____.",
+        "opts": [
+          "reflection can be distracting",
+          "memory may be selective",
+          "social skills must be cultivated",
+          "deception is difficult to detect"
+        ],
+        "ans": 0,
+        "explain": "答案A。reflection can be distracting 就是论点句\"靠直觉胜过反思\"的反面表述——反思会分散/扰乱判断，正好契合开车比喻的目的。"
+      },
+      {
+        "q": "When you are making complex decisions, it is advisable to____.",
+        "opts": [
+          "collect enough data",
+          "list your preferences",
+          "seek expert advice",
+          "follow your feelings"
+        ],
+        "ans": 3,
+        "explain": "答案D。follow your feelings 直接取了 focus on their feelings 的同义表达，完美对应预判。"
+      },
+      {
+        "q": "What can we learn from the last paragraph?",
+        "opts": [
+          "Generating new products takes time.",
+          "Intuition may affect reflective tasks.",
+          "Vocabulary comprehension needs creativity.",
+          "Objective thinking may boost intuitiveness."
+        ],
+        "ans": 1,
+        "explain": "答案B。Intuition may affect reflective tasks. 用情态动词 may + 中性动词 affect 给原文的 hurt 加了\"推断式\"语气，是教科书式的推断题正确项形态。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2021-cloze",
+    "type": "完形填空",
+    "title": "2021年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "It's not difficult to set targets for staff. It is much harder, __(1)__ , to understand their negative consequences. Most work-related behaviors have multiple components. __(2)__ one and the others become distorted.\n\nTravel on a London bus and you'll __(3)__ see how this works with drivers. Watch people get on and show their tickets. Are they carefully inspected? Never. Do people get on without paying? Of course! Are there inspectors to __(4)__ that people have paid? Possibly, but very few. And people who run for the bus? They are __(5)__ . How about jumping lights? Buses do so almost as frequently as cyclists.\n\nWhy? Because the target is __(6)__ . People complained that buses were late and infrequent. __(7)__ , the number of buses and bus lanes was increased, and drivers were __(8)__ or punished according to the time they took. And drivers hit these targets. But they __(9)__ hit cyclists. If the target was changed to __(10)__ , you would have more inspectors and more sensitive pricing. If the criterion changed to safety, you would get more __(11)__ drivers who obeyed traffic laws. But both these criteria would be at the expense of time.\n\nThere is another __(12)__ : people became immensely inventive in hitting targets. Have you __(13)__ that you can leave on a flight an hour late but still arrive on time? Tailwinds? Of course not! Airlines have simply changed the time a __(14)__ is meant to take. A one-hour flight is now billed as a two-hour flight.\n\nThe __(15)__ of the story is simple. Most jobs are multidimensional, with multiple criteria. Choose one criterion and you may well __(16)__ others. Everything can be done faster and made cheaper, but there is a __(17)__ . Setting targets can and does have unforeseen negative consequences.\n\nThis is not an argument against target-setting. But it is an argument for exploring consequences first. All good targets should have multiple criteria __(18)__ critical factors such as time, money, quality and customer feedback. The trick is not only to __(19)__ just one or even two dimensions of the objective, but also to understand how to help people better __(20)__ the objective.",
+    "passage_zh": "为员工设定目标并不困难。然而，理解这些目标的负面后果却要困难得多。大多数与工作相关的行为都有多个组成部分。强调其中一个,其他部分就会变得扭曲。\n\n乘坐伦敦公交车,你很快就会看到这在司机身上是如何体现的。观察人们上车并出示车票。车票会被仔细检查吗?从来不会。有人不付钱就上车吗?当然有!有检票员检查人们是否付费吗?可能有,但非常少。那些追赶公交车的人呢?他们被忽视了。闯红灯呢?公交车闯红灯的频率几乎和骑自行车的人一样高。\n\n为什么?因为目标是准点。人们抱怨公交车晚点且班次不频繁。因此,公交车数量和公交专用道增加了,司机根据他们所花费的时间受到奖励或惩罚。司机们达到了这些目标。但他们也撞到了骑自行车的人。如果目标改为收入,你会有更多检票员和更灵活的定价。如果标准改为安全,你会得到更谨慎、遵守交通法规的司机。但这两个标准都将以时间为代价。\n\n还有另一个问题:人们在达成目标方面变得极其善于创新。你有没有注意到,你可以晚一个小时起飞但仍能准点到达?顺风?当然不是!航空公司只是改变了行程应该花费的时间。一小时的航班现在被标注为两小时的航班。\n\n这个故事的寓意很简单。大多数工作都是多维度的,有多个标准。选择一个标准,你很可能会牺牲其他标准。一切都可以做得更快、成本更低,但这是有代价的。设定目标可能而且确实会产生意想不到的负面后果。\n\n这并不是反对设定目标的论点。但这是一个主张首先探讨后果的论点。所有好的目标都应该有与时间、金钱、质量和客户反馈等关键因素相关的多个标准。诀窍不仅在于只明确目标的一个甚至两个维度,还在于理解如何帮助人们更好地实现目标。",
+    "blanks": [
+      {
+        "opts": [
+          "therefore",
+          "however",
+          "again",
+          "moreover"
+        ],
+        "ans": 1,
+        "explain": "逻辑关系：easy 与 much harder 形成对照。完美承接 easy 到 hard 的反差"
+      },
+      {
+        "opts": [
+          "Emphasize",
+          "Identify",
+          "Assess",
+          "Explain"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：上文 multiple components 与本句 others become distorted 互证。唯一能引起其他维度被牺牲的动作"
+      },
+      {
+        "opts": [
+          "nearly",
+          "curiously",
+          "eagerly",
+          "quickly"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：下文一连串反问把现象推到眼前。'很快就能看出'与即时举证最契合"
+      },
+      {
+        "opts": [
+          "claim",
+          "prove",
+          "check",
+          "recall"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：主语 inspectors 决定动作是'查验'。'核查'正是查票员的本职动作"
+      },
+      {
+        "opts": [
+          "threatened",
+          "ignored",
+          "mocked",
+          "blamed"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：整段主线'司机为赶时间而无视乘客'。'被无视'与赶点不停车完全对应"
+      },
+      {
+        "opts": [
+          "punctuality",
+          "hospitality",
+          "competition",
+          "innovation"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：前句'晚点、班次少'＋后句'按用时奖惩'共同锁定准点。'准点'与 late/time 双重对应"
+      },
+      {
+        "opts": [
+          "Yet",
+          "So",
+          "Besides",
+          "Still"
+        ],
+        "ans": 1,
+        "explain": "逻辑关系：抱怨→对策标准因果链。'因此'精准衔接问题与对策"
+      },
+      {
+        "opts": [
+          "hired",
+          "trained",
+          "rewarded",
+          "grouped"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：or punished 锁定'奖—罚'对照。'被奖励'与 punished 完美对偶"
+      },
+      {
+        "opts": [
+          "only",
+          "rather",
+          "once",
+          "also"
+        ],
+        "ans": 3,
+        "explain": "逻辑关系：前句 hit these targets 与本句 hit cyclists 同动词不同宾语。'同时也'把'达标'与'撞人'并置成讽刺"
+      },
+      {
+        "opts": [
+          "comfort",
+          "revenue",
+          "efficiency",
+          "security"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：措施'多查票员＋灵活定价'指向收入。'收入'唯一对应查票＋灵活定价"
+      },
+      {
+        "opts": [
+          "friendly",
+          "quiet",
+          "cautious",
+          "diligent"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：safety＋obeyed traffic laws 双锁'谨慎'。'谨慎'与 safety 同义复现"
+      },
+      {
+        "opts": [
+          "purpose",
+          "problem",
+          "prejudice",
+          "policy"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：前文公交例已是'问题'，本句揭出另一个'问题'。'另一个问题'承接前文副作用脉络"
+      },
+      {
+        "opts": [
+          "reported",
+          "revealed",
+          "admitted",
+          "noticed"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：对读者发问＋飞行常识＝'注意到'。'注意到'最贴合读者日常感知"
+      },
+      {
+        "opts": [
+          "break",
+          "trip",
+          "departure",
+          "transfer"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：前句 flight、后句 flight 双向夹击。'行程'是 flight 的上义同义词"
+      },
+      {
+        "opts": [
+          "moral",
+          "background",
+          "style",
+          "form"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：后文直接给出'寓意'内容。'寓意'与后文主旨句完美匹配"
+      },
+      {
+        "opts": [
+          "interpret",
+          "criticize",
+          "sacrifice",
+          "tolerate"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：首段 distorted、第三段 at the expense of 持续指向'牺牲'。'牺牲'与 distorted/at the expense of 同义闭环"
+      },
+      {
+        "opts": [
+          "task",
+          "secret",
+          "product",
+          "cost"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：but 反差＋下句负面后果。'代价'承前转折、启后负面"
+      },
+      {
+        "opts": [
+          "leading to",
+          "calling for",
+          "relating to",
+          "accounting for"
+        ],
+        "ans": 2,
+        "explain": "固定搭配：criteria 与 critical factors 是包含关系。'与…相关'最贴合'标准涉及多个因素'"
+      },
+      {
+        "opts": [
+          "specify",
+          "predict",
+          "restore",
+          "create"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：前文'好目标多维'＋本句'不止指明一两维'。'指明、明确指定'与维度搭配自然"
+      },
+      {
+        "opts": [
+          "modify",
+          "review",
+          "present",
+          "achieve"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：全文主旨'让目标真正达成'。'达成'是全文落脚点"
+      }
+    ]
+  },
+  {
+    "id": "zy-2021-trans",
+    "type": "翻译",
+    "title": "2021年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "We tend to think that friends and family members are our biggest sources of connection, laughter, and warmth. While that may well be true, researchers have also recently found that interacting with strangers actually brings a boost in mood and feelings of belonging that we didn't expect.\n\nIn one series of studies, researchers instructed Chicago-area commuters using public transportation to strike up a conversation with someone near them. On average, participants who followed this instruction felt better than those who had been told to stand or sit in silence. The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. Much of the time, however, this belief is false. As it turns out, many people are actually perfectly willing to talk—and may even be flattered to receive your attention.",
+    "passage_zh": "我们往往认为，朋友和家人是我们获得情感联结、欢笑与温暖的最大来源。这种看法很可能没错，但研究者最近还发现，与陌生人互动其实会带来一种我们未曾预料到的心情提升和归属感。\n\n在一系列研究中，研究者要求乘坐公共交通的芝加哥地区通勤者，主动与身边的人攀谈。平均而言，照做攀谈的参与者，比那些被要求默不作声地站着或坐着的人心情更好。研究者还指出，当我们回避与陌生人的随意攀谈时，往往是出于一种没来由的担忧——担心对方可能不想搭理我们。然而，多数时候，这种担心其实是站不住脚的。事实证明，许多人其实非常乐意交谈——甚至会因为得到你的关注而感到受宠若惊。",
+    "intro": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2021-write-s",
+    "type": "写作",
+    "title": "2021年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Suppose you are organizing an online meeting. Write an email to Jack, an international student, to 1)invite him to participate, and 2)tell him the details. You should write about 100 words on the ANSWER SHEET.",
+    "tips": "邀请Jack开线上会并交代细节；要点：发出邀请；交代时间与平台；交代进入方式与主题"
+  },
+  {
+    "id": "zy-2021-write-b",
+    "type": "写作",
+    "title": "2021年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET.(15 points)\n\n图表说明：这张图片是一张垂直柱状图，图表的纵轴标有百分比，从0.0%开始，以10.0%为间隔，直到60.0%",
+    "chart": true,
+    "tips": "先读图再评论，两件事都要做；要点：客观描述四项占比与对比；分析个人锻炼流行的原因；给出评价与建议"
+  },
+  {
+    "id": "zy-2021-match",
+    "type": "新题型",
+    "title": "2021年真题 · 新题型（段落小标题 7选5）",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. Stay calm.",
+      "B. Stay humble.",
+      "C. Decide whether to wait.",
+      "D. Be realistic about the risks.",
+      "E. Don't make judgements.",
+      "F. Identify a shared goal.",
+      "G. Ask permission to disagree."
+    ],
+    "paras": [
+      {
+        "text": "You may decide it's best to hold off on voicing your opinion. Maybe you haven't finished thinking the problem through, or you want to get a clearer sense of what the group thinks. If you think other people are going to disagree, too, you might want to gather your army first. People can contribute experience or information to your thinking—all the things that would make the disagreement stronger or more valid. It's also a good idea to delay the conversation if you are in a meeting or other public space. Discussing the issue in private will make the powerful person feel less threatened.",
+        "ans": 2,
+        "explain": "答案C。主旨：先权衡该不该现在开口、要不要缓一缓；依据：同义对上「hold off = wait」"
+      },
+      {
+        "text": "Before you share your thoughts, think about what the powerful person cares about—it may be the credibility of their team or getting a project done on time. You're more likely to be heard if you can connect your disagreement to a higher purpose. When you do speak up, don't assume the link will be clear. You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective. The discussion will then become more like a chess game than a boxing match.",
+        "ans": 5,
+        "explain": "答案F。主旨：先想清对方在意什么、把异议接到更高目的上；依据：同义对上「common objective = shared goal」"
+      },
+      {
+        "text": "This step may sound overly deferential, but it's a smart way to give the powerful person psychological safety and control. You can say something like, \"I know we seem to be moving toward a first-quarter commitment here. I have reasons to think that won't work. I'd like to lay out my reasoning. Would that be OK?\" This gives the person a choice, allowing him to verbally opt in. And, assuming he says yes, it will make you feel more confident about voicing your disagreement.",
+        "ans": 6,
+        "explain": "答案G。主旨：开口反对前，先正式征得对方同意；依据：同义对上「opt in / OK? = Ask permission」"
+      },
+      {
+        "text": "You might feel your heart racing or your face turning red, but do whatever you can to remain neutral in both your words and actions. When your body language communicates reluctance or anxiety, it undercuts the message. It sends a mixed message, and your counterpart gets to choose what signals to read. Deep breaths can help, as can speaking more slowly and deliberately. When we feel panicky, we tend to talk louder and faster. Simply slowing the pace and talking in an even tone helps the other person cool down and does the same for you. It also makes you seem confident, even if you aren't.",
+        "ans": 0,
+        "explain": "答案A。主旨：控制情绪、言行保持平稳镇定；依据：同义对上「remain neutral = Stay calm」"
+      },
+      {
+        "text": "Emphasize that you're only offering your opinion, not gospel truth. It may be a well-informed, well-researched opinion, but it's still an opinion, so talk tentatively and slightly understate your confidence. Instead of saying: \"If we set an end-of-quarter deadline, we will never make it,\" say, \"This is just my opinion, but I don't see how we will make that deadline.\" Having asserted your opinion (as a position, not as a fact), demonstrate equal curiosity about other views. Remind the person that this is your point of view, and then invite critique. Be open to hearing other opinions.",
+        "ans": 1,
+        "explain": "答案B。主旨：放低姿态，把话说成观点而非定论，并欢迎别人反驳；依据：同义对上「only an opinion / tentatively = Stay humble」"
+      }
+    ],
+    "passage": "Your boss proposes a new initiative you think won't work. Your senior colleague outlines a project timeline you believe is unrealistic. What do you say when you disagree with someone who has more power than you do? How do you decide whether it's worth speaking up? And if you do, what exactly should you say? Here's how to disagree with someone more powerful than you.\n\n(41)占位符这是等待完型填空的句子位置\n\nYou may decide it's best to hold off on voicing your opinion. Maybe you haven't finished thinking the problem through, or you want to get a clearer sense of what the group thinks. If you think other people are going to disagree, too, you might want to gather your army first. People can contribute experience or information to your thinking—all the things that would make the disagreement stronger or more valid. It's also a good idea to delay the conversation if you are in a meeting or other public space. Discussing the issue in private will make the powerful person feel less threatened.\n\n(42)占位符这是等待完型填空的句子位置\n\nBefore you share your thoughts, think about what the powerful person cares about—it may be the credibility of their team or getting a project done on time. You're more likely to be heard if you can connect your disagreement to a higher purpose. When you do speak up, don't assume the link will be clear. You'll want to state it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective. The discussion will then become more like a chess game than a boxing match.\n\n(43)占位符这是等待完型填空的句子位置\n\nThis step may sound overly deferential, but it's a smart way to give the powerful person psychological safety and control. You can say something like, \"I know we seem to be moving toward a first-quarter commitment here. I have reasons to think that won't work. I'd like to lay out my reasoning. Would that be OK?\" This gives the person a choice, allowing him to verbally opt in. And, assuming he says yes, it will make you feel more confident about voicing your disagreement.\n\n(44)占位符这是等待完型填空的句子位置\n\nYou might feel your heart racing or your face turning red, but do whatever you can to remain neutral in both your words and actions. When your body language communicates reluctance or anxiety, it undercuts the message. It sends a mixed message, and your counterpart gets to choose what signals to read. Deep breaths can help, as can speaking more slowly and deliberately. When we feel panicky, we tend to talk louder and faster. Simply slowing the pace and talking in an even tone helps the other person cool down and does the same for you. It also makes you seem confident, even if you aren't.\n\n(45)占位符这是等待完型填空的句子位置\n\nEmphasize that you're only offering your opinion, not gospel truth. It may be a well-informed, well-researched opinion, but it's still an opinion, so talk tentatively and slightly understate your confidence. Instead of saying: \"If we set an end-of-quarter deadline, we will never make it,\" say, \"This is just my opinion, but I don't see how we will make that deadline.\" Having asserted your opinion (as a position, not as a fact), demonstrate equal curiosity about other views. Remind the person that this is your point of view, and then invite critique. Be open to hearing other opinions.",
+    "passage_zh": "你的老板提出了一项你认为行不通的新举措。你的资深同事概述了一个你认为不切实际的项目时间表。当你不同意一个比你更有权力的人时,你会说什么?你如何决定是否值得说出来?如果你真的说出来,你到底应该说什么?以下是如何与比你更有权力的人持不同意见的方法。\n\n决定是否等待。\n\n你可能会决定最好推迟表达你的意见。也许你还没有把问题想透彻,或者你想更清楚地了解团队的想法。如果你认为其他人也会不同意,你可能想先集结你的队伍。人们可以为你的思考贡献经验或信息——所有这些都会使异议更有力或更有效。如果你在会议或其他公共场合,推迟对话也是一个好主意。私下讨论这个问题会让有权势的人感到威胁更小。\n\n确定一个共同目标。\n\n在你分享你的想法之前,想想有权势的人关心什么——可能是他们团队的信誉或按时完成项目。如果你能把你的异议与更高的目标联系起来,你更有可能被倾听。当你确实说出来时,不要认为这种联系是显而易见的。你需要明确地陈述它,将你的陈述置于情境中,这样你就不会被看作是一个难相处的下属,而是一个试图推进共同目标的同事。这样一来,讨论就会更像一场国际象棋比赛,而不是一场拳击比赛。\n\n请求允许表达不同意见。\n\n这一步听起来可能过于恭顺,但它是给予有权势的人心理安全感和控制权的明智方式。你可以说类似这样的话:'我知道我们似乎正朝着第一季度承诺的方向前进。我有理由认为那行不通。我想陈述我的理由。可以吗?'这给了对方一个选择,让他口头表示同意。而且,假设他说可以,这会让你对表达异议感到更有信心。\n\n保持冷静。\n\n你可能会感到心跳加速或脸红,但无论如何都要在言语和行动上保持中立。当你的肢体语言传达出不情愿或焦虑时,它会削弱信息。它发出混合信号,而你的对话者可以选择读取什么信号。深呼吸有帮助,说话更慢、更从容也有帮助。当我们感到恐慌时,我们往往会说得更大声、更快。仅仅是放慢节奏并以平稳的语气说话就能帮助对方冷静下来,对你自己也有同样的作用。它还会让你看起来自信,即使你并不自信。\n\n保持谦逊。\n\n强调你只是提供你的意见,而不是绝对真理。它可能是一个见多识广、经过充分研究的意见,但它仍然是一个意见,所以要试探性地说话,稍微低估你的信心。不要说:'如果我们设定季度末截止日期,我们永远无法完成',而要说:'这只是我的意见,但我看不出我们如何能在那个截止日期前完成。'在表明你的意见(作为一种立场,而不是事实)之后,对其他观点表现出同样的好奇心。提醒对方这是你的观点,然后邀请批评。对听取其他意见持开放态度。"
+  },
+  {
+    "id": "zy-2022-read-1",
+    "type": "阅读理解",
+    "title": "2022年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "On a recent sunny day, 13,000 chickens roam over Larry Brown's 40 windswept acres in Shiner, Texas. Some rest in the shade of a parked car. Others drink water with the cows. This all seems random, but it's by design, part of what the $6.1 billion U.S. egg industry bets will be its next big thing: climate-friendly eggs.\n\nThese eggs, which are making their debut now on shelves for as much as $8 a dozen, are still labeled organic and animal-friendly, but they're also from birds that live on farms using regenerative agriculture—special techniques to cultivate rich soils that can trap greenhouse gases. Such eggs could be marketed as helping to fight climate change.\n\n\"I'm excited about our progress,\" says Brown, who harvests eggs for Denver-based Nest Fresh Eggs and is adding more cover crops that draw worms and crickets for the chickens to eat. The birds' waste then fertilizes fields. Such improvements \"allow our hens to forage for higher-quality natural feed that will be good for the land, the hens, and the eggs that we supply to our customers.\"\n\nThe egg industry's push is the first major test of whether animal products from regenerative farms can become the next premium offering. In barely more than a decade, organic eggs went from being dismissed as a niche product in natural foods stores to being sold at Walmart. More recently there were similar doubts about probiotics and plant-based meats, but both have exploded into major supermarket categories. If the sustainable-egg rollout is successful, it could open the floodgates for regenerative beef, broccoli, and beyond.\n\nRegenerative products could be a hard sell, because the concept is tough to define quickly, says Julie Stanton, associate professor of agricultural economics at Pennsylvania State University Brandywine. Such farming also brings minimal, if any, improvement to the food products (though some producers say their eggs have more protein).\n\nThe industry is betting that the same consumers paying more for premium attributes such as free-range, non-GMO, and pasture-raised eggs will embrace sustainability. Surveys show that younger generations are more concerned about climate change, and some of the success of plant-based meat can be chalked up to shoppers wanting to signal their desire to protect the environment. Young adults \"really care about the planet,\" says John Brunnquell, president of Egg Innovations. \"They are absolutely altering the food chain beyond what I think even they understand what they're doing.\"",
+    "passage_zh": "在最近一个阳光明媚的日子里,13000只鸡在德克萨斯州Shiner的Larry Brown那片40英亩的多风土地上漫步。一些鸡在停放的汽车阴影下休息。另一些则和奶牛一起喝水。这一切看似随意,但实际上是经过设计的,是这个价值61亿美元的美国鸡蛋产业押注的下一个大趋势的一部分:气候友好型鸡蛋。\n\n这些鸡蛋目前正在货架上首次亮相,售价高达每打8美元,它们仍然标有有机和动物友好的标签,但它们也来自生活在使用再生农业的农场上的鸟类——这种特殊技术培育能够捕获温室气体的肥沃土壤。这类鸡蛋可以作为帮助对抗气候变化的产品进行营销。\n\n\"我对我们的进展感到兴奋,\"为位于丹佛的Nest Fresh Eggs收获鸡蛋的Brown说,他正在增加更多覆盖作物,以吸引蚯蚓和蟋蟀供鸡食用。然后鸟类的粪便为田地施肥。这些改进\"使我们的母鸡能够觅食更高质量的天然饲料,这对土地、母鸡以及我们供应给客户的鸡蛋都有好处。\"\n\n鸡蛋行业的推动是对来自再生农场的动物产品能否成为下一个高端产品的首次重大考验。在短短十多年里,有机鸡蛋从被视为天然食品商店的小众产品发展到在沃尔玛销售。最近,益生菌和植物基肉类也曾遭遇类似质疑,但两者都已爆发式增长成为超市的主要品类。如果可持续鸡蛋的推出取得成功,它可能为再生牛肉、西兰花及更多产品打开闸门。\n\n宾夕法尼亚州立大学Brandywine分校农业经济学副教授Julie Stanton说,再生产品可能难以销售,因为这个概念很难快速定义。这种农业方式对食品本身的改善也极少,甚至没有(尽管一些生产商声称他们的鸡蛋含有更多蛋白质)。\n\n该行业押注那些愿意为自由放养、非转基因和牧场饲养等优质属性支付更多费用的消费者将会接受可持续性。调查显示,年轻一代更关注气候变化,植物基肉类的部分成功可以归因于购物者希望表明他们保护环境的愿望。Egg Innovations总裁John Brunnquell说,年轻人\"真的很关心地球\",\"他们正在彻底改变食物链,其影响甚至超出了我认为他们自己所理解的程度。\"",
+    "questions": [
+      {
+        "q": "The climate-friendly eggs are produced____",
+        "opts": [
+          "at a considerably low cost.",
+          "at the demand of regular shoppers.",
+          "as a replacement for organic eggs.",
+          "on specially designed farms."
+        ],
+        "ans": 3,
+        "explain": "答案D。预判要的「特殊农场」与 specially designed farms 在语义上一致——specially designed 是 using regenerative agriculture—special techniques 的高度概括，没有改变范围。"
+      },
+      {
+        "q": "Larry Brown is excited about his progress in____",
+        "opts": [
+          "reducing the damage of worms.",
+          "accelerating the disposal of waste.",
+          "creating a sustainable system.",
+          "attracting customers to his products."
+        ],
+        "ans": 2,
+        "explain": "答案C。C 项的 sustainable system 恰好覆盖循环链与三方共益两层信息，与预判一字不差。"
+      },
+      {
+        "q": "The example of organic eggs is used in Paragraph 4 to suggest____",
+        "opts": [
+          "the doubts over natural feeds.",
+          "the setbacks in the egg industry.",
+          "the potential of regenerative products.",
+          "the promotional success of supermarkets."
+        ],
+        "ans": 2,
+        "explain": "答案C。预判「再生类产品有潜力」与 the potential of regenerative products 完全对应；只有 C 抓住了例证服务的真正论点。"
+      },
+      {
+        "q": "It can be learned from the last paragraph that young people____",
+        "opts": [
+          "are reluctant to change their diet.",
+          "are likely to buy climate-friendly eggs.",
+          "are curious about new food.",
+          "are amazed at agriculture advances."
+        ],
+        "ans": 1,
+        "explain": "答案B。B 正好把「关心气候 + 愿为环保付钱」推到「会买气候友好蛋」，恰好一步、未跨步，与预判完全契合。"
+      },
+      {
+        "q": "John Brunnquell would disagree with Julie Stanton over regenerative products'____",
+        "opts": [
+          "market prospects.",
+          "standard definition.",
+          "nutritional value.",
+          "moral implication."
+        ],
+        "ans": 0,
+        "explain": "答案A。B/C/D 三个维度要么只有一方提及，要么两方未呈现对立；只有「市场前景」是双方都涉及且方向相反，符合 disagree 的要求。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2022-read-2",
+    "type": "阅读理解",
+    "title": "2022年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "More Americans are opting to work well into retirement, a growing trend that threatens to upend the old workforce model.\n\nOne in three Americans who are at least 40 have or plan to have a job in retirement to prepare for a longer life, according to a survey conducted by Harris Poll for TD Ameritrade. Even more surprising is that more than half of \"unretirees\"—those who plan to work in retirement or went back to work after retiring—said they would be employed in their later years even if they had enough money to settle down, the survey showed.\n\nFinancial needs aren't the only culprit for the \"unretirement\" trend. Other reasons, according to the study, include personal fulfillment such as staying mentally fit, preventing boredom or avoiding depression. About 72% of \"unretiree\" respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet.\n\n\"The concept of retirement is evolving,\" said Christine Russell, senior manager of retirement at TD Ameritrade. \"It's not just about finances. The value of work is also driving folks to continue working past retirement.\"\n\nOne reason for the change in retirement patterns: Americans are living longer. The share of the population 65 and older was 16% in 2018, up 32% from the prior year, according to the U.S. Census Bureau. That's also up 30.2% since 2010. Older Americans are also the fastest-growing segment of the US workforce, and boomers are expected to live longer than previous generations. The percentage of retirement-age people in the labor force has doubled over the past three decades. About 20% of people 65 and older were in the workforce in February, up from an all-time low of 10% in January 1985, according to money manager United Income.\n\nBecause of longer life spans, Americans are also boosting their savings to preserve their nest eggs, the TD Ameritrade study showed, which surveyed 2000 adults between 40 and 79. Six in 10 \"unretirees\" are increasing their savings in anticipation of a longer life, according to the survey. Among the most popular ways they are doing this, the company said, is by reducing their overall expenses, securing life insurance or maximizing their contributions to retirement accounts.\n\nUnfortunately, many people who are opting to work in retirement are preparing to do so because they are worried about making ends meet in their later years, said Brent Weiss, a co-founder at Baltimore-based financial-planning firm Facet Wealth. He suggested that preretirees should speak with a financial adviser to set long-term financial goals.\n\n\"The most challenging moments in life are getting married, starting a family and ultimately retiring,\" Weiss said. \"It's not just a financial decision, but an emotional one. Many people believe they can't retire.\"",
+    "passage_zh": "越来越多的美国人选择工作到退休后很久，这一日益增长的趋势可能会颠覆旧有的劳动力模式。\n\n根据Harris Poll为TD Ameritrade进行的一项调查，年龄至少40岁的美国人中有三分之一已经或计划在退休后找一份工作，为更长的寿命做准备。更令人惊讶的是，调查显示，超过半数的\"不退休者\"——那些计划在退休后工作或退休后重返工作岗位的人——表示即使有足够的钱安顿下来,他们也会在晚年继续工作。\n\n经济需求并非\"不退休\"趋势的唯一原因。根据该研究，其他原因包括个人成就感,如保持精神健康、防止无聊或避免抑郁。约72%的\"不退休者\"受访者表示,他们会在退休后重返工作以保持精神健康,而59%的人表示这与维持生计有关。\n\nTD Ameritrade退休业务高级经理Christine Russell表示:\"退休的概念正在演变。这不仅仅关乎财务。工作的价值也在驱使人们在退休后继续工作。\"\n\n退休模式改变的一个原因是:美国人的寿命更长了。根据美国人口普查局的数据,2018年65岁及以上人口占总人口的16%,比前一年增长32%。这也比2010年增长了30.2%。老年美国人也是美国劳动力中增长最快的群体,婴儿潮一代预计比前几代人更长寿。过去三十年中,退休年龄人口在劳动力中的比例翻了一番。根据资产管理公司United Income的数据,2月份约有20%的65岁及以上人口在劳动力队伍中,高于1985年1月10%的历史最低水平。\n\nTD Ameritrade的研究显示,由于寿命延长,美国人也在增加储蓄以保护他们的养老金,该研究调查了2000名年龄在40至79岁之间的成年人。根据调查,十分之六的\"不退休者\"正在增加储蓄以应对更长的寿命。该公司表示,他们这样做的最流行方式包括减少总体开支、购买人寿保险或最大化他们对退休账户的缴款。\n\n位于Baltimore的财务规划公司Facet Wealth的联合创始人Brent Weiss表示,不幸的是,许多选择在退休后工作的人准备这样做是因为他们担心晚年无法维持生计。他建议即将退休的人应该与财务顾问交谈以设定长期财务目标。\n\nWeiss说:\"人生中最具挑战性的时刻是结婚、组建家庭以及最终退休。这不仅仅是一个财务决定,而且是一个情感决定。许多人认为他们无法退休。\"",
+    "questions": [
+      {
+        "q": "The survey conducted by Harris Poll indicates that____",
+        "opts": [
+          "over half of the retirees are physically fit for work.",
+          "the old workforce is as active as the younger one.",
+          "one in three Americans enjoy earlier retirement.",
+          "more Americans are willing to work in retirement."
+        ],
+        "ans": 3,
+        "explain": "答案D。D 同时覆盖了\"1/3 计划退休后工作\"和\"过半 unretirees 钱够也愿继续\"两组数据的共同指向，与预判一致。"
+      },
+      {
+        "q": "It can be inferred from Paragraph 3 that Americans tend to think that____",
+        "opts": [
+          "retirement may cause problems for them.",
+          "boredom can be relieved after retirement.",
+          "the mental health of retirees is overlooked.",
+          "\"unretirement\" contributes to the economy."
+        ],
+        "ans": 0,
+        "explain": "答案A。三条原因都把退休的负面可能视为应预防的目标，其最大公约数正是\"退休可能给人带来问题\"，与预判完全对应。"
+      },
+      {
+        "q": "Retirement patterns are changing partly due to____",
+        "opts": [
+          "labor shortage.",
+          "population growth.",
+          "longer life expectancy.",
+          "rising living costs."
+        ],
+        "ans": 2,
+        "explain": "答案C。选项 C 即定位句 Americans are living longer. 的术语化转写，与预判完全一致。"
+      },
+      {
+        "q": "Many \"unretirees\" are increasing their savings by____",
+        "opts": [
+          "investing more in stocks.",
+          "taking up odd jobs.",
+          "getting well-paid work.",
+          "spending less."
+        ],
+        "ans": 3,
+        "explain": "答案D。D 精准对应清单第一项 reducing their overall expenses，与预判中的三项之一吻合。"
+      },
+      {
+        "q": "With regard to retirement, Brent Weiss thinks that many people are____",
+        "opts": [
+          "unprepared.",
+          "unafraid.",
+          "disappointed.",
+          "enthusiastic."
+        ],
+        "ans": 0,
+        "explain": "答案A。Weiss 的评价（worried）+建议（should set goals）+转述（can't retire）共同指向\"许多人对退休未做好准备\"，与预判完全一致。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2022-read-3",
+    "type": "阅读理解",
+    "title": "2022年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "We have all encountered them, in both our personal and professional lives. Think about the times you felt tricked or frustrated by a membership or subscription that had a seamless sign-up process but was later difficult to cancel. Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice. These are examples of dark patterns.\n\nFirst coined in 2010 by user experience expert Harry Brignull, \"dark patterns\" is a catch-all term for practices that manipulate user interfaces to influence the decision-making ability of users. Brignull identifies 12 types of common dark patterns, ranging from misdirection and hidden costs to \"roach motel\", where a user experience seems easy and intuitive at the start, but turns difficult when the user tries to get out.\n\nIn a 2019 study of 53,000 product pages and 11,000 websites, researchers found that about one in 10 employs these design practices. Though widely prevalent, the concept of dark patterns is still not well understood. Business and nonprofit leaders should be aware of dark patterns and try to avoid the gray areas they engender.\n\nWhere is the line between ethical, persuasive design and dark patterns? Businesses should engage in conversations with IT, compliance, risk, and legal teams to review their privacy policy, and include in the discussion the customer/user experience designers and coders responsible for the company's user interface, as well as the marketers and advertisers responsible for sign-ups, checkout baskets, pricing, and promotions. Any or all these teams can play a role in creating or avoiding \"digital deception.\"\n\nLawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the state level. In March, the California Attorney General announced the approval of additional regulations under the California Consumer Privacy Act (CCPA) that \"ensure that consumers will not be confused or misled when seeking to exercise their data privacy rights. The regulations aim to ban dark patterns—this means prohibiting companies from using confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.\"\n\nAs more states consider promulgating additional regulations, there is a need for greater accountability from within the business community. Dark patterns also can be addressed on a self-regulatory basis, but only if organizations hold themselves accountable, not just to legal requirements but also to industry best practices and standards.",
+    "passage_zh": "我们在个人生活和职业生涯中都遇到过它们。想想那些让你感到被欺骗或沮丧的会员资格或订阅服务，它们注册过程无缝顺畅，但后来却很难取消。本应简单透明的事情却可能被有意或无意地复杂化，从而损害消费者的选择权。这些就是暗黑模式的例子。\n\n2010年由用户体验专家Harry Brignull首次提出，\"暗黑模式\"是一个概括性术语，指操纵用户界面以影响用户决策能力的做法。Brignull识别出12种常见的暗黑模式类型，从误导和隐藏成本到\"蟑螂旅馆\"，即用户体验在开始时看起来简单直观，但当用户试图退出时却变得困难。\n\n在2019年一项对53000个产品页面和11000个网站的研究中，研究人员发现约十分之一采用了这些设计做法。尽管广泛流行，暗黑模式的概念仍未被充分理解。企业和非营利组织领导者应该意识到暗黑模式，并努力避免它们所产生的灰色地带。\n\n道德的、具有说服力的设计与暗黑模式之间的界限在哪里?企业应该与IT、合规、风险和法律团队展开对话，审查其隐私政策，并将负责公司用户界面的客户/用户体验设计师和编码人员，以及负责注册、结账篮、定价和促销的营销人员和广告商纳入讨论。这些团队中的任何一个或全部都可能在创造或避免\"数字欺骗\"中发挥作用。\n\n立法者和监管机构正在缓慢开始解决暗黑模式周围的模糊性问题，最近主要在州一级。3月，加州总检察长宣布批准California Consumer Privacy Act (CCPA)下的附加法规，\"确保消费者在寻求行使其数据隐私权时不会感到困惑或被误导。这些法规旨在禁止暗黑模式——这意味着禁止公司使用令人困惑的语言或不必要的步骤，例如强迫他们点击多个屏幕或听取他们不应该选择退出的理由。\"\n\n随着更多州考虑颁布额外的法规，商业界需要更大的问责制。暗黑模式也可以在自律的基础上得到解决，但前提是组织不仅要对法律要求负责，还要对行业最佳实践和标准负责。",
+    "questions": [
+      {
+        "q": "It can be learned from the first two paragraphs that dark patterns____",
+        "opts": [
+          "improve user experiences",
+          "leak user information for profit",
+          "undermine users' decision-making",
+          "remind users of hidden costs"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要的是\"损害决策\"，选项 C 用 undermine 这一明确贬义动词承接 decision-making，与定位句意一一对应，唯一吻合。"
+      },
+      {
+        "q": "The 2019 study on dark patterns is mentioned to show____",
+        "opts": [
+          "their major flaws",
+          "their complex designs",
+          "their severe damage",
+          "their strong presence"
+        ],
+        "ans": 3,
+        "explain": "答案D。预判要的是\"很普遍\"，strong presence 是普遍存在的名词化表述，与 widely prevalent 直接同义。"
+      },
+      {
+        "q": "To handle digital deception, businesses should____",
+        "opts": [
+          "listen to customer feedback",
+          "talk with relevant teams",
+          "turn to independent agencies",
+          "rely on professional training"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判要的是\"和相关团队对话\"，talk with relevant teams 在动作（talk）和对象（relevant teams）两个维度都与定位句一一对应，唯一吻合。"
+      },
+      {
+        "q": "The additional regulations under the CCPA are intended to____",
+        "opts": [
+          "guide users through opt-out processes",
+          "protect consumers from being tricked",
+          "grant companies data privacy rights",
+          "restrict access to problematic content"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判要的是\"保护消费者不被误导\"，protect consumers from being tricked 在目的（protect）与对象（consumers）两个维度都与定位句一一对应。"
+      },
+      {
+        "q": "According to the last paragraph, a key to coping with dark patterns is ____",
+        "opts": [
+          "new legal requirements",
+          "businesses' self-discipline",
+          "strict regulatory standards",
+          "consumers' safety awareness"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判要的是\"组织自我问责\"，businesses' self-discipline 是其名词化等价形式，与 but only if 后的关键条件直接对应。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2022-read-4",
+    "type": "阅读理解",
+    "title": "2022年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Although ethics classes are common around the world, scientists are unsure if their lessons can actually change behavior; evidence either way is weak, relying on contrived laboratory tests or sometimes unreliable self-reports. But a new study published in Cognition found that, in at least one real-world situation, a single ethics lesson may have had lasting effects.\n\nThe researchers investigated one class session's impact on eating meat. They chose this particular behavior for three reasons, according to study co-author Eric Schwitzgebel, a philosopher at the University of California, Riverside: students' attitudes on the topic are variable and unstable, behavior is easily measurable, and ethics literature largely agrees that eating less meat is good because it reduces environmental harm and animal suffering. Half of the students in four large philosophy classes read an article on the ethics of factory-farmed meat, optionally watched an 11-minute video on the topic and joined a 50-minute discussion. The other half focused on charitable giving instead. Then, unknown to the students, the researchers studied their anonymized meal-card purchases for that semester—nearly 14,000 receipts for almost 500 students.\n\nSchwitzgebel predicted the intervention would have no effect; he had previously found that ethics professors do not differ from other professors on a range of behaviors, including voting rates, blood donation and returning library books. But among student subjects who discussed meat ethics, meal purchases containing meat decreased from 52 to 45 percent—and this effect held steady for the study's duration of several weeks. Purchases from the other group remained at 52 percent.\n\n\"That's actually a pretty large effect for a pretty small intervention,\" Schwitzgebel says. Psychologist Nina Strohminger at the University of Pennsylvania, who was not involved in the study, says she wants the effect to be real but cannot rule out some unknown confounding variable. And if real, she notes, it might be reversible by another nudge: \"Easy come, easy go.\"\n\nSchwitzgebel suspects the greatest impact came from social influence—classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it as achievable or more common. Second, the video may have had an emotional impact. Least rousing, he thinks, was rational argument, although his co-authors say reason might play a bigger role. Now the researchers are probing the specific effects of teaching style, teaching assistants' eating habits and students' video exposure. Meanwhile, Schwitzgebel—who had predicted no effect—will be eating his words.",
+    "passage_zh": "尽管伦理课程在世界各地很常见,但科学家们不确定这些课程是否真的能改变行为;无论哪种方向的证据都很薄弱,依赖于人为设计的实验室测试或有时不可靠的自我报告。但发表在《认知》期刊上的一项新研究发现,至少在一种真实世界的情况下,一堂伦理课可能产生了持久的影响。\n\n研究人员调查了一堂课对吃肉行为的影响。根据该研究的共同作者、加州大学河滨分校哲学家Eric Schwitzgebel的说法,他们选择这一特定行为有三个原因:学生对该话题的态度是可变且不稳定的,行为易于测量,伦理学文献在很大程度上认同少吃肉是好的,因为它减少了环境危害和动物痛苦。在四个大型哲学课堂中,一半学生阅读了一篇关于工厂化养殖肉类伦理的文章,自愿观看了一个11分钟的相关视频,并参加了50分钟的讨论。另一半则专注于慈善捐赠。然后,在学生不知情的情况下,研究人员研究了他们那个学期的匿名餐卡购买记录——近500名学生的近14000张收据。\n\nSchwitzgebel预测这一干预不会产生效果;他此前发现伦理学教授在一系列行为上与其他教授没有差异,包括投票率、献血和归还图书馆书籍。但在讨论了肉类伦理的学生受试者中,含肉的餐食购买从52%下降到45%——而且这一效果在研究持续的几周内保持稳定。另一组的购买则保持在52%。\n\nSchwitzgebel说:\"对于一个相当小的干预来说,这实际上是一个相当大的效果。\"未参与该研究的宾夕法尼亚大学心理学家Nina Strohminger说,她希望这个效果是真实的,但不能排除某些未知的混淆变量。她指出,如果是真实的,它可能会被另一个推动而逆转:\"来得容易,去得也快。\"\n\nSchwitzgebel怀疑最大的影响来自社会影响——主持讨论的同学或助教可能分享了他们自己的素食主义,表明这是可实现的或更常见的。其次,视频可能产生了情感影响。他认为,理性论证的激励作用最小,尽管他的共同作者们说理性可能发挥更大的作用。现在研究人员正在探究教学风格、助教的饮食习惯和学生观看视频的具体效果。与此同时,曾预测不会有效果的Schwitzgebel将要食言了。",
+    "questions": [
+      {
+        "q": "Scientists generally believe that the effects of ethics classes are____",
+        "opts": [
+          "hard to determine.",
+          "narrowly interpreted.",
+          "difficult to ignore.",
+          "poorly summarized."
+        ],
+        "ans": 0,
+        "explain": "答案A。预判要的是\"不确定/难以判定\"，四个选项中只有 hard to determine 直接命中这一语义。"
+      },
+      {
+        "q": "Which of the following is a reason for the researchers to study meat eating?",
+        "opts": [
+          "It is common among students.",
+          "It is a behavior easy to measure.",
+          "It is important to students' health.",
+          "It is a hot topic in ethics classes."
+        ],
+        "ans": 1,
+        "explain": "答案B。It is a behavior easy to measure 与预判清单的第二条 behavior is easily measurable 一一对应，是原文事实的同义改写。"
+      },
+      {
+        "q": "Eric Schwitzgebel's previous findings suggest that ethics professors____",
+        "opts": [
+          "are seldom critical of their students.",
+          "are less sociable than other professors.",
+          "are not sensitive to political issues.",
+          "are not necessarily ethically better."
+        ],
+        "ans": 3,
+        "explain": "答案D。预判要的是\"伦理教授在伦理行为上与他人无异\"，四项中只有 are not necessarily ethically better 直接对应这一上位结论。"
+      },
+      {
+        "q": "Nina Strohminger thinks that the effect of the intervention is____",
+        "opts": [
+          "permanent.",
+          "predictable.",
+          "uncertain.",
+          "unrepeatable."
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要的是\"不下定论、保留怀疑\"，四项中只有 uncertain 直接命中。"
+      },
+      {
+        "q": "Eric Schwitzgebel suspects that the students' change in behavior____",
+        "opts": [
+          "can bring psychological benefits.",
+          "can be analyzed statistically.",
+          "is a result of multiple factors.",
+          "is a sign of self-development."
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要的是\"多重原因\"，四项中只有 is a result of multiple factors 直接对应这一并列归因结构。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2022-cloze",
+    "type": "完形填空",
+    "title": "2022年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Harlan Coben believes that if you're a writer, you'll find the time; and that if you can't find the time, then writing isn't a priority and you're not a writer. For him, writing is a __(1)__ job—a job like any other. He has __(2)__ it with plumbing, pointing out that a plumber doesn't wake up and say that he can't work with pipes today.\n\n__(3)__ , like most writers these days, you're holding down a job to pay the bills, it's not __(4)__ to find the time to write. But it's not impossible. It requires determination and single-mindedness. __(5)__ that most bestselling authors began writing when they were doing other things to earn a living. And today, even writers who are fairly __(6)__ often have to do other work to __(7)__ their writing income.\n\nAs Harlan Coben has suggested, it's a __(8)__ of priorities. To make writing a priority, you'll have to __(9)__ some of your day-to-day activities and some things you really enjoy. Depending on your __(10)__ and your lifestyle, that might mean spending less time watching television or listening to music, though some people can write __(11)__ they listen to music. You might have to __(12)__ the amount of exercise or sport you do. You'll have to make social media an __(13)__ activity rather than a daily, time-consuming __(14)__ . There'll probably have to be less socialising with your friends and less time with your family. It's a __(15)__ learning curve and it won't always make you popular.\n\nThere's just one thing you should try to keep at least some time for, __(16)__ your writing—and that's reading. Any writer needs to read as much and as widely as they can; it's the one __(17)__ supporter—something you can't do without.\n\nTime is finite. The older you get, the __(18)__ it seems to go. We need to use it as carefully and as __(19)__ as we can, that means prioritising our activities so that we spend most time on the things we really want to do. If you're a writer, that means— __(20)__ writing.",
+    "passage_zh": "Harlan Coben认为，如果你是一位作家，你就会找到时间；如果你找不到时间，那么写作就不是你的优先事项，你也就不是一位作家。对他来说,写作是一份普通的工作——一份和其他任何工作一样的工作。他曾把写作比作管道工，指出管道工不会在早上醒来后说他今天无法处理管道。\n\n如果你像如今大多数作家一样，正在做一份工作来支付账单，那么找时间写作并不容易。但这并非不可能。这需要决心和专注。请记住，大多数畅销书作家在开始写作时都在做其他事情来谋生。而如今，即使是相当知名的作家也常常不得不做其他工作来补充他们的写作收入。\n\n正如Harlan Coben所建议的，这是一个优先级的问题。要让写作成为优先事项，你就必须牺牲一些日常活动和一些你真正喜欢的事情。根据你的兴趣和生活方式，这可能意味着减少看电视或听音乐的时间，尽管有些人可以一边听音乐一边写作。你可能不得不减少锻炼或运动的时间。你必须把社交媒体变成偶尔进行的活动，而不是每天耗时的习惯。你可能不得不减少与朋友的社交活动以及与家人相处的时间。这是一条艰难的学习曲线，不会总是让你受欢迎。\n\n除了写作之外，只有一件事你应该尝试至少保留一些时间，那就是阅读。任何作家都需要尽可能多、尽可能广泛地阅读；这是唯一不可或缺的支撑——是你不能缺少的东西。\n\n时间是有限的。你年龄越大，时间似乎过得越快。我们需要尽可能谨慎和高效地利用时间，这意味着要对我们的活动进行优先排序，以便把大部分时间花在我们真正想做的事情上。如果你是一位作家，这意味着——首先是写作。",
+    "blanks": [
+      {
+        "opts": [
+          "difficult",
+          "normal",
+          "steady",
+          "pleasant"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：破折号后的同位复述就是答案近义词。与“like any other”同义改写"
+      },
+      {
+        "opts": [
+          "combined",
+          "compared",
+          "confused",
+          "confronted"
+        ],
+        "ans": 1,
+        "explain": "固定搭配：下句“水管工不会说不干”是类比内容。compare A with B 正中类比之义"
+      },
+      {
+        "opts": [
+          "If",
+          "Though",
+          "Once",
+          "Unless"
+        ],
+        "ans": 0,
+        "explain": "逻辑关系：主句是中性结果，需要假设引出。条件—结果链条吻合"
+      },
+      {
+        "opts": [
+          "enough",
+          "strange",
+          "wrong",
+          "easy"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：But not impossible 反推前文是 not easy。not easy 与 not impossible 完美呼应"
+      },
+      {
+        "opts": [
+          "Accept",
+          "Explain",
+          "Remember",
+          "Suppose"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：that 从句是一个事实，且服务于鼓励读者。祈使读者记住榜样事实"
+      },
+      {
+        "opts": [
+          "well-known",
+          "well-advised",
+          "well-informed",
+          "well-chosen"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：上句“畅销作家”提示同维度词。与“畅销作家”同维度且形成 even 反差"
+      },
+      {
+        "opts": [
+          "donate",
+          "generate",
+          "supplement",
+          "calculate"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：上文写作收入不够才兼职。supplement income 是固定且语义最贴的搭配"
+      },
+      {
+        "opts": [
+          "cause",
+          "purpose",
+          "question",
+          "condition"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：下句把“优先级”解释为要做取舍。a question of priorities 是固定表达"
+      },
+      {
+        "opts": [
+          "highlight",
+          "sacrifice",
+          "continue",
+          "explore"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：下文细数被让位的活动。sacrifice activities 与下文“减少”系列契合"
+      },
+      {
+        "opts": [
+          "relations",
+          "interests",
+          "memories",
+          "skills"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：举例皆为“爱好类活动”。interests 与爱好类举例同维"
+      },
+      {
+        "opts": [
+          "until",
+          "because",
+          "while",
+          "before"
+        ],
+        "ans": 2,
+        "explain": "逻辑关系：上句说“听音乐与写作冲突”，本句让步给出例外。while 表两动作并行"
+      },
+      {
+        "opts": [
+          "put up with",
+          "make up for",
+          "hang on to",
+          "cut down on"
+        ],
+        "ans": 3,
+        "explain": "固定搭配：整段“减少”链条延续。cut down on the amount 正中减少之义"
+      },
+      {
+        "opts": [
+          "intelligent",
+          "occasional",
+          "intensive",
+          "emotional"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：rather than 后 daily 暗示前空“偶尔”。occasional 正是 daily 的对照面"
+      },
+      {
+        "opts": [
+          "habit",
+          "test",
+          "decision",
+          "plan"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：social media 的日常行为本质。daily habit 标准搭配"
+      },
+      {
+        "opts": [
+          "tough",
+          "gentle",
+          "rapid",
+          "funny"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：won't always make you popular 暗示前句负面。tough learning curve 是高频搭配且色彩负面"
+      },
+      {
+        "opts": [
+          "in place of",
+          "in charge of",
+          "in response to",
+          "in addition to"
+        ],
+        "ans": 3,
+        "explain": "固定搭配：“除写作外还要保留读书时间”。in addition to writing 表“除写作外还有读书”"
+      },
+      {
+        "opts": [
+          "indispensable",
+          "innovative",
+          "invisible",
+          "instant"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：破折号后“something you can't do without”。indispensable=cannot do without"
+      },
+      {
+        "opts": [
+          "duller",
+          "harder",
+          "quieter",
+          "quicker"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：常识＋主旨：年纪越大时间越快。quicker it goes 是固定共识表达"
+      },
+      {
+        "opts": [
+          "peacefully",
+          "generously",
+          "productively",
+          "gratefully"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：that means 把“高效用时”具体化。productively＝高效，正合后文同位释义"
+      },
+      {
+        "opts": [
+          "at most",
+          "in turn",
+          "on average",
+          "above all"
+        ],
+        "ans": 3,
+        "explain": "固定搭配：整篇“写作是优先级”的最终升华。above all 收束全文"
+      }
+    ]
+  },
+  {
+    "id": "zy-2022-trans",
+    "type": "翻译",
+    "title": "2022年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "Although we try our best, sometimes our paintings rarely turn out as originally planned. Changes in the light, the limitations of your painting materials, and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.\n\nAlthough this can be frustrating and disappointing, it turns out that this can actually be good for you. Unexpected results have two benefits: you pretty quickly learn to deal with disappointment and realise that when one door closes, another opens. You also quickly learn to adapt and come up with creative solutions to the problems the painting presents, and thinking outside the box will become your second nature.\n\nIn fact, creative problem-solving skills are incredibly useful in daily life, with which you're more likely to be able to find a solution when a problem arises.",
+    "passage_zh": "尽管我们竭尽全力，有时我们的画作却很少能按最初计划的样子呈现出来。光线的变化、你所用绘画材料的局限，以及经验和技巧的欠缺，都意味着你最初想要达成的目标，未必能按你预期的那样实现。\n\n尽管这种情况可能令人沮丧和失望，但结果证明，它其实对你是有好处的。意外的结果有两个好处：你会很快学会应对失望，并认识到当一扇门关闭时，另一扇门便会打开。你还会很快学会随机应变，针对绘画带来的种种问题想出富有创造性的解决办法，而跳出思维定式也会逐渐成为你的本能。\n\n事实上，创造性解决问题的能力在日常生活中也极其有用：凭借这种能力，当问题出现时，你就更有可能找到解决办法。",
+    "intro": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2022-write-s",
+    "type": "写作",
+    "title": "2022年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Suppose you are planning a campus food festival. Write an e-mail to the international students in your university to 1) introduce the food festival, and 2) invite them to participate. You should write about 100 words on the ANSWER SHEET.",
+    "tips": "写邮件介绍并邀请参加美食节；要点：美食节的时间与地点；美食节的内容与特色；发出邀请并说明意义"
+  },
+  {
+    "id": "zy-2022-write-b",
+    "type": "写作",
+    "title": "2022年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Write an essay based on the following chart. In your writing, you should 1) interpret the chart, and 2) give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)\n\n图表说明：这张图片是一个垂直柱状图，显示了2018年至2020年间某项统计数据的年度比较，涉及总体与农村的数据",
+    "chart": true,
+    "tips": "先客观读图，再给出个人评论；要点：读图：总体与农村逐年攀升；析因：网购普及＋农村基建改善；评意：数字经济繁荣与城乡缩差"
+  },
+  {
+    "id": "zy-2022-match",
+    "type": "新题型",
+    "title": "2022年真题 · 新题型（段落小标题 7选5）",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. Make It a Habit.",
+      "B. Don't Go It Alone.",
+      "C. Start Low, Go Slow.",
+      "D. Talk With Your Doctor.",
+      "E. Listen to Your Body.",
+      "F. Go Through the Motions.",
+      "G. Round Out Your Routine."
+    ],
+    "paras": [
+      {
+        "text": "Don't try to go back to what you were doing before your break. If you were walking 3 miles a day, playing 18 holes of golf three times a week, or lifting 10-pound dumbbells for three sets of 10 reps, reduce activity to half a mile every other day, or nine holes of golf once a week with short walks on other days, or use 5-pound dumbbells for one set of 10 reps. Increase time, distance, and intensity gradually. \"This isn't something you can do overnight,\" says Keri L. Denay, MD, lead author of a recent American College of Sports Medicine advisory that encourages Americans to not overlook the benefits of activity during the pandemic. But you will reap benefits such as less anxiety and improve sleep right away.",
+        "ans": 2,
+        "explain": "答案C。主旨：重启时把运动量减半、循序渐进地加；依据：Start Low, Go Slow 正是减半加缓慢的同义改写"
+      },
+      {
+        "text": "If you're breathing too hard to talk in complete sentences, back off. If you feel good, go a little longer or faster. Feeling wiped out after a session? Go easier next time. And stay alert to serious symptoms, such as chest pain or pressure, severe shortness of breath or dizziness, or faintness, and seek medical attention immediately.",
+        "ans": 4,
+        "explain": "答案E。主旨：按身体当下的感觉来增减强度、警觉异常；依据：Listen to Your Body 概括以身体信号为准则"
+      },
+      {
+        "text": "Consistency is the key to getting stronger and building endurance and stamina. Ten minutes of activity per day is a good start, says Marcus Jackovitz, DPT, a physical therapist at the University of Miami Hospital. All the experts we spoke with highly recommend walking because it's the easiest, most accessible form of exercise. Although it can be a workout on its own, if your goal is to get back to Zumba classes, tennis, cycling, or any other activity, walking is also a great first step.",
+        "ans": 0,
+        "explain": "答案A。主旨：靠每天坚持的规律性来变强增耐力；依据：Make It a Habit 同义于 Consistency is the key"
+      },
+      {
+        "text": "Even if you can't yet do a favorite activity, you can practice the moves. With or without a club or racket, swing like you're hitting the ball. Paddle like you're in a kayak or canoe. Mimic your favorite swimming strokes. The action will remind you of the joy the activity brought you and prime your muscles for when you can get out there again.",
+        "ans": 5,
+        "explain": "答案F。主旨：做不了真项目时，先空练那套动作；依据：Go Through the Motions 正是空练动作的同义短语"
+      },
+      {
+        "text": "Exercising with others \"can keep you accountable and make it more fun, so you're more likely to do it again,\" Jackovitz says. You can do activities such as golf and tennis or take a walk with others and still be socially distant. But when you can't connect in person, consider using technology. Chat on the phone with a friend while you walk around your neighborhood. FaceTime with a relative as you strength train or stretch at home. You can also join a livestream or on-demand exercise class.",
+        "ans": 1,
+        "explain": "答案B。主旨：和别人一起练，必要时借技术远程连接；依据：Don't Go It Alone 含蓄否定即和他人一起"
+      }
+    ],
+    "passage": "Getting back into exercise can be a challenge in the best of times, but with gyms and in-person exercise classes off-limits to many people these days, it can be tricky to know where to start. And it's important to get the right dose of activity. \"Too much too soon either results in injury or burnout,\" says Mary Yoke, PhD, a faculty member in the kinesiology department at Indiana University in Bloomington. The following simple strategies will help you return to exercise safely after a break.\n\n(41)占位符这是等待完型填空的句子位置\n\nDon't try to go back to what you were doing before your break. If you were walking 3 miles a day, playing 18 holes of golf three times a week, or lifting 10-pound dumbbells for three sets of 10 reps, reduce activity to half a mile every other day, or nine holes of golf once a week with short walks on other days, or use 5-pound dumbbells for one set of 10 reps. Increase time, distance, and intensity gradually. \"This isn't something you can do overnight,\" says Keri L. Denay, MD, lead author of a recent American College of Sports Medicine advisory that encourages Americans to not overlook the benefits of activity during the pandemic. But you will reap benefits such as less anxiety and improve sleep right away.\n\n(42)占位符这是等待完型填空的句子位置\n\nIf you're breathing too hard to talk in complete sentences, back off. If you feel good, go a little longer or faster. Feeling wiped out after a session? Go easier next time. And stay alert to serious symptoms, such as chest pain or pressure, severe shortness of breath or dizziness, or faintness, and seek medical attention immediately.\n\n(43)占位符这是等待完型填空的句子位置\n\nConsistency is the key to getting stronger and building endurance and stamina. Ten minutes of activity per day is a good start, says Marcus Jackovitz, DPT, a physical therapist at the University of Miami Hospital. All the experts we spoke with highly recommend walking because it's the easiest, most accessible form of exercise. Although it can be a workout on its own, if your goal is to get back to Zumba classes, tennis, cycling, or any other activity, walking is also a great first step.\n\n(44)占位符这是等待完型填空的句子位置\n\nEven if you can't yet do a favorite activity, you can practice the moves. With or without a club or racket, swing like you're hitting the ball. Paddle like you're in a kayak or canoe. Mimic your favorite swimming strokes. The action will remind you of the joy the activity brought you and prime your muscles for when you can get out there again.\n\n(45)占位符这是等待完型填空的句子位置\n\nExercising with others \"can keep you accountable and make it more fun, so you're more likely to do it again,\" Jackovitz says. You can do activities such as golf and tennis or take a walk with others and still be socially distant. But when you can't connect in person, consider using technology. Chat on the phone with a friend while you walk around your neighborhood. FaceTime with a relative as you strength train or stretch at home. You can also join a livestream or on-demand exercise class.",
+    "passage_zh": "在最好的时期,重新开始锻炼都可能是一项挑战,但如今许多人无法去健身房和参加面对面的健身课程,知道从哪里开始可能会很棘手。获得适量的运动很重要。印第安纳大学布卢明顿分校运动机能学系教员Mary Yoke博士说:\"过多过快要么导致受伤,要么导致精疲力竭。\"以下简单策略将帮助你在中断后安全地恢复锻炼。\n\n从低起步,缓慢进行。\n\n不要试图回到中断前的状态。如果你之前每天走3英里,每周打三次18洞高尔夫球,或者举10磅哑铃做三组每组10次,那就把运动量减少到隔天半英里,或者每周打一次9洞高尔夫球并在其他日子短距离散步,或者使用5磅哑铃做一组10次。逐渐增加时间、距离和强度。美国运动医学会近期发布的一份建议的主要作者Keri L. Denay医学博士说:\"这不是一夜之间就能做到的事情。\"该建议鼓励美国人不要忽视疫情期间运动的益处。但你会立即收获诸如减少焦虑和改善睡眠等好处。\n\n倾听你的身体。\n\n如果你呼吸太急促以至于无法说完整的句子,就放慢速度。如果你感觉良好,就稍微延长时间或加快速度。一次锻炼后感到精疲力竭?下次就放松一些。并对严重症状保持警觉,如胸痛或胸闷、严重呼吸急促或头晕,或晕厥,并立即寻求医疗救助。\n\n养成习惯。\n\n迈阿密大学医院的物理治疗师Marcus Jackovitz表示,坚持是变得更强壮以及增强耐力和持久力的关键。每天10分钟的运动是一个好的开始。我们采访的所有专家都强烈推荐步行,因为它是最简单、最容易获得的运动形式。虽然它本身可以作为一项锻炼,但如果你的目标是重新参加Zumba课程、网球、骑行或任何其他活动,步行也是一个很好的第一步。\n\n做动作练习。\n\n即使你还不能做最喜欢的活动,你也可以练习这些动作。无论有没有球杆或球拍,都像击球一样挥动。像在皮划艇或独木舟里一样划桨。模仿你最喜欢的游泳姿势。这些动作会让你想起该活动带给你的快乐,并为你能再次出去活动时让肌肉做好准备。\n\n不要独自进行。\n\nJackovitz说,与他人一起锻炼\"可以让你保持自律,并使锻炼更有趣,所以你更有可能再次去做。\"你可以与他人一起进行高尔夫和网球等活动或散步,同时仍然保持社交距离。但当你无法面对面交流时,可以考虑使用技术手段。在你围绕社区散步时与朋友通电话聊天。在家进行力量训练或拉伸时与亲戚进行FaceTime视频通话。你还可以参加直播或点播健身课程。"
+  },
+  {
+    "id": "zy-2023-read-1",
+    "type": "阅读理解",
+    "title": "2023年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "In the quest for the perfect lawn, homeowners across the country are taking a shortcut—and it is the environment that is paying the price. About eight million square metres of plastic grass is sold each year but opposition has now spread to the highest gardening circles. The Chelsea Flower Show has banned fake grass from this year's event, declaring it to be not part of its ethos. The Royal Horticultural Society (RHS), which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity.\n\nEd Home, of the RHS, said: \"We launched our sustainability strategy last year and fake grass is just not in line with our ethos and views on plastic. We recommend using real grass because of its environmental benefits, which include supporting wildlife, alleviating flooding and cooling the environment.\"\n\nThe RHS's decision comes as campaigners try to raise awareness of the problems fake grass causes. A Twitter account, which claims to \"cut through the greenwash\" of artificial grass, already has more than 20,000 followers. It is trying to encourage people to sign two petitions, one calling for a ban on the sale of plastic grass and another calling for an \"ecological damage\" tax on such lawns. They have gathered 7,276 and 11,282 signatures.\n\nHowever, supporters of fake grass point out that there is also an environmental impact with natural lawns, which need mowing and therefore usually consume electricity or petrol. The industry also points out that real grass requires considerable amounts of water, weed killer or other treatments and that people who lay fake grass tend to use their garden more. The industry also claims that people who lay fake grass spend an average of £500 on trees or shrubs for their garden, which provides habitat for insects.\n\nIn response to another petition last year about banning fake lawns, which gathered 30,000 signatures, the government responded that it has \"no plans to ban the use of artificial grass\".\n\nIt added: \"We prefer to help people and organisations make the right choice rather than legislating on such matters. However, the use of artificial grass must comply with the legal and policy safeguards in place to protect biodiversity and ensure sustainable drainage, while measures such as the strengthened biodiversity duty should serve to encourage public authorities to consider sustainable alternatives.\"",
+    "passage_zh": "在追求完美草坪的过程中,全国各地的房主正在走捷径——而为此付出代价的却是环境。每年约有八百万平方米的塑料草坪被售出,但反对声音现已蔓延至最高园艺圈层。切尔西花展已从今年的活动中禁止人造草,宣称其不符合该展会的理念。主办这一伦敦西部年度展览的英国皇家园艺学会表示,之所以实施这一禁令,是因为塑料草坪对环境和生物多样性造成的破坏。\n\n英国皇家园艺学会的Ed Home说:\"我们去年发布了可持续发展战略,而人造草与我们在塑料问题上的理念和观点完全不符。我们建议使用真草,因为它具有环境效益,包括支持野生动物、缓解洪涝以及冷却环境。\"\n\n英国皇家园艺学会的这一决定正值活动人士试图提高人们对人造草所造成问题的认识之际。一个声称要\"揭穿\"人造草\"漂绿行为\"的Twitter账号已经拥有超过两万名关注者。该账号正试图鼓励人们签署两份请愿书,一份呼吁禁止销售塑料草坪,另一份呼吁对此类草坪征收\"生态破坏\"税。这两份请愿书已分别征集到7276和11282个签名。\n\n然而,人造草的支持者指出,天然草坪也会产生环境影响,因为需要修剪,因此通常会消耗电力或汽油。该行业还指出,真草需要大量的水、除草剂或其他处理,而铺设人造草的人往往会更多地使用他们的花园。该行业还声称,铺设人造草的人平均会花费500英镑购买树木或灌木来装点花园,这为昆虫提供了栖息地。\n\n去年,另一份关于禁止人造草坪的请愿书征集到三万个签名,政府对此回应称\"没有禁止使用人造草的计划\"。\n\n政府补充道:\"我们更倾向于帮助个人和组织做出正确选择,而非就此类事项立法。然而,人造草的使用必须遵守现行的法律和政策保障措施,以保护生物多样性并确保可持续排水,同时诸如强化的生物多样性义务等措施应有助于鼓励公共机构考虑可持续的替代方案。\"",
+    "questions": [
+      {
+        "q": "The RHS thinks that plastic grass_____.",
+        "opts": [
+          "is harmful to the environment",
+          "is a hot topic in gardening circles",
+          "is overpraised in the annual show",
+          "is ruining the view of west London"
+        ],
+        "ans": 0,
+        "explain": "答案A。is harmful to the environment 是对定位句 damage plastic grass does to the environment and biodiversity 的直接同义转述，与预判一致，可锁定 A。"
+      },
+      {
+        "q": "The petitions mentioned in Paragraph 3 reveal the campaigners'_____.",
+        "opts": [
+          "disappointment with the RHS",
+          "resistance to fake grass use",
+          "anger over the proposed tax",
+          "concern about real grass supply"
+        ],
+        "ans": 1,
+        "explain": "答案B。禁售要求和\"生态破坏\"税都直接指向反对人造草坪，与预判\"反对使用人造草坪\"完全吻合，锁 B。"
+      },
+      {
+        "q": "In Paragraph 4, supporters of fake grass point out_____.",
+        "opts": [
+          "the necessity to lower the costs of fake grass",
+          "the disadvantages of growing real grass",
+          "the way to take care of artificial lawns",
+          "the challenges of insect habitat protection"
+        ],
+        "ans": 1,
+        "explain": "答案B。支持方所列的真草维护成本与环境代价，正是 the disadvantages of growing real grass 的具象化，与预判一致，锁 B。"
+      },
+      {
+        "q": "What would the government do with regard to artificial grass?",
+        "opts": [
+          "Urge legislation to restrict its use.",
+          "Take measures to guarantee its quality.",
+          "Remind its users to obey existing rules.",
+          "Replace it with sustainable alternatives."
+        ],
+        "ans": 2,
+        "explain": "答案C。C 既反映\"政府选择引导而非立法\"，又反映\"要求使用者守现行规则\"，与定位句和预判完全一致。"
+      },
+      {
+        "q": "It can be learned from the text that fake grass_____.",
+        "opts": [
+          "is being improved continuously",
+          "has seen a market share decline",
+          "is becoming increasingly affordable",
+          "has been a controversial product"
+        ],
+        "ans": 3,
+        "explain": "答案D。全文同时呈现禁用与反禁用两派、加上政府居中表态，controversial product 是对这一格局最精准的整体概括，与预判一致。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2023-read-2",
+    "type": "阅读理解",
+    "title": "2023年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "It's easy to dismiss as absurd the federal government's ideas for plugging the chronic funding gap of our national parks. Can anyone really think it's a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?\n\nBut the government is right about one thing: U.S. national parks are in crisis. Collectively, they have a maintenance backlog of more than $12 billion. Roads, trails, restrooms, visitor centers and other infrastructure are crumbling.\n\nBut privatizing and commercializing the campgrounds would not be a cure-all. Campgrounds are a tiny portion of the overall infrastructure backlog, and businesses in the parks hand over, on average, only about 5% of their revenues to the National Park Service.\n\nMoreover, increased privatization would certainly undercut one of the major reasons why 300 million visitors come to the parks each year: to enjoy nature and get a break from the commercial drumbeat that overwhelms daily life.\n\nThe real problem is that the parks have been chronically starved of funding. An economic survey of 700 U.S. taxpayers found that people would be willing to pay a significant amount of money to make sure the parks and their programs are kept intact. Some 81% of respondents said they would be willing to pay additional taxes for the next 10 years to avoid any cuts to the national parks.\n\nThe national parks provide great value to U.S. residents both as places to escape and as symbols of nature. On top of this, they produce value from their extensive educational programs, their positive impact on the climate through carbon sequestration, their contribution to our cultural and artistic life, and of course through tourism. The parks also help keep America's past alive, working with thousands of local jurisdictions around the country to protect historical sites and to bring the stories of these places to life.\n\nThe parks do all this on a shoestring. Congress allocates only $3 billion a year to the national park system—an amount that has been flat since 2001 (in inflation-adjusted dollars) with the exception of a onetime boost in 2009. Meanwhile, the number of annual visitors has increased by more than 50% since 1980, and now stands at 330 million visitors per year.",
+    "passage_zh": "联邦政府为弥补我们国家公园长期资金缺口而提出的想法很容易被视为荒谬。真的有人认为允许亚马逊将货物送到你在约塞米蒂的帐篷里，或者让餐车在红杉国家公园的红杉树下排成行是个好主意吗？\n\n但政府在一件事上是对的：美国国家公园正处于危机之中。它们总共积压了超过120亿美元的维护费用。道路、小径、卫生间、游客中心和其他基础设施正在破败。\n\n但将露营地私有化和商业化并不是万能药。露营地只占整体基础设施积压的很小一部分，而且公园内的企业平均只向国家公园管理局上交其收入的约5%。\n\n此外，私有化程度的提高肯定会削弱每年3亿游客来公园的一个主要原因：享受自然，从充斥日常生活的商业鼓噪中得到喘息。\n\n真正的问题是公园长期以来一直资金匮乏。一项针对700名美国纳税人的经济调查发现，人们愿意支付大量金钱以确保公园及其项目保持完整。约81%的受访者表示，他们愿意在未来10年缴纳额外税款，以避免国家公园遭受任何削减。\n\n国家公园作为逃离之地和自然象征，为美国居民提供了巨大价值。除此之外，它们还通过广泛的教育项目、通过碳封存对气候产生的积极影响、对我们文化和艺术生活的贡献，当然还有旅游业，创造价值。这些公园还帮助保持美国历史的鲜活，与全国数千个地方司法管辖区合作保护历史遗址，并让这些地方的故事生动起来。\n\n公园以极少的预算完成所有这些工作。国会每年只拨款30亿美元给国家公园系统——这一数额自2001年以来一直持平（按通胀调整后的美元计算），除了2009年的一次性增加。与此同时，年游客数量自1980年以来增长了50%以上，现在达到每年3.3亿游客。",
+    "questions": [
+      {
+        "q": "What problem are U.S. national parks faced with?",
+        "opts": [
+          "Decline of business profits.",
+          "Inadequate commercialization.",
+          "Lack of transportation services.",
+          "Poorly maintained infrastructure."
+        ],
+        "ans": 3,
+        "explain": "答案D。预判「基础设施年久失修」与 Poorly maintained infrastructure 完全对应，且 D 的两词都能在第二段找到原文支撑，故锁定 D。"
+      },
+      {
+        "q": "Increased privatization of the campgrounds may_____.",
+        "opts": [
+          "spoil visitor experience",
+          "help preserve nature",
+          "bring operational pressure",
+          "boost visits to parks"
+        ],
+        "ans": 0,
+        "explain": "答案A。预判「破坏游客游园体验」与 spoil visitor experience 一一对应：spoil 等值 undercut，visitor experience 概括 enjoy nature + get a break，故锁定 A。"
+      },
+      {
+        "q": "According to Paragraph 5, most respondents in the survey would_____.",
+        "opts": [
+          "go to the national parks on a regular basis",
+          "advocate a bigger budget for the national parks",
+          "agree to pay extra for the national parks",
+          "support the national parks' recent reforms"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判的「愿意多缴税保公园」三要素——意愿(willing/agree)、多付(additional/extra)、目的(avoid cuts/for parks)——在 agree to pay extra for the national parks 中全部对应，故锁定 C。"
+      },
+      {
+        "q": "The national parks are valuable in that they_____.",
+        "opts": [
+          "lead the way in tourism",
+          "have historical significance",
+          "sponsor research on climate",
+          "provide an income for the locals"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判中「保护历史遗址、让历史故事鲜活」这一价值项与 have historical significance 完全对应，且无其他选项能在段中找到完整支撑，故锁定 B。"
+      },
+      {
+        "q": "It can be concluded from the text that the national park system _____.",
+        "opts": [
+          "is able to cope with staff shortages",
+          "is able to meet visitors' demands",
+          "is in need of a new pricing policy",
+          "is in need of a funding increase"
+        ],
+        "ans": 3,
+        "explain": "答案D。预判「系统需要增加资金投入」与 is in need of a funding increase 一一对应，且 D 同时覆盖第二、五、七段的核心论断，是唯一覆盖全文主线的选项，故锁定 D。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2023-read-3",
+    "type": "阅读理解",
+    "title": "2023年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "The Internet may be changing merely what we remember, not our capacity to do so, suggests Columbia University psychology professor Betsy Sparrow. In 2011, Sparrow led a study in which participants were asked to record 40 factoids in a computer (\"an ostrich's eye is bigger than its brain,\" for example). Half of the participants were told the information would be erased, while the other half were told it would be saved. Guess what? The latter group made no effort to recall the information when quizzed on it later, because they knew they could find it on their computers. In the same study, a group was asked to remember both the information and the folders it was stored in. They didn't remember the information, but they remembered how to find the folders. In other words, human memory is not deteriorating but \"adapting to new communications technology,\" Sparrow says.\n\nIn a very practical way, the Internet is becoming an external hard drive for our memories, a process known as \"cognitive offloading.\" Traditionally, this role was fulfilled by data banks, libraries, and other humans. Your father may never remember birthdays because your mother does, for instance. Some worry that this is having a destructive effect on society, but Sparrow sees an upside. Perhaps, she suggests, the trend will change our approach to learning from a focus on individual facts and memorization to an emphasis on more conceptual thinking—something that is not available on the Internet. \"I personally have never seen all that much intellectual value in memorizing things,\" Sparrow says, adding that we haven't lost our ability to do it.\n\nStill other experts say it's too soon to understand how the Internet affects our brains. There is no experimental evidence showing that it interferes with our ability to focus, for instance, wrote psychologists Christopher Chabris and Daniel J. Simons. And surfing the web exercised the brain more than reading did among computer-savvy older adults in a 2008 study involving 24 participants at the Semel Institute for Neuroscience and Human Behavior at the University of California, Los Angeles.\n\n\"There may be costs associated with our increased reliance on the Internet, but I'd have to imagine that overall the benefits are going to outweigh those costs,\" observes psychology professor Benjamin Storm. \"It seems pretty clear that memory is changing, but is it changing for the better? At this point, we don't know.\"",
+    "passage_zh": "互联网也许只是改变了我们记忆的内容，而非我们的记忆能力，Columbia University心理学教授Betsy Sparrow如此认为。2011年，Sparrow主持了一项研究，参与者被要求在计算机中记录40条小知识(例如\"鸵鸟的眼睛比它的大脑还大\")。一半参与者被告知这些信息将被删除,而另一半被告知信息会被保存。结果如何?后一组在随后被测试时完全没有努力回忆这些信息,因为他们知道可以在电脑上找到它们。在同一研究中,另一组被要求同时记住信息和存储信息的文件夹。他们没有记住信息,但记住了如何找到文件夹。换句话说,Sparrow表示,人类记忆并非在退化,而是\"在适应新的通信技术\"。\n\n从非常实际的角度来说,互联网正在成为我们记忆的外部硬盘,这一过程被称为\"认知卸载\"。传统上,这一角色由数据库、图书馆和其他人来承担。例如,你的父亲可能永远记不住生日,因为你的母亲会记得。一些人担心这对社会产生破坏性影响,但Sparrow看到了积极的一面。她认为,这一趋势也许会改变我们的学习方式,从关注个别事实和记忆转向强调更具概念性的思维——这是互联网上无法获得的东西。Sparrow说:\"我个人从未认为记忆事物有多大的智力价值\",并补充说我们并未失去记忆的能力。\n\n还有其他专家表示,现在就理解互联网如何影响我们的大脑还为时过早。心理学家Christopher Chabris和Daniel J. Simons写道,没有实验证据表明互联网会干扰我们的专注能力。而且在2008年一项涉及University of California, Los Angeles的Semel Institute for Neuroscience and Human Behavior的24名参与者的研究中,在精通计算机的老年人群体中,浏览网页比阅读更能锻炼大脑。\n\n心理学教授Benjamin Storm指出:\"我们日益依赖互联网可能会带来一些代价,但我必须认为总体而言收益将超过这些代价。记忆似乎确实在发生变化,但它是在向好的方向变化吗?目前,我们还不知道。\"",
+    "questions": [
+      {
+        "q": "Sparrow's study shows that with the Internet, the human brain will_____.",
+        "opts": [
+          "analyze information in detail",
+          "collect information efficiently",
+          "switch its focus of memory",
+          "extend its memory duration"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判是\"换了记什么\"，C 项 switch its focus of memory 把\"换了记什么\"翻译成 switch focus，与预判精确对齐"
+      },
+      {
+        "q": "The process of \"cognitive offloading\" _____.",
+        "opts": [
+          "helps us identify false information",
+          "keeps our memory from failing",
+          "enables us to classify trivial facts",
+          "lessens our memory burdens"
+        ],
+        "ans": 3,
+        "explain": "答案D。预判\"减轻记忆负担\"，D 项 lessens our memory burdens 与之逐词对应，无需推理"
+      },
+      {
+        "q": "Which of the following would Sparrow support about the Internet?",
+        "opts": [
+          "It may reform our learning approach.",
+          "It may impact our society negatively.",
+          "It may enhance our adaptability to technology.",
+          "It may interfere with our conceptual thinking."
+        ],
+        "ans": 0,
+        "explain": "答案A。预判\"会重塑学习方式\"，A 项 It may reform our learning approach 在情态（Perhaps↔may）与动作（change↔reform）上双重对齐"
+      },
+      {
+        "q": "It is indicated in Paragraph 3 that how the Internet affects our brains_____.",
+        "opts": [
+          "requires further academic research",
+          "is most studied in older adults",
+          "is reflected in our reading speed",
+          "depends on our web-surfing habits"
+        ],
+        "ans": 0,
+        "explain": "答案A。预判\"结论未定、需更多研究\"，A 项 requires further academic research 把这一语义直接表述出来，是首句立场的同义改写"
+      },
+      {
+        "q": "Neither Sparrow nor Storm would agree that_____.",
+        "opts": [
+          "our reliance on the Internet will be costly",
+          "the Internet is weakening our memory",
+          "memory exercise is a must for our brains",
+          "our ability to focus declines with age"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判\"记忆被削弱\"为两人共同不接受的命题，B 项 the Internet is weakening our memory 与 Sparrow 的 not deteriorating 和 Storm 的 benefits outweigh costs 都相反，是唯一两人都不会同意的项"
+      }
+    ]
+  },
+  {
+    "id": "zy-2023-read-4",
+    "type": "阅读理解",
+    "title": "2023年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Teenagers are paradoxical. That's a mild and detached way of saying something that parents often express with considerably stronger language. But the paradox is scientific as well as personal. In adolescence, helpless and dependent children who have relied on grown-ups for just about everything become independent people who can take care of themselves and help each other. At the same time, once cheerful and compliant children become rebellious teenage risk-takers.\n\nA new study published in the journal Child Development, by Eveline Crone of the University of Leiden and colleagues, suggests that the positive and negative sides of teenagers go hand in hand. The study is part of a new wave of thinking about adolescence. For a long time, scientists and policy makers concentrated on the idea that teenagers were a problem that needed to be solved. The new work emphasizes that adolescence is a time of opportunity as well as risk.\n\nThe researchers studied \"prosocial\" and rebellious traits in more than 200 children and young adults, ranging from 11 to 28 years old. The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.\n\nOther studies have shown that rebellious behavior increases as you become a teenager and then fades away as you grow older. But the new study shows that, interestingly, the same pattern holds for prosocial behavior. Teenagers were more likely than younger children or adults to report that they did things like unselfishly helping a friend.\n\nMost significantly, there was a positive correlation between prosociality and rebelliousness. The teenagers who were more rebellious were also more likely to help others. The good and bad sides of adolescence seem to develop together.\n\nIs there some common factor that underlies these apparently contradictory developments? One idea is that teenage behavior is related to what researchers call \"reward sensitivity.\" Decision-making always involves balancing rewards and risks, benefits and costs. \"Reward sensitivity\" measures how much reward it takes to outweigh risk.\n\nTeenagers are particularly sensitive to social rewards—winning the game, impressing a new friend, getting that boy to notice you. Reward sensitivity, like prosocial behavior and risk-taking, seems to go up in adolescence and then down again as we age. Somehow, when you hit 30, the chance that something exciting and new will happen at that party just doesn't seem to outweigh the effort of getting up off the couch.",
+    "passage_zh": "青少年是矛盾的。这是一种温和而超然的说法,而父母们在表达同样的意思时往往会使用强烈得多的语言。但这种矛盾既是科学的,也是个人的。在青春期,几乎所有事情都依赖成年人的无助和依赖的儿童变成了能够照顾自己并互相帮助的独立个体。与此同时,曾经快乐顺从的孩子变成了叛逆的冒险少年。\n\n莱顿大学的Eveline Crone及其同事在《儿童发展》期刊上发表的一项新研究表明,青少年的积极面和消极面是相伴而生的。这项研究是关于青春期思考新浪潮的一部分。长期以来,科学家和政策制定者专注于青少年是一个需要解决的问题这一观念。新的研究强调青春期既是机遇期也是风险期。\n\n研究人员对200多名年龄从11岁到28岁的儿童和年轻成人的亲社会特质和叛逆特质进行了研究。参与者填写了关于他们做利他和积极的事情(如牺牲自己的利益去帮助朋友)或叛逆和消极的事情(如喝醉或深夜不归)频率的问卷。\n\n其他研究表明,叛逆行为在进入青少年时期时增加,然后随着年龄增长而减弱。但这项新研究显示,有趣的是,亲社会行为也呈现出同样的模式。青少年比年幼的儿童或成年人更有可能报告他们会做无私地帮助朋友之类的事情。\n\n最重要的是,亲社会性和叛逆性之间存在正相关关系。越叛逆的青少年也越有可能帮助他人。青春期的好坏两面似乎是共同发展的。\n\n是否存在某种共同因素作为这些看似矛盾的发展的基础?一种观点认为青少年行为与研究人员所说的奖赏敏感性有关。决策总是涉及平衡奖赏与风险、收益与成本。奖赏敏感性衡量的是需要多大的奖赏才能超过风险。\n\n青少年对社会奖赏特别敏感——赢得比赛、给新朋友留下深刻印象、让那个男孩注意到你。奖赏敏感性和亲社会行为及冒险行为一样,似乎在青春期上升,然后随着我们年龄增长而再次下降。不知何故,当你到了30岁,那个聚会上可能会发生令人兴奋的新鲜事的机会似乎就不足以抵消从沙发上起身的努力了。",
+    "questions": [
+      {
+        "q": "According to Paragraph 1, children growing into adolescence tend to_____.",
+        "opts": [
+          "develop opposite personality traits",
+          "see the world in an unreasonable way",
+          "have fond memories of their past",
+          "show affection for their parents"
+        ],
+        "ans": 0,
+        "explain": "答案A。预判要求「同时朝相反方向变化」，A 项 develop opposite personality traits 正是对两组 become 对立平行句的最简概括，与预判一一吻合。"
+      },
+      {
+        "q": "It can be learned from Paragraph 2 that Crone's study_____.",
+        "opts": [
+          "explores teenagers' social responsibilities",
+          "examines teenagers' emotional problems",
+          "provides a new insight into adolescence",
+          "highlights negative adolescent behavior"
+        ],
+        "ans": 2,
+        "explain": "答案C。预判要的是「新视角 / 新认识」，C 项 provides a new insight into adolescence 是对 a new wave of thinking + emphasizes that adolescence is a time of opportunity as well as risk 最精确的概括。"
+      },
+      {
+        "q": "What does Crone's study find about prosocial behavior?",
+        "opts": [
+          "It results from the wish to cooperate.",
+          "It is cultivated through education.",
+          "It is subject to family influence.",
+          "It tends to peak in adolescence."
+        ],
+        "ans": 3,
+        "explain": "答案D。预判要的是「青春期最旺、之后回落」，D 项 It tends to peak in adolescence 正是这一曲线的最简概括，且主语 It 准确回指 prosocial behavior。"
+      },
+      {
+        "q": "It can be learned from the last two paragraphs that teenagers_____.",
+        "opts": [
+          "overstress their influence on others",
+          "care a lot about social recognition",
+          "become anxious about their future",
+          "endeavor to live a joyful life"
+        ],
+        "ans": 1,
+        "explain": "答案B。预判要的是「在意社会认可」，B 项 care a lot about social recognition 正是 particularly sensitive to social rewards 加上三项列举的最简概括，与预判一致。"
+      },
+      {
+        "q": "What is the text mainly about?",
+        "opts": [
+          "Why teenagers are self-contradictory.",
+          "Why teenagers are risk-sensitive.",
+          "How teenagers develop prosociality.",
+          "How teenagers become independent."
+        ],
+        "ans": 0,
+        "explain": "答案A。主线既包含「现象＝矛盾」也包含「解释＝共同成因」，A 项 Why teenagers are self-contradictory 一次性覆盖「为什么」+「自相矛盾」，与主线吻合。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2023-cloze",
+    "type": "完形填空",
+    "title": "2023年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Here's a common scenario that any number of entrepreneurs face today: you're the CEO of a small business, and though you're making a nice __(1)__ , you need to find a way to take it to the next level. What you need to do is __(2)__ growth by establishing a growth team. A growth team is made up of members from different departments within your company, and it harnesses the power of collaboration to focus __(3)__ on finding ways to grow.\n\nLet's look at a real-world __(4)__ . Prior to forming a growth team, the software company BitTorrent had 50 employees working in the __(5)__ departments of engineering, marketing and product development. This brought them good results until 2012, when their growth plateaued. The __(6)__ was that too many customers were using the basic, free version of their product. And __(7)__ improvements to the premium, paid version, few people were making the upgrade.\n\nThings changed, __(8)__ , when an innovative project-marketing manager came aboard, __(9)__ a growth team and sparked the kind of __(10)__ perspective they needed. By looking at engineering issues from a marketing point of view, it became clear that the __(11)__ of upgrades wasn't due to a quality issue. Most customers were simply unaware of the premium version and what it offered.\n\nArmed with this __(12)__ , the marketing and engineering teams joined forces to raise awareness by prominently __(13)__ the premium version to users of the free version. __(14)__ , upgrades skyrocketed, and revenue increased by 92 percent.\n\nBut in order for your growth team to succeed, it needs to have a strong leader. It needs someone who can __(15)__ the interdisciplinary team and keep them on course for improvement. This leader will __(16)__ the target area, set clear goals and establish a time frame for the __(17)__ of these goals.\n\nThe growth leader is also __(18)__ for keeping the team focused on moving forward and steering them clear of distractions. __(19)__ attractive, new ideas can be distracting; the team leader must recognize when these ideas don't __(20)__ the current goal and need to be put on the back burner.",
+    "passage_zh": "以下是当今许多创业者面临的常见情景：你是一家小企业的首席执行官，虽然你盈利不错,但你需要找到一种方法将其提升到更高水平。你需要做的是通过建立增长团队来优先考虑增长。增长团队由来自公司内不同部门的成员组成，它利用协作的力量专注于寻找增长的方法。\n\n让我们看一个真实案例。在组建增长团队之前，软件公司BitTorrent有50名员工在传统的工程、营销和产品开发部门工作。这为他们带来了良好的成果，直到2012年，他们的增长陷入停滞。问题在于太多客户使用的是基础免费版本的产品。尽管对高级付费版本进行了改进，但很少有人升级。\n\n然而，当一位创新的项目营销经理加入、创建了增长团队并激发了他们所需的新视角时，情况发生了变化。通过从营销角度审视工程问题，很明显升级不足并非由于质量问题。大多数客户只是不了解高级版本及其提供的功能。\n\n有了这一洞察，营销和工程团队联手通过向免费版本用户显著推广高级版本来提高知晓度。结果，升级量激增，收入增长了92%。\n\n但是为了让你的增长团队取得成功，它需要有一位强有力的领导者。它需要一个能够团结跨学科团队并使他们保持改进方向的人。这位领导者将确定目标领域、设定明确目标并为实现这些目标建立时间框架。\n\n增长领导者还负责让团队专注于前进并引导他们避开干扰。虽然具有吸引力，但新想法可能会分散注意力；团队领导者必须识别何时这些想法不服务于当前目标并需要暂时搁置。",
+    "blanks": [
+      {
+        "opts": [
+          "purchase",
+          "profit",
+          "connection",
+          "bet"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：「生意做得不错却要更上一层」的小企业语境。搭配地道且语义贴合"
+      },
+      {
+        "opts": [
+          "define",
+          "predict",
+          "prioritize",
+          "appreciate"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：全段在号召把增长放在第一位。完美契合「专设团队聚焦增长」"
+      },
+      {
+        "opts": [
+          "exclusively",
+          "temporarily",
+          "potentially",
+          "initially"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：团队的全部精力都给增长。把 focus 推到「只」的极致"
+      },
+      {
+        "opts": [
+          "experiment",
+          "proposal",
+          "debate",
+          "example"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：下面是 BitTorrent 的故事而非实验或辩论。正是「举一个真实案例」"
+      },
+      {
+        "opts": [
+          "identical",
+          "marginal",
+          "provisional",
+          "traditional"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：「成立成长团队前」的常规架构。对「新做法」之前的「老套」精准对照"
+      },
+      {
+        "opts": [
+          "rumor",
+          "secret",
+          "myth",
+          "problem"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：增长停滞 + 顾客不付费=问题。完美匹配「困境」语境"
+      },
+      {
+        "opts": [
+          "despite",
+          "unlike",
+          "through",
+          "besides"
+        ],
+        "ans": 0,
+        "explain": "逻辑关系：「付费版有改进」却「升级的人少」是让步。正反差让步关系一拍即合"
+      },
+      {
+        "opts": [
+          "moreover",
+          "however",
+          "therefore",
+          "again"
+        ],
+        "ans": 1,
+        "explain": "逻辑关系：上段是困境、本段是转机。上段困境到本段转机正需 however"
+      },
+      {
+        "opts": [
+          "inspected",
+          "created",
+          "expanded",
+          "reformed"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：P2 公司还没有成长团队。从无到有的「组建」"
+      },
+      {
+        "opts": [
+          "cultural",
+          "objective",
+          "fresh",
+          "personal"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：「创新经理」+「跨部门视角」=新视角。与 innovative、跨部门视角共振"
+      },
+      {
+        "opts": [
+          "end",
+          "burden",
+          "lack",
+          "decrease"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：上一段「很少人升级」 = 升级少。对应「升级很少」的本质"
+      },
+      {
+        "opts": [
+          "policy",
+          "suggestion",
+          "purpose",
+          "insight"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：P3 末「发现真因」=洞察。正是上段「发现」的同义提升"
+      },
+      {
+        "opts": [
+          "contributing",
+          "allocating",
+          "promoting",
+          "transferring"
+        ],
+        "ans": 2,
+        "explain": "词义辨析：「提升认知」需要「推介/推广」型动作。「推广」精准对接「提升认知」"
+      },
+      {
+        "opts": [
+          "As a result",
+          "At any rate",
+          "By the way",
+          "In a sense"
+        ],
+        "ans": 0,
+        "explain": "逻辑关系：上文「推广」=因，「升级暴涨」=果。因果关系精准对应"
+      },
+      {
+        "opts": [
+          "unite",
+          "finance",
+          "follow",
+          "choose"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：「跨学科团队 + 让大家走在轨道上」=凝聚。「凝聚跨学科团队」是核心动作"
+      },
+      {
+        "opts": [
+          "share",
+          "identify",
+          "divide",
+          "broaden"
+        ],
+        "ans": 1,
+        "explain": "词义辨析：「设定目标前」要先「确定目标区域」。「确定目标区域」是首要动作"
+      },
+      {
+        "opts": [
+          "announcement",
+          "assessment",
+          "adjustment",
+          "accomplishment"
+        ],
+        "ans": 3,
+        "explain": "词义辨析：目标是用来「完成」的。「完成目标」是 time frame 的天然对象"
+      },
+      {
+        "opts": [
+          "famous",
+          "responsible",
+          "available",
+          "respectable"
+        ],
+        "ans": 1,
+        "explain": "固定搭配：句中 keeping ... 是 leader 的具体职责。「负责…」精准对接职责陈述"
+      },
+      {
+        "opts": [
+          "Before",
+          "Once",
+          "While",
+          "Unless"
+        ],
+        "ans": 2,
+        "explain": "逻辑关系：「吸引力 + 分心」一正一反 = 让步。让步连词最契合「虽诱人却可能分心」"
+      },
+      {
+        "opts": [
+          "serve",
+          "limit",
+          "summarize",
+          "alter"
+        ],
+        "ans": 0,
+        "explain": "词义辨析：「服务于目标」才不该被搁置。「服务于目标」是地道搭配"
+      }
+    ]
+  },
+  {
+    "id": "zy-2023-trans",
+    "type": "翻译",
+    "title": "2023年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "passage": "In the late 18th century, William Wordsworth became famous for his poems about nature. And he was one of the founders of a movement called Romanticism, which celebrated the wonders of the natural world.\n\nPoetry is powerful. Its energy and rhythm can capture a reader, transport them to another world and make them see things differently. Through carefully selected words and phrases, poems can be dramatic, funny, beautiful, moving and inspiring.\n\nNo one knows for sure when poetry began but it has been around for thousands of years, even before people could write. It was a way to tell stories and pass down history. It is closely related to song and even when written it is usually created to be performed out loud. Poems really come to life when they are recited. This can also help with understanding them too, because the rhythm and sounds of the words become clearer.",
+    "passage_zh": "世纪晚期,威廉·华兹华斯因创作描写自然的诗歌而声名远扬。他还是一场名为浪漫主义的运动的发起人之一,这场运动讴歌自然界的神奇。\n\n诗歌极具感染力。它的活力与韵律能够吸引读者,把他们带入另一个世界,让他们以全新的视角看待事物。借助精心遴选的词句,诗歌可以富有戏剧性、风趣幽默、优美动人,且催人奋进。\n\n没有人确切知道诗歌起源于何时,但它已经存在了数千年,甚至早在人类掌握文字之前就已出现。诗歌曾是讲述故事、传承历史的一种方式。它与歌唱密切相关,即便写成文字,通常也是为了供人大声诵读而创作的。当诗歌被大声诵读时,它们才真正鲜活灵动起来。这样做还有助于理解诗歌,因为如此一来,词句的韵律与声音会变得更加清晰。",
+    "intro": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)"
+  },
+  {
+    "id": "zy-2023-write-s",
+    "type": "写作",
+    "title": "2023年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "An art exhibition and a robot show are to be held on Sunday, and your friend David asks you which one he should go to. Write him an email to 1) make a suggestion, and 2) give your reason(s). Write your answer in about 100 words on the ANSWER SHEET. Do not use your own name in your email, use “Li Ming\" instead. (10 points)",
+    "tips": "二选一给建议＋讲清理由；要点：任务点一：明确给出建议；理由一：契合 David 的兴趣；理由二：现场体验更震撼、有启发"
+  },
+  {
+    "id": "zy-2023-write-b",
+    "type": "写作",
+    "title": "2023年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Write an essay based on the chart below. In your essay, you should 1) describe and interpret the chart, and 2) give your comments. Write your answer in about 150 words on the ANSWER SHEET. (15 points)\n\n图表说明：这张图片展示的是一张线图，它描述了2012年至2021年期间我国居民健康素养水平的变化",
+    "chart": true,
+    "tips": "描述并评论健康素养图；要点：客观描述上升趋势；分析上升原因；评论并提出展望"
+  },
+  {
+    "id": "zy-2023-match",
+    "type": "新题型",
+    "title": "2023年真题 · 新题型（多项对应）",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. The rise of home prices is a temporary matter.",
+      "B. Builders possibly need to submit new estimates of their projects.",
+      "C. There will be specific limits on home extensions to prevent heat loss.",
+      "D. The new rules will take home prices to an even higher level.",
+      "E. Many people feel that home prices are already beyond what they can afford.",
+      "F. The new rules will affect people whose home extensions include new windows or doors.",
+      "G. The rule changes will benefit homeowners eventually."
+    ],
+    "paras": [
+      {
+        "text": "41. Brian Berry",
+        "ans": 3,
+        "explain": "答案D。锚点：消费者必然要多付钱；依据：涨价主张配 D"
+      },
+      {
+        "text": "42. Gareth Belsham",
+        "ans": 5,
+        "explain": "答案F。锚点：扩建含新门窗者受影响；依据：扩建含门窗配 F"
+      },
+      {
+        "text": "43. Marcus Jefford",
+        "ans": 1,
+        "explain": "答案B。锚点：建筑商或需重交估价；依据：重交估价配 B"
+      },
+      {
+        "text": "44. John Kelly",
+        "ans": 0,
+        "explain": "答案A。锚点：涨价是暂时、终会回落；依据：暂时上涨配 A"
+      },
+      {
+        "text": "45. Andrew Mellor",
+        "ans": 6,
+        "explain": "答案G。锚点：房主长期终将获益；依据：长期受益配 G"
+      }
+    ],
+    "passage": "New building regulations aimed at improving energy efficiency are set to increase the price of new homes, as well as those of extensions and loft conversions on existing ones.\n\nThe rules, which came into effect on Wednesday in England, are part of government plans to reduce the UK's carbon emissions to net zero by 2050. They set new standards for ventilation, energy efficiency and heating, and state that new residential buildings must have charging points for electric vehicles.\n\nThe moves are the most significant change to building regulations in years, and industry experts say they will inevitably lead to higher prices at a time when a shortage of materials and high labour costs are already driving up bills.\n\nBrian Berry, chief executive of the Federation of Master Builders, says the measures will require new materials, testing methods, products and systems to be installed. \"All this comes at an increased cost during a time when prices are already sky high. Inevitably, consumers will have to pay more,\" he says.\n\nGareth Belsham, of surveyors Naismiths, says people who are upgrading, or extending their home, will be directly affected. \"The biggest changes relate to heating and insulation,\" he explains. \"There are new rules concerning the amount of glazing used in extensions, and any new windows or doors must be highly insulated.\"\n\nWindows and doors will have to adhere to higher standards, while there are new limits on the amount of glazing you can have to reduce unwanted heat from the sun.\n\nThomas Goodman, of MyJobQuote, says this will bring in new restrictions for extensions. \"Glazing on windows, doors and roof lights must cover no more than 25% of the floor area to prevent heat loss,\" he says.\n\nAs the rules came into effect last Wednesday, property developers were rushing to file plans just before the deadline. Any plans submitted before that date are considered to be under the previous rules, and can go ahead as long as work starts before 15 June next year.\n\nBuilders which have costed projects, but have not filed the paperwork, may need to go back and submit fresh estimates, says Marcus Jefford of Build Aviator.\n\nMaterials prices are already up 25% in the last two years. How much overall prices will increase as a result of the rule changes is not clear. \"Whilst admirable in their intentions, they will add to the cost of housebuilding at a time when many already feel that they are priced out of homeownership,\" says Jonathan Rolande of the National Association of Property Buyers. \"An average extension will probably see around £3,000 additional cost thanks to the new regs.\"\n\nJohn Kelly, a construction lawyer at Freeths law firm, believes prices will eventually come down. But not in the immediate future. \"As the marketplace adapts to the new requirements, and the technologies that support them, the scaling up of these technologies will eventually bring costs down, but in the short term, we will all have to pay the price of the necessary transition,\" he says.\n\nHowever, the long-term effects of the changes will be more comfortable and energy-efficient homes, adds Andrew Mellor, of PRP architects. \"Homeowners will probably recoup that cost over time in energy bill savings. It will obviously be very volatile at the moment, but they will have that benefit over time.\"",
+    "passage_zh": "旨在提高能源效率的新建筑法规将提高新房价格,以及现有住房的扩建和阁楼改造价格。\n\n这些法规于周三在英格兰生效,是政府到2050年将英国碳排放降至净零排放计划的一部分。它们为通风、能源效率和供暖设定了新标准,并规定新住宅建筑必须配备电动汽车充电桩。\n\n这些举措是多年来建筑法规最重大的变化,行业专家表示,在材料短缺和高昂人工成本已经推高账单的时期,这些变化将不可避免地导致价格上涨。\n\nFederation of Master Builders首席执行官Brian Berry表示,这些措施将需要安装新材料、测试方法、产品和系统。\"所有这些都会在价格已经高企的时期增加成本。消费者不可避免地将不得不支付更多费用,\"他说。\n\n测量师事务所Naismiths的Gareth Belsham表示,升级或扩建房屋的人将直接受到影响。\"最大的变化与供暖和隔热有关,\"他解释道。\"关于扩建中使用的玻璃量有新规定,任何新窗户或门都必须高度隔热。\"\n\n窗户和门将必须遵守更高标准,同时对玻璃使用量设有新限制,以减少来自太阳的不必要热量。\n\nMyJobQuote的Thomas Goodman表示,这将为扩建带来新限制。\"窗户、门和天窗上的玻璃覆盖面积不得超过地板面积的25%,以防止热量流失,\"他说。\n\n随着法规于上周三生效,房地产开发商正赶在截止日期前提交计划。在该日期之前提交的任何计划都被视为按照先前规则执行,只要在明年6月15日之前开工即可继续进行。\n\nBuild Aviator的Marcus Jefford表示,已经完成项目成本核算但尚未提交文件的建筑商可能需要重新提交新的估价。\n\n材料价格在过去两年已经上涨了25%。规则变化将导致整体价格上涨多少尚不清楚。\"尽管其意图值得称赞,但它们将增加住房建设成本,而此时许多人已经觉得自己买不起房,\"National Association of Property Buyers的Jonathan Rolande说。\"由于新法规,一个普通扩建项目可能会增加约3000英镑的额外成本。\"\n\nFreeths律师事务所的建筑律师John Kelly认为价格最终会下降。但不是在近期。\"随着市场适应新要求以及支持这些要求的技术,这些技术的规模化最终会降低成本,但在短期内,我们都将不得不为必要的转型付出代价,\"他说。\n\n然而,PRP建筑师事务所的Andrew Mellor补充说,这些变化的长期影响将是更舒适、更节能的住宅。\"房主可能会随着时间推移通过节省能源账单来收回这笔成本。目前显然会非常不稳定,但随着时间推移他们将获得这一好处。\""
+  }
+]

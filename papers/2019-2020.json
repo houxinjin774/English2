@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "zy-2019-read-1",
+    "type": "阅读理解",
+    "title": "2019年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Unlike so-called basic emotions such as sadness, fear, and anger, guilt emerges a little later, in conjunction with a child's growing grasp of social and moral norms. Children aren't born knowing how to say \"I'm sorry\"; rather, they learn over time that such statements appease parents and friends – and their own consciences. This is why researchers generally regard so-called moral guilt, in the right amount, to be a good thing.\n\nIn the popular imagination, of course, guilt still gets a bad rap. It is deeply uncomfortable – it's the emotional equivalent of wearing a jacket weighted with stones. Yet this understanding is outdated. \"There has been a kind of revival or a rethinking about what guilt is and what role guilt can serve,\" says Amrisha Vaish, a psychology researcher at the University of Virginia, adding that this revival is part of a larger recognition that emotions aren't binary – feelings that may be advantageous in one context may be harmful in another. Jealousy and anger, for example, may have evolved to alert us to important inequalities. Too much happiness can be destructive.\n\nAnd guilt, by prompting us to think more deeply about our goodness, can encourage humans to make up for errors and fix relationships. Guilt, in other words, can help hold a cooperative species together. It is a kind of social glue.\n\nViewed in this light, guilt is an opportunity. Work by Tina Malti, a psychology professor at the University of Toronto, suggests that guilt may compensate for an emotional deficiency. In a number of studies, Malti and others have shown that guilt and sympathy may represent different pathways to cooperation and sharing. Some kids who are low in sympathy may make up for that shortfall by experiencing more guilt, which can rein in their nastier impulses. And vice versa: High sympathy can substitute for low guilt.\n\nIn a 2014 study, for example, Malti looked at 244 children. Using caregiver assessments and the children's self-observations, she rated each child's overall sympathy level and his or her tendency to feel negative emotions after moral transgressions. Then the kids were handed chocolate coins, and given a chance to share them with an anonymous child. For the low-sympathy kids, how much they shared appeared to turn on how inclined they were to feel guilty. The guilt-prone ones shared more, even though they hadn't magically become more sympathetic to the other child's deprivation.\n\n\"That's good news,\" Malti says. \"We can be prosocial because we caused harm and we feel regret.\"",
+    "passage_zh": "与所谓的悲伤、恐惧和愤怒等基本情绪不同，内疚出现得稍晚一些，与儿童对社会和道德规范的理解不断增强相伴而生。孩子们并非生来就知道如何说\"对不起\"；相反，他们随着时间推移逐渐了解到这样的表述能够安抚父母和朋友——以及他们自己的良心。这就是为什么研究人员普遍认为，适量的所谓道德内疚是一件好事。\n\n当然，在大众想象中，内疚仍然名声不佳。它令人深感不适——就像穿着一件装满石头的沉重外套。然而这种理解已经过时了。\"人们对内疚是什么以及内疚能发挥什么作用进行了某种复兴或重新思考，\"弗吉尼亚大学的心理学研究员Amrisha Vaish说道，并补充说这种复兴是更广泛认识的一部分，即情绪不是二元的——在某种情境下可能有利的情感在另一种情境下可能有害。例如，嫉妒和愤怒可能是进化出来提醒我们注意重要的不平等现象的。过多的快乐可能具有破坏性。\n\n而内疚，通过促使我们更深入地思考自己的善良，可以鼓励人类弥补错误和修复关系。换句话说，内疚可以帮助维系一个合作型物种。它是一种社会黏合剂。\n\n从这个角度来看，内疚是一个机会。多伦多大学心理学教授Tina Malti的研究表明，内疚可能弥补情感上的不足。在多项研究中，Malti和其他研究者已经表明，内疚和同情可能代表通往合作和分享的不同途径。一些同情心较低的孩子可能通过体验更多内疚来弥补这一缺陷，这可以约束他们更恶劣的冲动。反之亦然：高同情心可以替代低内疚感。\n\n例如，在2014年的一项研究中，Malti观察了244名儿童。利用看护者评估和儿童的自我观察，她评定了每个孩子的整体同情心水平以及他或她在道德过失后感受负面情绪的倾向。然后孩子们得到了巧克力硬币，并有机会与一个匿名儿童分享。对于同情心较低的孩子，他们分享多少似乎取决于他们有多倾向于感到内疚。容易感到内疚的孩子分享得更多，尽管他们并没有神奇地对另一个孩子的匮乏变得更有同情心。\n\n\"这是个好消息，\"Malti说。\"我们可以表现出亲社会行为，因为我们造成了伤害并感到后悔。\"",
+    "questions": [
+      {
+        "q": "Researchers think that guilt can be a good thing because it may help____.",
+        "opts": [
+          "regulate a child's basic emotions",
+          "improve a child's intellectual ability",
+          "foster a child's moral development",
+          "intensify a child's positive feelings"
+        ],
+        "ans": 2,
+        "explain": "定位句指出\"适量道德内疚被视作好事\"，因内疚与儿童对社会道德规范的理解同步发展，foster a child's moral development 与之吻合。"
+      },
+      {
+        "q": "According to Paragraph 2, many people still consider guilt to be____.",
+        "opts": [
+          "deceptive",
+          "burdensome",
+          "addictive",
+          "inexcusable"
+        ],
+        "ans": 1,
+        "explain": "P2 用\"像穿着灌满石头的夹克\"形容内疚令人沉重，故 burdensome。"
+      },
+      {
+        "q": "Vaish holds that the rethinking about guilt comes from an awareness that____.",
+        "opts": [
+          "emotions are context-independent",
+          "emotions are socially constructive",
+          "emotional stability can benefit health",
+          "an emotion can play opposing roles"
+        ],
+        "ans": 3,
+        "explain": "Vaish 指出情绪并非二元——在一种情境有利的感受在另一情境可能有害，即一种情绪可发挥相反作用。"
+      },
+      {
+        "q": "Malti and others have shown that cooperation and sharing____.",
+        "opts": [
+          "may help correct emotional deficiencies",
+          "can result from either sympathy or guilt",
+          "can bring about emotional satisfaction",
+          "may be the outcome of impulsive acts"
+        ],
+        "ans": 1,
+        "explain": "Malti 等证明内疚与同情是通向合作与分享的两条不同途径，即合作分享可源于同情或内疚。"
+      },
+      {
+        "q": "The word \"transgressions\" (Line 4, Para. 5) is closest in meaning to____.",
+        "opts": [
+          "teachings",
+          "discussions",
+          "restrictions",
+          "wrongdoings"
+        ],
+        "ans": 3,
+        "explain": "语境为\"道德过失后产生负面情绪\"，transgressions 即 wrongdoings（错误行为）。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-read-2",
+    "type": "阅读理解",
+    "title": "2019年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Forests give us shade, quiet and one of the harder challenges in the fight against climate change. Even as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so. The climate change we are hastening could one day leave us with forests that emit more carbon than they absorb.\n\nThankfully, there is a way out of this trap – but it involves striking a subtle balance. Helping forests flourish as valuable \"carbon sinks\" long into the future may require reducing their capacity to absorb carbon now. California is leading the way, as it does on so many climate efforts, in figuring out the details.\n\nThe state's proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush in parts of the forest. This temporarily lowers carbon-carrying capacity. But the remaining trees draw a greater share of the available moisture, so they grow and thrive, restoring the forest's capacity to pull carbon from the air. Healthy trees are also better able to fend off insects. The landscape is rendered less easily burnable. Even in the event of a fire, fewer trees are consumed.\n\nThe need for such planning is increasingly urgent. Already, since 2010, drought and insects have killed over 100 million trees in California, most of them in 2016 alone, and wildfires have burned hundreds of thousands of acres.\n\nCalifornia plans to treat 35,000 acres of forest a year by 2020, and 60,000 by 2030 – financed from the proceeds of the state's emissions-permit auctions. That's only a small share of the total acreage that could benefit, about half a million acres in all, so it will be vital to prioritize areas at greatest risk of fire or drought.\n\nThe strategy also aims to ensure that carbon in woody material removed from the forests is locked away in the form of solid lumber or burned as biofuel in vehicles that would otherwise run on fossil fuels. New research on transportation biofuels is already under way.\n\nState governments are well accustomed to managing forests, but traditionally they've focused on wildlife, watersheds and opportunities for recreation. Only recently have they come to see the vital part forests will have to play in storing carbon. California's plan, which is expected to be finalized by the governor next year, should serve as a model.",
+    "passage_zh": "森林为我们提供荫凉、宁静，以及应对气候变化斗争中较为艰巨的挑战之一。尽管我们人类指望森林吸收我们产生的大量二氧化碳，但我们正在威胁它们这样做的能力。我们正在加速的气候变化有朝一日可能使我们面临排放多于吸收碳的森林。\n\n值得庆幸的是，有一个办法可以摆脱这个困境——但这涉及达成一种微妙的平衡。帮助森林在未来长期作为有价值的\"碳汇\"繁荣发展，可能需要降低它们现在吸收碳的能力。California正在引领这一努力，就像它在许多气候工作中所做的那样，正在摸索具体细节。\n\n该州提出的森林碳计划旨在加倍努力疏伐部分森林中的幼树并清理灌木丛。这暂时降低了碳承载能力。但剩余的树木获得了更多可用水分，因此它们生长并茁壮成长，恢复了森林从空气中吸收碳的能力。健康的树木也更能抵御昆虫侵害。地貌变得不那么容易燃烧。即使发生火灾，被烧毁的树木也更少。\n\n这种规划的必要性日益紧迫。自2010年以来，干旱和昆虫已在California造成超过1亿棵树木死亡，其中大部分仅在2016年，而野火已烧毁数十万英亩土地。\n\nCalifornia计划到2020年每年处理35000英亩森林，到2030年处理60000英亩——资金来自该州排放许可证拍卖的收益。这只是可以受益的总面积中的一小部分，总计约50万英亩，因此优先处理火灾或干旱风险最大的地区至关重要。\n\n该战略还旨在确保从森林中移除的木质材料中的碳以实木木材的形式固定下来，或作为生物燃料在原本使用化石燃料的车辆中燃烧。关于运输生物燃料的新研究已经在进行中。\n\n州政府非常习惯于管理森林，但传统上它们关注的是野生动物、流域和娱乐机会。直到最近，它们才开始认识到森林在储存碳方面必须发挥的重要作用。California的计划预计将于明年由州长最终确定，应该作为一个典范。",
+    "questions": [
+      {
+        "q": "By saying \"one of the harder challenges,\" the author implies that____.",
+        "opts": [
+          "global climate change may get out of control",
+          "people may misunderstand global warming",
+          "extreme weather conditions may arise",
+          "forests may become a potential threat"
+        ],
+        "ans": 3,
+        "explain": "P1 指出气候变化或使森林排放多于吸收的碳，森林可能由\"帮手\"变为\"威胁\"。"
+      },
+      {
+        "q": "To maintain forests as valuable \"carbon sinks,\" we may need to____.",
+        "opts": [
+          "preserve the diversity of species in them",
+          "accelerate the growth of young trees",
+          "strike a balance among different plants",
+          "lower their present carbon-absorbing capacity"
+        ],
+        "ans": 3,
+        "explain": "P2 明示维持森林作为碳汇或需降低其当前的碳吸收能力。"
+      },
+      {
+        "q": "California's Forest Carbon Plan endeavors to____.",
+        "opts": [
+          "cultivate more drought-resistant trees",
+          "reduce the density of some of its forests",
+          "find more effective ways to kill insects",
+          "restore its forests quickly after wildfires"
+        ],
+        "ans": 1,
+        "explain": "该计划旨在疏伐部分森林中的幼树、清除灌木，即降低部分森林的密度。"
+      },
+      {
+        "q": "What is essential to California's plan according to Paragraph 5?",
+        "opts": [
+          "To handle the areas in serious danger first.",
+          "To carry it out before the year of 2020.",
+          "To perfect the emissions-permit auctions.",
+          "To obtain enough financial support."
+        ],
+        "ans": 0,
+        "explain": "P5 强调优先处理火灾或干旱风险最高的区域至关重要。"
+      },
+      {
+        "q": "The author's attitude to California's plan can best be described as____.",
+        "opts": [
+          "ambiguous",
+          "tolerant",
+          "supportive",
+          "cautious"
+        ],
+        "ans": 2,
+        "explain": "作者称加州引领气候行动并\"应成为典范\"（should serve as a model），态度为支持。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-read-3",
+    "type": "阅读理解",
+    "title": "2019年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "American farmers have been complaining of labor shortages for several years. The complaints are unlikely to stop without an overhaul of immigration rules for farm workers.\n\nCongress has obstructed efforts to create a more straightforward visa for agricultural workers that would let foreign workers stay longer in the U.S. and change jobs within the industry. If this doesn't change, American businesses, communities, and consumers will be the losers.\n\nPerhaps half of U.S. farm laborers are undocumented immigrants. As fewer such workers enter the country, the characteristics of the agricultural workforce are changing. Today's farm laborers, while still predominantly born in Mexico, are more likely to be settled rather than migrating and more likely to be married than single. They're also aging. At the start of this century, about one-third of crop workers were over the age of 35. Now more than half are. And picking crops is hard on older bodies. One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm.\n\nMechanization isn't the answer, either – not yet, at least. Production of corn, cotton, rice, soybeans, and wheat has been largely mechanized, but many high-value, labor-intensive crops, such as strawberries, need labor. Even dairy farms, where robots do a small share of milking, have a long way to go before they're automated.\n\nAs a result, farms have grown increasingly reliant on temporary guest workers using the H-2A visa to fill the gaps in the workforce. Starting around 2012, requests for the visas rose sharply; from 2011 to 2016 the number of visas issued more than doubled.\n\nThe H-2A visa has no numerical cap, unlike the H-2B visa for nonagricultural work, which is limited to 66,000 a year. Even so, employers complain they aren't given all the workers they need. The process is cumbersome, expensive, and unreliable. One survey found that bureaucratic delays led the average H-2A worker to arrive on the job 22 days late. The shortage is compounded by federal immigration raids, which remove some workers and drive others underground.\n\nIn a 2012 survey, 71 percent of tree-fruit growers and almost 80 percent of raisin and berry growers said they were short of labor. Some western farmers have responded by moving operations to Mexico. From 1998 to 2000, 14.5 percent of the fruit Americans consumed was imported. Little more than a decade later, the share of imports was 25.8 percent.\n\nIn effect, the U.S. can import food or it can import the workers who pick it.",
+    "passage_zh": "美国农民多年来一直抱怨劳动力短缺。如果不对农业工人的移民规定进行全面改革，这些抱怨不太可能停止。\n\n国会一直阻挠为农业工人创建更简便签证的努力，这种签证将允许外国工人在美国停留更长时间并在该行业内更换工作。如果这种情况不改变，美国企业、社区和消费者将成为输家。\n\n美国农场劳动力中大约有一半是无证移民。随着此类工人进入该国的人数减少，农业劳动力的特征正在发生变化。今天的农场劳动者虽然仍以在墨西哥出生为主，但更可能是定居而非迁徙，更可能是已婚而非单身。他们也在老龄化。在本世纪初，约三分之一的农作物工人年龄在35岁以上。现在超过一半。而且采摘农作物对年长的身体来说很艰难。对于这种劳动力短缺，一个经常被辩论的解决方案仍然像一直以来那样不切实际：本土美国工人不会回到农场。\n\n机械化也不是答案——至少目前还不是。玉米、棉花、水稻、大豆和小麦的生产已经基本实现机械化，但许多高价值、劳动密集型作物，如草莓，需要劳动力。即使是奶牛场，机器人只完成一小部分挤奶工作，离自动化还有很长的路要走。\n\n因此，农场越来越依赖使用H-2A签证的临时客工来填补劳动力缺口。大约从2012年开始，签证申请急剧上升；从2011年到2016年，签证发放数量增加了一倍多。\n\nH-2A签证没有数量上限，不像用于非农业工作的H-2B签证，后者每年限制在66000个。即便如此，雇主仍抱怨他们没有得到所需的全部工人。这一过程繁琐、昂贵且不可靠。一项调查发现，官僚主义的延误导致H-2A工人平均晚到岗22天。联邦移民突击检查加剧了短缺，这些检查驱逐了一些工人并迫使其他工人转入地下。\n\n在2012年的一项调查中，71%的果树种植者和近80%的葡萄干和浆果种植者表示他们劳动力短缺。一些西部农民的应对方式是将业务转移到墨西哥。从1998年到2000年，美国人消费的水果中有14.5%是进口的。仅仅十多年后，进口份额达到了25.8%。\n\n实际上，美国可以进口食品，或者可以进口采摘食品的工人。",
+    "questions": [
+      {
+        "q": "What problem should be addressed according to the first two paragraphs?",
+        "opts": [
+          "Discrimination against foreign workers in the U.S.",
+          "Biased laws in favor of some American businesses.",
+          "Flaws in U.S. immigration rules for farm workers.",
+          "Decline of job opportunities in U.S. agriculture."
+        ],
+        "ans": 2,
+        "explain": "P1 说不全面改革农场工人移民规则则抱怨不会停止，问题正在于移民规则缺陷。"
+      },
+      {
+        "q": "One trouble with U.S. agricultural workforce is____.",
+        "opts": [
+          "the rising number of illegal immigrants",
+          "the high mobility of crop workers",
+          "the lack of experienced laborers",
+          "the aging of immigrant farm workers"
+        ],
+        "ans": 3,
+        "explain": "P3 指出农场工人也在老龄化，35 岁以上者已超过一半。"
+      },
+      {
+        "q": "What is the much-argued solution to the labor shortage in U.S. farming?",
+        "opts": [
+          "To attract younger laborers to farm work.",
+          "To get native U.S. workers back to farming.",
+          "To use more robots to grow high-value crops.",
+          "To strengthen financial support for farmers."
+        ],
+        "ans": 1,
+        "explain": "P3 提到常被争论的\"解药\"——让本土美国工人回到农场，但被认为不现实。"
+      },
+      {
+        "q": "Agricultural employers complain about the H-2A visa for its____.",
+        "opts": [
+          "slow granting procedures",
+          "limit on duration of stay",
+          "tightened requirements",
+          "control of annual admissions"
+        ],
+        "ans": 0,
+        "explain": "P6 说该签证流程繁琐、昂贵且不可靠，官僚拖延使工人平均迟到岗22天，即审批缓慢。"
+      },
+      {
+        "q": "Which of the following could be the best title for this text?",
+        "opts": [
+          "U.S. Agriculture in Decline?",
+          "Import Food or Labor?",
+          "America Saved by Mexico?",
+          "Manpower vs. Automation?"
+        ],
+        "ans": 1,
+        "explain": "尾段总结\"美国要么进口食品，要么进口采摘食品的工人\"，该标题覆盖劳动力与食物两端。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-read-4",
+    "type": "阅读理解",
+    "title": "2019年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message for you: It's easy to beat plastic. They're part of a bunch of celebrities starring in a new video for World Environment Day – encouraging you, the consumer, to swap out your single-use plastic staples like straws and cutlery to combat the plastics crisis.\n\nThe key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics. But the overarching message is directed at individuals.\n\nMy concern with leaving it up to the individual, however, is our limited sense of what needs to be achieved. On their own, taking our own bags to the grocery store or quitting plastic straws, for example, will accomplish little and require very little of us. They could even be detrimental, satisfying a need to have \"done our bit\" without ever progressing onto bigger, bolder, more effective actions – a kind of \"moral licensing\" that allays our concerns and stops us doing more and asking more of those in charge.\n\nWhile the conversation around our environment and our responsibility toward it remains centered on shopping bags and straws, we're ignoring the balance of power that implies that as \"consumers\" we must shop sustainably, rather than as \"citizens\" hold our governments and industries to account to push for real systemic change.\n\nIt's important to acknowledge that the environment isn't everyone's priority – or even most people's. We shouldn't expect it to be. In her latest book, Why Good People Do Bad Environmental Things, Wellesley College professor Elizabeth R. DeSombre argues that the best way to collectively change the behavior of large numbers of people is for the change to be structural.\n\nThis might mean implementing policy such as a plastic tax that adds a cost to environmentally problematic action, or banning single-use plastics altogether. India has just announced it will \"eliminate all single-use plastic in the country by 2022.\" There are also incentive-based ways of making better environmental choices easier, such as ensuring recycling is at least as easy as trash disposal.\n\nDeSombre isn't saying people should stop caring about the environment. It's just that individual actions are too slow, she says, for that to be the only, or even primary, approach to changing widespread behavior.\n\nNone of this is about writing off the individual. It's just about putting things into perspective. We don't have time to wait. We need progressive policies that shape collective action (and rein in polluting businesses), alongside engaged citizens pushing for change.",
+    "passage_zh": "Arnold Schwarzenegger、Dia Mirza和Adrian Grenier向你传递一个信息：战胜塑料很容易。他们是为世界环境日拍摄新视频的一群名人中的一部分，该视频鼓励你这样的消费者，用可替代品取代你的一次性塑料必需品，如吸管和餐具，以应对塑料危机。\n\n为世界环境日整合的关键信息确实包括呼吁政府制定法律来遏制一次性塑料。但总体信息是针对个人的。\n\n然而，我对把这件事留给个人的担忧在于，我们对需要实现什么目标的认识有限。例如，仅靠我们自己带购物袋去杂货店或戒掉塑料吸管，将取得很少成就，也只需要我们付出很少。它们甚至可能是有害的，满足了一种\"我们已经尽力\"的需求，却从未进展到更大、更大胆、更有效的行动——一种\"道德许可\"，它缓解了我们的担忧，阻止我们做更多事情和向掌权者要求更多。\n\n当围绕我们的环境和我们对环境的责任的讨论仍然集中在购物袋和吸管上时，我们忽略了权力平衡，这种平衡意味着作为\"消费者\"，我们必须可持续地购物，而不是作为\"公民\"追究我们的政府和行业的责任，推动真正的系统性变革。\n\n重要的是要承认，环境并不是每个人的优先事项——甚至不是大多数人的优先事项。我们不应该期望它是。在她的最新著作《为什么好人做坏的环境事》中，Wellesley College教授Elizabeth R. DeSombre认为，集体改变大量人群行为的最佳方式是让改变成为结构性的。\n\n这可能意味着实施政策，如塑料税，为环境问题行为增加成本，或者完全禁止一次性塑料。印度刚刚宣布将\"在2022年之前消除该国所有一次性塑料\"。还有基于激励的方式使更好的环境选择变得更容易，例如确保回收至少与垃圾处理一样容易。\n\nDeSombre并不是说人们应该停止关心环境。她说，只是个人行动太慢了，不能成为改变广泛行为的唯一甚至主要方法。\n\n所有这些都不是要否定个人。这只是关乎正确看待事物。我们没有时间等待。我们需要塑造集体行动（并约束污染企业）的进步政策，以及推动变革的积极公民。",
+    "questions": [
+      {
+        "q": "Some celebrities star in a new video to____.",
+        "opts": [
+          "demand new laws on the use of plastics",
+          "urge consumers to cut the use of plastics",
+          "invite public opinion on the plastics crisis",
+          "disclose the causes of the plastics crisis"
+        ],
+        "ans": 1,
+        "explain": "视频鼓励作为消费者的你换掉吸管、餐具等一次性塑料用品，即敦促消费者减少塑料使用。"
+      },
+      {
+        "q": "The author is concerned that \"moral licensing\" may____.",
+        "opts": [
+          "mislead us into doing worthless things",
+          "prevent us from making further efforts",
+          "weaken our sense of accomplishment",
+          "suppress our desire for success"
+        ],
+        "ans": 1,
+        "explain": "道德许可平息担忧，让我们不再做更多、不再向掌权者要求更多，即阻止进一步努力。"
+      },
+      {
+        "q": "By pointing out our identity \"citizens\", the author indicates that____.",
+        "opts": [
+          "our focus should be shifted to community welfare",
+          "our relationship with local industries is improving",
+          "we have been actively exercising our civil rights",
+          "we should press our government to lead the combat"
+        ],
+        "ans": 3,
+        "explain": "作者认为作为\"公民\"应追究政府与企业责任、推动真正的系统性变革，即敦促政府主导行动。"
+      },
+      {
+        "q": "DeSombre argues that the best way for a collective change should be____.",
+        "opts": [
+          "a win-win arrangement",
+          "a self-driven mechanism",
+          "a cost-effective approach",
+          "a top-down process"
+        ],
+        "ans": 3,
+        "explain": "DeSombre 主张改变应是\"结构性的\"，由制度与政策自上而下推动。"
+      },
+      {
+        "q": "The author concludes that individual efforts____.",
+        "opts": [
+          "can be too aggressive",
+          "can be too inconsistent",
+          "are far from sufficient",
+          "are far from rational"
+        ],
+        "ans": 2,
+        "explain": "作者结论是单靠个人行动太慢、成效有限，必须搭配塑造集体行动的进步政策。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-cloze",
+    "type": "完形填空",
+    "title": "2019年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Weighing yourself regularly is a wonderful way to stay aware of any significant weight fluctuations. However, when done too often, this habit can sometimes hurt more than it helps.\n\nAs for me, weighing myself every day caused me to shift my focus from being generally healthy and physically active, to focusing solely on the scale. That was bad for my overall fitness goals. I had gained weight in the form of muscle mass, but thinking only of lowering the number on the scale, I altered my training program. That conflicted with how I needed to train to reach my goals.\n\nI also found that weighing myself daily did not provide an accurate depiction of the hard work and progress I was making in the gym. It takes about three weeks to a month to notice significant changes in your weight due to altering your training program. The most immediate changes will be observed in skill level, strength and inches lost.\n\nFor these reasons, I stopped weighing myself every day and switched to a bimonthly weighing schedule instead. Since weight loss is not my goal, it is less important for me to track my weight each week. Weighing every other week allows me to observe and account for any significant weight changes. That tells me whether I need to adjust my training program.\n\nI use my bimonthly weigh-in results to get information about my nutrition as well. If my training intensity remains the same, but I'm constantly hungry and dropping weight, this is a sign that I need to increase my daily caloric intake.\n\nThe decision to stop weighing myself every day has done wonders for my overall health, fitness and well-being. I'm experiencing increased zeal for working out since I no longer carry the burden of a disappointing morning weigh-in. I've also experienced greater success in achieving my specific fitness goals, because I'm training according to those goals, not the numbers on a scale.\n\nRather than obsessing over the scale, turn your focus to how you look, feel, how your clothes fit and your overall energy level.",
+    "passage_zh": "定期称体重是了解体重显著波动的好方法。然而，当称重过于频繁时，这一习惯有时弊大于利。\n\n就我而言，每天称体重使我的注意力从保持总体健康和身体活跃转移到只关注体重秤上的数字。这对我的整体健身目标不利。我以肌肉质量的形式增加了体重，但由于只想着降低体重秤上的数字，我改变了训练计划。这与我为实现目标所需的训练方式相冲突。\n\n我还发现每天称体重无法准确反映我在健身房付出的努力和取得的进步。由于改变训练计划而导致体重发生显著变化大约需要三周到一个月的时间。最直接的变化将体现在技能水平、力量和减少的英寸数上。\n\n基于这些原因，我停止了每天称体重，改为每两周称一次体重。由于减重不是我的目标，每周追踪体重对我来说不那么重要。每两周称一次体重让我能够观察并解释任何显著的体重变化。这告诉我是否需要调整训练计划。\n\n我还利用每两周一次的称重结果来获取关于营养的信息。如果我的训练强度保持不变，但我经常感到饥饿并且体重下降，这表明我需要增加每日热量摄入。\n\n停止每天称体重的决定对我的整体健康、健身和幸福感产生了奇妙的效果。由于不再承受令人失望的晨间称重的负担，我对锻炼的热情增加了。我在实现具体健身目标方面也取得了更大的成功，因为我是根据这些目标进行训练，而不是根据体重秤上的数字。\n\n与其纠结于体重秤，不如将注意力转向你的外表、感觉、衣服的合身度以及整体精力水平。",
+    "blanks": [
+      {
+        "opts": [
+          "Besides",
+          "Therefore",
+          "Otherwise",
+          "However"
+        ],
+        "ans": 3,
+        "explain": "答案D（逻辑转折）。前句褒（wonderful way）后句贬（hurt more than it helps），需转折词 However。"
+      },
+      {
+        "opts": [
+          "helps",
+          "cares",
+          "warns",
+          "reduces"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定表达）。hurt more than it helps 是\"弊大于利\"的固定对照。"
+      },
+      {
+        "opts": [
+          "initially",
+          "solely",
+          "occasionally",
+          "formally"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。与 generally（广泛）形成范围反义对照，solely（仅仅）。"
+      },
+      {
+        "opts": [
+          "recording",
+          "lowering",
+          "explaining",
+          "accepting"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。作者改训练计划是想把数字\"降下来\"，与 altered my training program 构成因果。"
+      },
+      {
+        "opts": [
+          "modify",
+          "set",
+          "review",
+          "reach"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。reach one's goals 达成目标，训练是为了达成既定目标。"
+      },
+      {
+        "opts": [
+          "definition",
+          "depiction",
+          "distribution",
+          "prediction"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。accurate depiction 准确反映、描绘努力与进展。"
+      },
+      {
+        "opts": [
+          "due to",
+          "regardless of",
+          "aside from",
+          "along with"
+        ],
+        "ans": 0,
+        "explain": "答案A（逻辑关系）。改训练计划是体重变化的原因，due to 表\"由于\"。"
+      },
+      {
+        "opts": [
+          "orderly",
+          "rigid",
+          "precise",
+          "immediate"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。与上句体重变化\"慢\"相对，最\"即时\"的变化先被看到。"
+      },
+      {
+        "opts": [
+          "claims",
+          "judgments",
+          "reasons",
+          "methods"
+        ],
+        "ans": 2,
+        "explain": "答案C（固定搭配）。for these reasons\"基于上述原因\"是高频回指搭配。"
+      },
+      {
+        "opts": [
+          "instead",
+          "though",
+          "again",
+          "indeed"
+        ],
+        "ans": 0,
+        "explain": "答案A（逻辑衔接）。stopped...and switched to... 是\"停A换B\"，instead 表\"取而代之\"。"
+      },
+      {
+        "opts": [
+          "track",
+          "overlook",
+          "conceal",
+          "report"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。减重非目标，故每周\"追踪\"体重不重要，track my weight 搭配自然。"
+      },
+      {
+        "opts": [
+          "depend on",
+          "approve of",
+          "hold onto",
+          "account for"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。observe 看到、account for 解释，构成\"看到—解释\"递进。"
+      },
+      {
+        "opts": [
+          "share",
+          "adjust",
+          "confirm",
+          "prepare"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。根据体重变化\"调整\"训练计划，adjust one's training program。"
+      },
+      {
+        "opts": [
+          "results",
+          "features",
+          "rules",
+          "tests"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。把称重\"结果\"用于获取营养信息。"
+      },
+      {
+        "opts": [
+          "bored",
+          "anxious",
+          "hungry",
+          "sick"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。需增加热量摄入的状态是\"饿\"，与 dropping weight 并列。"
+      },
+      {
+        "opts": [
+          "principle",
+          "secret",
+          "belief",
+          "sign"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。this is a sign that 是高频句式，\"饿+掉体重\"是需增摄入的\"迹象\"。"
+      },
+      {
+        "opts": [
+          "request",
+          "necessity",
+          "decision",
+          "wish"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。前文 I stopped 表明是作者主动做出的\"决定\"。"
+      },
+      {
+        "opts": [
+          "disappointing",
+          "surprising",
+          "restricting",
+          "consuming"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。burden 是负面词，晨间称重看到数字不佳正是\"令人失望\"。"
+      },
+      {
+        "opts": [
+          "if",
+          "unless",
+          "until",
+          "because"
+        ],
+        "ans": 3,
+        "explain": "答案D（逻辑关系）。\"按目标训练\"是\"取得成功\"的原因，because 连接果—因。"
+      },
+      {
+        "opts": [
+          "obsessing",
+          "dominating",
+          "puzzling",
+          "triumphing"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。obsess over\"痴迷于\"，与\"关注外观、感受\"形成反义对照。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-match",
+    "type": "新题型",
+    "title": "2019年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. remarks that significant moves may pose challenges to children.",
+      "B. says that it is wise to leave kids in the dark about real estate decisions.",
+      "C. advises that home purchases should not be based only on children's opinions.",
+      "D. thinks that children should be given a sense of involvement in homebuying decisions.",
+      "E. notes that aspects like children's friends and social activities should be considered upon homebuying.",
+      "F. believes that homebuying decisions should be based on children's needs rather than their opinions.",
+      "G. assumes that many children's views on real estate are influenced by the media."
+    ],
+    "paras": [
+      {
+        "text": "41. Ryan Hooper",
+        "ans": 0,
+        "explain": "答案A。Hooper 说孩子在应对重大搬家时可能面临严重困难，对应 A（搬家可能给孩子带来挑战）。"
+      },
+      {
+        "text": "42. Adam Bailey",
+        "ans": 3,
+        "explain": "答案D。Bailey 主张让年幼孩子感觉参与了购房决策，对应 D（给孩子参与感）。"
+      },
+      {
+        "text": "43. Tracey Hampson",
+        "ans": 2,
+        "explain": "答案C。Hampson 说自己不会仅凭孩子意见做购房决定，对应 C（购房不应只凭孩子意见）。"
+      },
+      {
+        "text": "44. Aaron Norris",
+        "ans": 6,
+        "explain": "答案G。Norris 说孩子的房产知识受 HGTV 等电视媒体影响，对应 G（媒体影响孩子房产观）。"
+      },
+      {
+        "text": "45. Julie Gurner",
+        "ans": 5,
+        "explain": "答案F。Gurner 认为购房决定应充分考虑孩子的需求而非其意见，对应 F。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2019-trans",
+    "type": "翻译",
+    "title": "2019年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+    "passage": "It is easy to underestimate English writer James Herriot. He had such a pleasant, readable style that one might think that anyone could imitate it. How many times have I heard people say, \"I could write a book. I just haven't the time.\" Easily said. Not so easily done. James Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, \"having a go at the writing game\". While he obviously had an abundance of natural talent, the final, polished work that he gave to the world was the result of years of practicing, re-writing and reading. Like the majority of authors, he had to suffer many disappointments and rejections along the way, but these made him all the more determined to succeed. Everything he achieved in life was earned the hard way and his success in the literary field was no exception.",
+    "passage_zh": "人们很容易低估英国作家詹姆斯·赫里奥特。他的文风是如此令人愉悦、流畅易读，以致于人们可能会以为任何人都能模仿。我不知有多少次听到人们说：「我也能写本书，只不过没时间罢了。」话说起来容易，做起来却没那么简单。与一般人的看法相反，赫里奥特早年——用他自己的话说——在「尝试涉足写作这一行」时，并不觉得这是件容易的事。虽然他显然天赋异禀，但他最终奉献给世人的那些精雕细琢的作品，却是多年练习、反复修改和阅读的结果。和大多数作家一样，他一路上也不得不承受许多失望和退稿，但这些挫折反而使他更加坚定了成功的决心。他一生中所取得的一切都是历尽艰辛换来的，他在文学领域的成功也不例外。"
+  },
+  {
+    "id": "zy-2019-write-s",
+    "type": "写作",
+    "title": "2019年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose Professor Smith asked you to plan a debate on the theme of city traffic. Write him an email to 1)suggest a specific topic with your reasons, and 2)tell him about your arrangements. You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use \"Li Ming\" instead. (10 points)",
+    "tips": "写作要点：给 Smith 教授写邮件，完成两件事——建议一个可辩的具体辩题（如\"是否应限制私家车进入市中心\"）并给出理由；交代辩论安排（时间、地点、人员分组、每队时长），结尾礼貌邀请教授到场指导。落款 Yours sincerely + Li Ming。参考范文见解析页：Dear Professor Smith, I am writing to share my plan for the debate on city traffic... 约100词。"
+  },
+  {
+    "id": "zy-2019-write-b",
+    "type": "写作",
+    "title": "2019年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)",
+    "tips": "配图为柱状图（某高校 2013 与 2018 年本科毕业生去向）：就业从 68.1% 降至 60.7%；继续升学从 26.3% 升至 34.0%；自主创业从 1.3% 翻倍至 2.6%。写作思路：先总述三类去向并用对比突出\"就业降、升学升、创业翻倍\"的核心趋势；再从就业市场竞争加剧推升学、国家政策鼓励创业两个角度归因；最后表态肯定职业规划更趋理性多元，并建议高校加强就业与升学引导。参考范文见解析页，约150词。",
+    "chart": false
+  },
+  {
+    "id": "zy-2020-read-1",
+    "type": "阅读理解",
+    "title": "2020年真题 · Text 1",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Rats and other animals need to be highly attuned to social signals from others so they can identify friends to cooperate with and enemies to avoid. To find out if this extends to non-living beings, Laleh Quinn at the University of California, San Diego, and her colleagues tested whether rats can detect social signals from robotic rats.\n\nThey housed eight adult rats with two types of robotic rat—one social and one asocial—for four days. The robot rats were quite minimalist, resembling a chunkier version of a computer mouse with wheels to move around and colourful markings.\n\nDuring the experiment, the social robot rat followed the living rats around, played with the same toys, and opened cage doors to let trapped rats escape. Meanwhile, the asocial robot simply moved forwards and backwards and side to side.\n\nNext, the researchers trapped the robots in cages and gave the rats the opportunity to release them by pressing a lever. Across 18 trials each, the living rats were 52 percent more likely on average to set the social robot free than the asocial one. This suggests that the rats perceived the social robot as a genuine social being, says Quinn. The rats may have bonded more with the social robot because it displayed behaviors like communal exploring and playing. This could lead to the rats better remembering having freed it earlier, and wanting the robot to return the favour when they get trapped, she says.\n\n\"Rats have been shown to engage in multiple forms of reciprocal help and cooperation, including what is referred to as direct reciprocity where a rat will help another rat that has previously helped them,\" says Quinn.\n\nThe readiness of the rats to befriend the social robot was surprising given its minimal design. The robot was the same size as a regular rat but resembled a simple plastic box on wheels. \"We'd assumed we'd have to give it a moving head and tail, facial features, and put a scent on it to make it smell like a real rat, but that wasn't necessary,\" says Janet Wiles at the University of Queensland in Australia, who helped with the research.\n\nThe finding shows how sensitive rats are to social cues, even when they come from basic robots. Similarly, children tend to treat robots as if they are fellow beings, even when they display only simple social signals. \"We humans seem to be fascinated by robots, and it turns out other animals are too,\" says Wiles.",
+    "passage_zh": "老鼠和其他动物需要高度关注来自同类的社交信号，以便识别可以合作的朋友和需要避开的敌人。为了弄清这是否延伸到非生命体，加州大学圣地亚哥分校的Laleh Quinn和她的同事们测试了老鼠是否能够检测到来自机器老鼠的社交信号。\n\n他们让八只成年老鼠与两种类型的机器老鼠——一种社交型和一种非社交型——共同生活了四天。这些机器老鼠相当简约，像是一个带轮子可以四处移动、有彩色标记的加厚版电脑鼠标。\n\n在实验期间，社交型机器老鼠跟随真老鼠四处走动，玩相同的玩具，并打开笼门让被困的老鼠逃出。与此同时，非社交型机器只是简单地前后和左右移动。\n\n接下来，研究人员将机器困在笼子里，让老鼠有机会通过按压杠杆释放它们。在各18次试验中，真老鼠释放社交型机器的可能性平均比释放非社交型机器高52%。Quinn说，这表明老鼠将社交型机器视为真正的社交生物。老鼠可能与社交型机器建立了更深的联系，因为它表现出了诸如共同探索和玩耍等行为。她说，这可能导致老鼠更好地记住之前曾释放过它，并希望当自己被困时机器能够回报这份恩惠。\n\nQuinn说：\"研究表明，老鼠会参与多种形式的互惠帮助和合作，包括所谓的直接互惠，即一只老鼠会帮助曾经帮助过自己的另一只老鼠。\"\n\n考虑到机器的简约设计，老鼠愿意与社交型机器交朋友令人惊讶。这个机器与普通老鼠大小相同，但看起来像一个装在轮子上的简单塑料盒。参与这项研究的澳大利亚昆士兰大学的Janet Wiles说：\"我们原本以为必须给它安装一个能动的头和尾巴、面部特征，并在它身上喷洒气味使其闻起来像真老鼠，但这些都不必要。\"\n\n这一发现显示了老鼠对社交线索的敏感程度，即使这些线索来自基本的机器。同样，儿童往往会把机器当作同类对待，即使它们只展示简单的社交信号。Wiles说：\"我们人类似乎对机器着迷，事实证明其他动物也是如此。\"",
+    "questions": [
+      {
+        "q": "Quinn and her colleagues conducted a test to see if rats can ____.",
+        "opts": [
+          "pick up social signals from non-living rats",
+          "distinguish a friendly rat from a hostile one",
+          "attain sociable traits through special training",
+          "send out warning messages to their fellows"
+        ],
+        "ans": 0,
+        "explain": "实验目的即测试老鼠能否从机器鼠（非生命体）接收社交信号，detect social signals 同义改写为 pick up。"
+      },
+      {
+        "q": "What did the asocial robot do during the experiment?",
+        "opts": [
+          "It followed the social robot.",
+          "It played with some toys.",
+          "It set the trapped rats free.",
+          "It moved around alone."
+        ],
+        "ans": 3,
+        "explain": "非社交型机器只是独自前后左右地移动，不与活鼠互动。"
+      },
+      {
+        "q": "According to Quinn, the rats released the social robot because they____.",
+        "opts": [
+          "tried to practice a means of escape.",
+          "expected it to do the same in return.",
+          "wanted to display their intelligence.",
+          "considered that an interesting game."
+        ],
+        "ans": 1,
+        "explain": "Quinn 称老鼠记得曾放过它，并希望自己被困时机器的同样回报帮助（return the favour）。"
+      },
+      {
+        "q": "Janet Wiles notes that rats____.",
+        "opts": [
+          "can remember other rats' facial features.",
+          "differentiate smells better than sizes.",
+          "respond more to actions than to looks.",
+          "can be scared by a plastic box on wheels."
+        ],
+        "ans": 2,
+        "explain": "机器鼠无需逼真外形与气味也能赢得老鼠，说明老鼠更看重行为而非外观。"
+      },
+      {
+        "q": "It can be learned from the text that rats____.",
+        "opts": [
+          "appear to be adaptable to new surroundings",
+          "are more socially active than other animals",
+          "behave differently from children in socializing",
+          "are more sensitive to social cues than expected"
+        ],
+        "ans": 3,
+        "explain": "全文主线是老鼠对社交线索的敏感程度（surprising/sensitive）超乎预期，末段为同义改写。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-read-2",
+    "type": "阅读理解",
+    "title": "2020年真题 · Text 2",
+    "score": 10,
+    "minutes": 8,
+    "passage": "It is true that CEO pay has gone up—top ones may make 300 times the pay of typical workers on average, and since the mid-1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%. The typical CEO of a top American corporation now makes about $18.9 million a year.\n\nThe best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly. The efforts of America's highest-earning 1% have been one of the more dynamic elements of the global economy. It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy.\n\nToday's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company.\" CEOs must have a good sense of financial markets and maybe even how the company should trade in them. They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. To lead in that system requires knowledge that is fairly mind-boggling. Plus, virtually all major American companies are becoming tech companies, one way or another. Beyond this, major CEOs still have to do all the day-to-day work they have always done.\n\nThe common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. Yet it is principally during this period of stronger governance that CEO pay has been high and rising. That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.\n\nFurthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks, another sign that high CEO pay is not some kind of depredation at the expense of the rest of the company. And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO.",
+    "passage_zh": "CEO薪酬确实上涨了——顶级CEO的薪酬平均可能是普通员工的300倍，而且自20世纪70年代中期以来，根据不同的估算，美国大型上市公司CEO的薪酬已经上涨了约500%。如今美国顶级公司的典型CEO年薪约为1890万美元。\n\n理解CEO薪酬增长的最佳模型是，在顶级公司的商业机会快速增长的世界中，CEO人才是有限的。美国收入最高的1%群体的努力一直是全球经济中更具活力的要素之一。尽管这样说不受欢迎，但他们薪酬大幅上涨的一个原因是，相对于美国经济中的许多其他劳动者，CEO确实提升了他们的能力。\n\n如今的CEO，至少对于美国大公司而言，必须具备比单纯\"经营公司\"多得多的技能。CEO必须对金融市场有良好的认识，甚至可能还要了解公司应该如何在这些市场中进行交易。他们还需要比前任更好的公关技能，因为即使是小失误的代价也可能很大。此外，美国大公司比以往任何时候都更加全球化，供应链遍布更多国家。在这样的体系中领导需要相当惊人的知识储备。而且，几乎所有美国大公司都在以这样或那样的方式成为科技公司。除此之外，大公司CEO仍然必须完成他们一直以来要做的所有日常工作。\n\n认为高CEO薪酬主要是剥削他人的普遍观点并不能很好地解释历史。从大多数衡量标准来看，自20世纪70年代以来，公司治理已经变得更加严格和规范。然而正是在这个治理更加严格的时期，CEO薪酬一直处于高位并持续上涨。这表明招募顶尖候选人来担任日益艰难的工作符合更广泛的公司利益。\n\n此外，最高的CEO薪酬支付给外部候选人，而不是内部亲信人选，这是高CEO薪酬并非以牺牲公司其他部分为代价进行掠夺的另一个迹象。而且当公司将CEO薪酬与股价等指标挂钩时，股市会做出积极反应，这表明这些做法不仅为CEO，也为公司建立了企业价值。",
+    "questions": [
+      {
+        "q": "Which of the following has contributed to CEO pay rise?",
+        "opts": [
+          "The growth in the number of corporations.",
+          "The general pay rise with a better economy.",
+          "Increased business opportunities for top firms.",
+          "Close cooperation among leading economies."
+        ],
+        "ans": 2,
+        "explain": "P2 指出在顶级公司商业机会快速增长的世界里 CEO 人才稀缺，即机会增多推动薪酬上涨。"
+      },
+      {
+        "q": "Compared with their predecessors, today's CEOs are required to____.",
+        "opts": [
+          "foster a stronger sense of teamwork",
+          "finance more research and development",
+          "establish closer ties with tech companies",
+          "operate more globalized companies"
+        ],
+        "ans": 3,
+        "explain": "P3 称大公司比以往更全球化、供应链遍布更多国家，CEO 被要求运营更加全球化的公司。"
+      },
+      {
+        "q": "CEO pay has been rising since the 1970s despite ____.",
+        "opts": [
+          "continual internal opposition",
+          "strict corporate governance",
+          "conservative business strategies",
+          "repeated government warnings"
+        ],
+        "ans": 1,
+        "explain": "P4 说正是在公司治理更严（tighter and more rigorous）的时期薪酬仍高且上涨，despite 即 strict governance。"
+      },
+      {
+        "q": "High CEO pay can be justified by the fact that it helps ____.",
+        "opts": [
+          "confirm the status of CEOs",
+          "motive inside candidates",
+          "boost the efficiency of CEOs",
+          "increase corporate value"
+        ],
+        "ans": 3,
+        "explain": "P5 说明将薪酬与股价挂钩能 build up corporate value（提升企业价值），股市反应积极。"
+      },
+      {
+        "q": "The most suitable title for this text would be ____.",
+        "opts": [
+          "CEOs Are Not Overpaid",
+          "CEO Pay: Past and Present",
+          "CEOs' Challenges of Today",
+          "CEO Traits: Not Easy to Define"
+        ],
+        "ans": 0,
+        "explain": "全文为高薪辩护（非掠夺、符合公司利益），标题\"CEO 薪酬并不过高\"覆盖话题与立场。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-read-3",
+    "type": "阅读理解",
+    "title": "2020年真题 · Text 3",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible demise. Mayor José Luis Martinez-Almeida made opposition to the zone a centrepiece of his election campaign, despite its success in improving air quality. A judge has now overruled the city's decision to stop levying fines, ordering them reinstated. But with legal battles ahead, the zone's future looks uncertain at best.\n\nMadrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach that characterises efforts on air pollution across Europe, Britain very much included.\n\nAmong other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically controversial, and therefore vulnerable. That's because they inevitably put the costs of cleaning the air on to individual drivers—who must pay fees or buy better vehicles—rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution. It's not hard to imagine a similar reversal happening in London. The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. And if Sadiq Khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected.\n\nIt's not that measures such as London's Ulez are useless. Far from it. Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat. The zones do deliver some improvements to air quality, and the science tells us that means real health benefits.\n\nBut mayors and councilors can only do so much about a problem that is far bigger than any one city or town. They are acting because national governments—Britain's and others across Europe—have failed to do so.\n\nRestrictions that keep highly polluting cars out of certain areas—city centres, \"school streets\", even individual roads—are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance. Wales has introduced special low speed limits to minimise pollution. We're doing everything but insist that manufacturers clean up their cars.",
+    "passage_zh": "去年11月，马德里因推出针对污染最严重车辆的雄心勃勃的限制措施而被誉为公共健康的灯塔。七个月和一个选举日之后，新的保守派市议会暂停了清洁空气区的执法，这是该措施可能终止的第一步。尽管该区域在改善空气质量方面取得了成功，市长José Luis Martinez-Almeida仍将反对该区域作为其竞选活动的核心内容。现在，一名法官推翻了该市停止征收罚款的决定，下令恢复罚款。但随着法律纠纷的到来，该区域的未来充其量看起来并不确定。\n\n马德里在清洁空气问题上的反复提醒人们，欧洲各地（英国也深陷其中）针对空气污染所做努力的零散的、逐个城市推进的方式存在局限性。\n\n在其他弱点之中，当城市被迫独自应对污浊空气时必须采用的措施在政治上具有争议性，因此容易受到攻击。这是因为这些措施不可避免地将清洁空气的成本转嫁到个人驾驶者身上——他们必须支付费用或购买更好的车辆——而不是转嫁到汽车制造商身上，而制造商的作弊行为才是我们有毒污染的真正原因。不难想象伦敦也会发生类似的逆转。新的超低排放区（Ulez）很可能成为明年市长选举的一个重大议题。如果Sadiq Khan获胜并按照他的计划在2021年将其扩展到北环路和南环路，这必将引发数量多得多的驾车者的强烈反对，因为届时他们将受到影响。\n\n这并不是说像伦敦的Ulez这样的措施毫无用处。恰恰相反。地方官员正在使用他们可用的手段，在面对严重威胁时保护居民的健康。这些区域确实在一定程度上改善了空气质量，科学告诉我们这意味着真正的健康益处。\n\n但市长和市议员对于这个远大于任何一个城市或城镇的问题所能做的十分有限。他们之所以采取行动，是因为国家政府——英国和欧洲其他国家——未能做到这一点。\n\n将高污染车辆限制在特定区域之外——市中心、\"学校街道\"、甚至单独的道路——是对缺乏更大努力来适当执行现有法规并要求汽车公司使其车辆符合规定的一种回应。威尔士引入了特殊的低速限制以减少污染。我们正在做一切事情，却没有坚持要求制造商清理他们的汽车。",
+    "questions": [
+      {
+        "q": "Which of the following is true about Madrid's clean air zone?",
+        "opts": [
+          "Its effects are questionable.",
+          "It has been opposed by a judge.",
+          "It needs tougher enforcement.",
+          "Its fate is yet to be decided."
+        ],
+        "ans": 3,
+        "explain": "P1 末句 the zone's future looks uncertain at best，其命运尚未确定。"
+      },
+      {
+        "q": "Which is considered a weakness of the city-level measures to tackle dirty air?",
+        "opts": [
+          "They are biased against car manufacturers.",
+          "They prove impractical for city councils.",
+          "They are deemed too mild for politicians.",
+          "They put too much burden on individual motorists."
+        ],
+        "ans": 3,
+        "explain": "P3 指出城市措施把治污成本压在个体驾车者身上，而未追究真正的源头——汽车制造商。"
+      },
+      {
+        "q": "The author believes that the extension of London's Ulez will ____.",
+        "opts": [
+          "arouse strong resistance",
+          "ensure Khan's electoral success",
+          "improve the city's traffic",
+          "discourage car manufacturing"
+        ],
+        "ans": 0,
+        "explain": "P3 明确 it is sure to spark intense opposition，扩展必将激起受影响驾车者的强烈反对。"
+      },
+      {
+        "q": "Who does the author think should have addressed the problem?",
+        "opts": [
+          "Local residents.",
+          "Mayors.",
+          "Councilors.",
+          "National governments."
+        ],
+        "ans": 3,
+        "explain": "P5 说市长议员能力有限，国家政府（含欧洲其他国家）failed to do so，责任在国家政府。"
+      },
+      {
+        "q": "It can be inferred from the last paragraph that auto companies ____.",
+        "opts": [
+          "will raise low-emission car production",
+          "should be forced to follow regulations",
+          "will upgrade the design of their vehicles",
+          "should be put under public supervision"
+        ],
+        "ans": 1,
+        "explain": "末段抱怨\"做了一切却唯独没坚持让制造商守规整改\"，即应强制车企遵守法规。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-read-4",
+    "type": "阅读理解",
+    "title": "2020年真题 · Text 4",
+    "score": 10,
+    "minutes": 8,
+    "passage": "Now that members of Generation Z are graduating college this spring—the most commonly-accepted definition says this generation was born after 1995, give or take a year—the attention has been rising steadily in recent weeks. Gen Zs are about to hit the streets looking for work in a labor market that's tighter than it's been in decades. And employers are planning on hiring about 17 percent more new graduates for jobs in the U.S. this year than last, according to a survey conducted by the National Association of Colleges and Employers. Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them.\n\nIf \"entitled\" is the most common adjective, fairly or not, applied to millennials (those born between 1981 and 1995), the catchwords for Generation Z are practical and cautious. According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists. Despite graduating into the best economy in the past 50 years, Gen Zs know what an economic train wreck looks like. They were impressionable kids during the crash of 2008, when many of their parents lost their jobs or their life savings or both. They aren't interested in taking any chances. The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt. College loan balances in the U.S. now stand at a record $1.5 trillion, according to the Federal Reserve.\n\nOne survey from Accenture found that 88 percent of graduating seniors this year chose their major with a job in mind. In a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment (followed by professional development and training, and then inspiring purpose). Job security or stability was the second most important career goal (work-life balance was number one), followed by a sense of being dedicated to a cause or to feel good about serving the greater good.\n\nThat's a big change from the previous generation. \"Millennials wanted more flexibility in their lives,\" notes Tanya Michelsen, Associate Director of YouthSight, a UK-based brand manager that conducts regular 60-day surveys of British youth, in findings that might just as well apply to American youth. \"Generation Zs are looking for more certainty and stability, because of the rise of the gig economy. They have trouble seeing a financial future and they are quite risk averse.\"",
+    "passage_zh": "随着Z世代成员在今春大学毕业——最普遍接受的定义认为这一代人出生于1995年之后，上下浮动一年——近几周来关注度一直在稳步上升。Z世代即将走上街头，在一个数十年来最为紧俏的劳动力市场中寻找工作。根据美国大学与雇主协会进行的一项调查，雇主们计划今年在美国为应届毕业生提供的工作岗位比去年多约17%。每个人都想知道那些即将入驻空置办公隔间的人将与他们的前辈有何不同。\n\n如果说\"有权利意识\"是最常用来形容千禧一代（出生于1981年至1995年间的人）的形容词，无论公平与否，那么Z世代的关键词则是务实和谨慎。根据研究他们的职业顾问和专家所言，Z世代是目光清醒的经济实用主义者。尽管毕业时正值过去50年来最好的经济形势，Z世代却清楚经济崩溃是什么样子。2008年金融危机时他们正处于易受影响的孩童时期，当时他们的许多父母失去了工作或毕生积蓄，或两者皆失。他们不想冒任何风险。蓬勃发展的经济似乎并未缓解这一代人潜在的焦虑紧迫感，尤其是对那些背负大学债务的人而言。根据美国联邦储备委员会的数据，美国大学贷款余额目前已达创纪录的1.5万亿美元。\n\n埃森哲的一项调查发现，今年88%的应届毕业生在选择专业时就考虑到了工作。与此同时，在2019年对乔治亚大学学生的一项调查中，就业办公室发现未来雇主最令人向往的特质是能够提供稳定的就业机会（其次是职业发展和培训，然后是鼓舞人心的目标）。工作保障或稳定性是第二重要的职业目标（工作与生活的平衡排名第一），其次是致力于某项事业的使命感或为更大利益服务的良好感觉。\n\n这与上一代人相比是一个巨大的变化。\"千禧一代希望生活更加灵活，\"英国品牌管理公司YouthSight的副主任Tanya Michelsen指出，该公司定期对英国青年进行60天调查，其研究结果同样适用于美国青年。\"Z世代正在寻求更多的确定性和稳定性，因为零工经济的兴起。他们难以看到财务前景，而且相当规避风险。\"",
+    "questions": [
+      {
+        "q": "Generation Zs graduating college this spring ____.",
+        "opts": [
+          "are recognized for their abilities",
+          "are optimistic about the labor market",
+          "are in favor of office job offers",
+          "are drawing growing public attention"
+        ],
+        "ans": 3,
+        "explain": "P1 说 the attention has been rising steadily，即正引起越来越多的公众关注。"
+      },
+      {
+        "q": "Generation Zs are keenly aware ____.",
+        "opts": [
+          "what their parents expect of them",
+          "how valuable a counselor's advice is",
+          "what a tough economic situation is like",
+          "how they differ from past generations"
+        ],
+        "ans": 2,
+        "explain": "P2 说 Gen Zs know what an economic train wreck looks like，亲身经历过 2008 年经济崩溃。"
+      },
+      {
+        "q": "The word \"assuage\"(line 9, para. 2) is closest in meaning to ____.",
+        "opts": [
+          "deepen",
+          "define",
+          "maintain",
+          "relieve"
+        ],
+        "ans": 3,
+        "explain": "经济繁荣几乎没能\"缓解\"这代人的焦虑紧迫感，assuage 即 relieve。"
+      },
+      {
+        "q": "It can be learned from Paragraph 3 that Generation Zs ____.",
+        "opts": [
+          "give top priority to professional training",
+          "have a clear idea about their future job",
+          "care little about their job performance",
+          "think it hard to achieve work-life balance"
+        ],
+        "ans": 1,
+        "explain": "88% 应届生选专业时就已想好一份工作，对未来职业有清晰想法。"
+      },
+      {
+        "q": "Michelsen thinks that compared with millennials, Generation Zs are ____.",
+        "opts": [
+          "less realistic",
+          "less adventurous",
+          "more diligent",
+          "more generous"
+        ],
+        "ans": 1,
+        "explain": "Michelsen 称 Z 世代追求确定性与稳定性、quite risk averse，比千禧一代更不爱冒险。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-cloze",
+    "type": "完形填空",
+    "title": "2020年真题 · 完形填空",
+    "score": 20,
+    "minutes": 15,
+    "passage": "Being a good parent is, of course, what every parent would like to be. But defining what it means to be a good parent is undoubtedly very tricky, particularly since children respond differently to the same style of parenting. A calm, rule-following child might respond better to a different sort of parenting than, for example, a younger sibling.\n\nFortunately, there's another sort of parent that's a bit easier to describe: a patient parent. Children of every age benefit from patient parenting. Still, while every parent would like to be patient, this is no easy task. Sometimes parents get exhausted and frustrated and are unable to maintain a tolerant and composed style with their kids. I understand this.\n\nYou're only human, and sometimes your kids can push you just a little too far. And then the inevitable happens: You lose your patience and either scream at your kids or say something that was a bit too harsh and does nobody any good. You wish that you could turn back the clock and start over. We've all been there.\n\nHowever, even though it's common, it's important to keep in mind that in a single moment of fatigue, you can say something to your child that you may regret for a long time. This may not only do damage to your relationship with your child but also affect your child's self-esteem.\n\nIf you consistently lose your cool with your kids, then you are inadvertently modeling a lack of emotional control for your kids. We are all becoming increasingly aware of the importance of modeling tolerance and patience for the younger generation. This is a skill that will help them all throughout life. In fact, the ability to emotionally regulate or maintain emotional control when confronted by stress is one of the most important of all life's skills.\n\nCertainly, it's incredibly hard to maintain patience at all times with your children. A more practical goal is to try, to the best of your ability, to be as tolerant and composed as you can when faced with trying situations involving your children. I can promise you this: As a result of working toward this goal, you and your children will benefit and emerge from stressful moments feeling better physically and emotionally.",
+    "passage_zh": "成为一个好家长当然是每位家长都想做到的。但要定义好家长意味着什么无疑是非常棘手的，尤其是因为孩子们对同样的教养方式会有不同的反应。一个性格平和、遵守规则的孩子可能对某种教养方式反应更好，而不同于比如说一个年幼的弟弟妹妹。\n\n幸运的是，还有另一种家长更容易描述：有耐心的家长。各个年龄段的孩子都能从有耐心的教养中受益。然而，尽管每位家长都想有耐心，但这并非易事。有时家长会感到筋疲力尽和沮丧，无法对孩子保持宽容和镇定的态度。我理解这一点。\n\n你也是人，有时你的孩子可能会把你逼得有点过头。然后不可避免的事情就发生了：你失去了耐心，要么对孩子大喊大叫，要么说了一些过于严厉且对谁都没有好处的话。你希望能让时光倒流，重新开始。我们都经历过这种情况。\n\n然而，尽管这很常见，但重要的是要记住，在疲惫的某个瞬间，你可能会对孩子说出让你长期后悔的话。这不仅可能损害你与孩子的关系，还可能影响孩子的自尊心。\n\n如果你经常对孩子发脾气，那么你就在无意中为孩子树立了缺乏情绪控制的榜样。我们都越来越意识到为年轻一代树立宽容和耐心榜样的重要性。这是一项将使他们终身受益的技能。事实上，在面对压力时进行情绪调节或保持情绪控制的能力是人生最重要的技能之一。\n\n当然，始终对孩子保持耐心是极其困难的。一个更实际的目标是，在面对涉及孩子的棘手情况时，尽你所能地尽量保持宽容和镇定。我可以向你保证：朝着这个目标努力，你和你的孩子都将受益，并在度过压力时刻后感觉身心都更好。",
+    "blanks": [
+      {
+        "opts": [
+          "tedious",
+          "pleasant",
+          "instructive",
+          "tricky"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。孩子反应各异难以一概而论，定义\"好家长\"很棘手（tricky）。"
+      },
+      {
+        "opts": [
+          "in addition",
+          "for example",
+          "at once",
+          "by accident"
+        ],
+        "ans": 1,
+        "explain": "答案B（逻辑关系）。\"年幼弟妹\"正是需要不同教养方式的具体例子，for example 插入举例。"
+      },
+      {
+        "opts": [
+          "Fortunately",
+          "Occasionally",
+          "Accordingly",
+          "Eventually"
+        ],
+        "ans": 0,
+        "explain": "答案A（逻辑衔接）。上段说难定义，本段引出\"另一类更易描述的家长\"，是\"幸亏\"的转机语气。"
+      },
+      {
+        "opts": [
+          "amuse",
+          "assist",
+          "describe",
+          "train"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。与上段\"难下定义（define）\"对照，这类家长更容易\"描述\"。"
+      },
+      {
+        "opts": [
+          "while",
+          "because",
+          "unless",
+          "once"
+        ],
+        "ans": 0,
+        "explain": "答案A（逻辑关系）。\"都想耐心\"与\"并不容易\"构成让步关系，while 表\"尽管\"。"
+      },
+      {
+        "opts": [
+          "answer",
+          "task",
+          "choice",
+          "access"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。no easy task\"绝非易事\"是高频习语。"
+      },
+      {
+        "opts": [
+          "tolerant",
+          "formal",
+          "rigid",
+          "critical"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。tolerant（宽容的）与 composed（镇定的）并列，回扣话题词 patient。"
+      },
+      {
+        "opts": [
+          "move",
+          "drag",
+          "push",
+          "send"
+        ],
+        "ans": 2,
+        "explain": "答案C（固定搭配）。push sb. too far\"把人逼过头\"，紧承下句\"失去耐心\"。"
+      },
+      {
+        "opts": [
+          "mysterious",
+          "illogical",
+          "suspicious",
+          "inevitable"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。\"被逼过头就发火\"是人之常情、不可避免（inevitable），呼应 We've all been there。"
+      },
+      {
+        "opts": [
+          "boring",
+          "naive",
+          "harsh",
+          "vague"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。说\"过于严厉（harsh）\"的话伤及他人，与 does nobody any good 呼应。"
+      },
+      {
+        "opts": [
+          "turn back",
+          "take apart",
+          "set aside",
+          "cover up"
+        ],
+        "ans": 0,
+        "explain": "答案A（固定搭配）。turn back the clock\"让时光倒流\"，与 start over 匹配。"
+      },
+      {
+        "opts": [
+          "Overall",
+          "Instead",
+          "However",
+          "Otherwise"
+        ],
+        "ans": 2,
+        "explain": "答案C（逻辑衔接）。上段是共情宽慰，本段转提醒\"代价很长\"，需转折副词 However。"
+      },
+      {
+        "opts": [
+          "like",
+          "miss",
+          "believe",
+          "regret"
+        ],
+        "ans": 3,
+        "explain": "答案D（词义辨析）。可能说出让自己长期\"后悔（regret）\"的话，与\"想倒回时钟\"呼应。"
+      },
+      {
+        "opts": [
+          "raise",
+          "affect",
+          "justify",
+          "reflect"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。not only damage...but also affect，不仅伤关系还\"影响\"自尊。"
+      },
+      {
+        "opts": [
+          "time",
+          "bond",
+          "race",
+          "cool"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。lose your cool\"发脾气、失控\"，与 a lack of emotional control 互证。"
+      },
+      {
+        "opts": [
+          "nature",
+          "secret",
+          "importance",
+          "context"
+        ],
+        "ans": 2,
+        "explain": "答案C（词义辨析）。下句\"终身受益、最重要的技能之一\"论证的是\"重要性（importance）\"。"
+      },
+      {
+        "opts": [
+          "cheated",
+          "defeated",
+          "confused",
+          "confronted"
+        ],
+        "ans": 3,
+        "explain": "答案D（固定搭配）。be confronted by stress\"面对压力\"，是保持情绪控制的触发情境。"
+      },
+      {
+        "opts": [
+          "terrible",
+          "hard",
+          "strange",
+          "wrong"
+        ],
+        "ans": 1,
+        "explain": "答案B（词义辨析）。下句\"A more practical goal\"反衬时刻耐心极\"难（hard）\"。"
+      },
+      {
+        "opts": [
+          "trying",
+          "changing",
+          "exciting",
+          "surprising"
+        ],
+        "ans": 0,
+        "explain": "答案A（词义辨析）。trying 作形容词\"令人烦恼、考验耐性的\"，与末句 stressful moments 同向。"
+      },
+      {
+        "opts": [
+          "hide",
+          "emerge",
+          "withdraw",
+          "escape"
+        ],
+        "ans": 1,
+        "explain": "答案B（固定搭配）。emerge from X feeling better\"从……中走出来感觉更好\"，与 benefit 并列。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-match",
+    "type": "新题型",
+    "title": "2020年真题 · 新题型",
+    "score": 10,
+    "minutes": 8,
+    "intro": "Directions: Read the following text and answer the questions by choosing the most suitable subheading from the list A-G for each of the numbered paragraphs (41-45). There are two extra subheadings which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "titles": [
+      "A. Give compliments, just not too many",
+      "B. Put on a good face, always",
+      "C. Tailor your interactions",
+      "D. Spend time with everyone",
+      "E. Reveal, don't hide, information",
+      "F. Slow down and listen",
+      "G. Put yourselves in others' shoes"
+    ],
+    "paras": [
+      {
+        "text": "If you have a bone to pick with someone in your workplace, you may try to stay tight-lipped around them. But you won't be helping either one of you. A Harvard Business School study found that observers consistently rated those who were upfront about themselves more highly, while those who hid lost trustworthiness. The lesson is not that you should make your personal life an open book, but rather, when given the option to offer up details about yourself or studiously stash them away, you should just be honest.",
+        "ans": 4,
+        "explain": "答案E。主旨是\"要坦诚、别隐藏信息\"，offer up details 对应 reveal，stash away 对应 don't hide。"
+      },
+      {
+        "text": "Just as important as being honest about yourself is being receptive to others. We often feel the need to tell others how we feel, whether it's a concern about a project, a stray thought, or a compliment. Those are all valid, but you need to take time to hear out your coworkers, too. In fact, rushing to get your own ideas out there can cause colleagues to feel you don't value their opinions. Do your best to engage coworkers in a genuine, back-and-forth conversation, rather than prioritizing your own thoughts.",
+        "ans": 5,
+        "explain": "答案F。主旨是\"放慢节奏、认真倾听同事\"，hear out your coworkers 与 slow down and listen 对应。"
+      },
+      {
+        "text": "It's common to have a \"cubicle mate\" or special confidant in a work setting. But in addition to those trusted coworkers, you should expand your horizons and find out about all the people around you. Use your lunch and coffee breaks to meet up with colleagues you don't always see. Find out about their lives and interests beyond the job. It requires minimal effort and goes a long way. This will help to grow your internal network, in addition to being a nice break in the work day.",
+        "ans": 3,
+        "explain": "答案D。主旨是\"别只黏密友，要了解身边所有人\"，all the people around you 对应 Spend time with everyone。"
+      },
+      {
+        "text": "Positive feedback is important for anyone to hear. And you don't have to be someone's boss to tell them they did an exceptional job on a particular project. This will help engender good will in others. But don't overdo it or be fake about it. One study found that people responded best to comments that shifted from negative to positive, possibly because it suggested they had won somebody over.",
+        "ans": 0,
+        "explain": "答案A。主旨是\"多给赞美但要适度、别虚假\"，Give compliments 与 don't overdo 缺一不可。"
+      },
+      {
+        "text": "This one may be a bit more difficult to pull off, but it can go a long way to achieving results. Remember in dealing with any coworker what they appreciate from an interaction. Watch out for how they verbalize with others. Some people like small talk in a meeting before digging into important matters, while others are more straightforward. Jokes that work on one person won't necessarily land with another. So, adapt your style accordingly to type. Consider the person that you're dealing with in advance and what will get you to your desired outcome.",
+        "ans": 2,
+        "explain": "答案C。主旨是\"按对方类型调整互动方式\"，adapt your style to type 对应 Tailor your interactions。"
+      }
+    ]
+  },
+  {
+    "id": "zy-2020-trans",
+    "type": "翻译",
+    "title": "2020年真题 · 翻译",
+    "score": 15,
+    "minutes": 20,
+    "intro": "Directions: Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+    "passage": "It's almost impossible to go through life without experiencing some kind of failure. But, the wonderful thing about failure is that it's entirely up to us to decide how to look at it.\n\nWe can choose to see failure as \"the end of the world\". Or, we can look at failure as the incredible learning experience that it often is. Every time we fail at something, we can choose to look for the lesson we're meant to learn. These lessons are very important; they're how we grow, and how we keep from making that same mistake again. Failures stop us only if we let them.\n\nFailure can also teach us things about ourselves that we would never have learned otherwise. For instance, failure can help you discover how strong a person you are. Failing at something can help you discover your truest friends, or help you find unexpected motivation to succeed.",
+    "passage_zh": "人这一生，要想完全不经历某种失败，几乎是不可能的。但失败有个奇妙之处：如何看待它，完全由我们自己说了算。\n\n我们可以选择把失败看成「世界末日」；或者，我们也可以把它看作一次绝佳的学习机会——它往往确实如此。每当我们在某件事上遭遇失败，都可以选择去寻找其中我们本该汲取的教训。这些教训非常重要：正是靠着它们，我们才得以成长，才能避免重蹈覆辙。只有当我们甘心被失败击倒时，它们才能真正阻挡我们前进。\n\n失败还能让我们认识到一些关于自身的东西，而这些，若非亲历失败，我们本来永远无从知晓。比如，失败能让你发现，自己原来是个如此坚强的人；在某件事上失败，还能帮你看清谁才是最真心的朋友，也能帮你找到意想不到的成功动力。"
+  },
+  {
+    "id": "zy-2020-write-s",
+    "type": "写作",
+    "title": "2020年真题 · 小作文",
+    "score": 10,
+    "minutes": 15,
+    "prompt": "Directions: Suppose you are planning a tour of a historical site for a group of international students. Write an email to 1) tell them about the site, and 2)give them some tips for the tour. Please write your answer on the ANSWER SHEET. Do not use your own name. Use \"Li Ming\" instead. (10 points)",
+    "tips": "写作要点：以游览组织者身份给国际学生写邮件，完成两件事——介绍一处历史遗迹（名称、历史地位、看点，如故宫）；给出可操作参观建议（穿舒适鞋、带证件、提前网上订票、保持安静勿触展品）。称呼友好（Dear friends），结尾表达期待并落款 Li Ming。参考范文见解析页：Dear friends, I am excited to invite you to join a tour of the Forbidden City... 约114词。"
+  },
+  {
+    "id": "zy-2020-write-b",
+    "type": "写作",
+    "title": "2020年真题 · 大作文",
+    "score": 15,
+    "minutes": 30,
+    "prompt": "Directions: Write an essay based on the chart below. In your writing, you should 1)interpret the chart, and 2)give your comments. You should write about 150 words on the ANSWER SHEET. (15 points)",
+    "tips": "配图为饼图（某高校学生手机阅读目的调查）：学习知识 59.5%、消磨时间 21.3%、获取信息 17.0%、其他 2.2%。写作思路：先总起点题并按占比大小描述数据、突出\"求知为主流\"的对比；再从手机便利让学习资料随手可得、竞争激烈推动求知两个角度归因；最后表态肯定这是积极趋势，并建议高校引导学生善用手机阅读。参考范文见解析页，约139词。",
+    "chart": false
+  }
+]
