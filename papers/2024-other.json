@@ -1,0 +1,312 @@
+[
+ {
+  "id": "zy-2024-cloze",
+  "type": "完形填空",
+  "title": "2024年真题 · 完形填空",
+  "score": 10,
+  "minutes": 12,
+  "passage": "Your social life is defined as \"the activities you do with other people, for pleasure, when you are not working\". It's important to have a social life, but what's right for one person won't be right for another. Some of us feel energised by spending lots of time with others, ___1___ some of us may feel drained, even if it's doing something we enjoy.\nThis is why finding a ___2___ in your social life is key. Spending too much time on your own, not ___3___ others, can make you feel lonely and ___4___ . Loneliness is known to impact on your mental health and ___5___ a low mood. Anyone can feel lonely at any time. This might be especially true if, ___6___ , you are working from home and you are ___7___ on the usual social conversations that happen in an office. Other life changes can ___8___ periods of loneliness too, such as retirement, changing jobs or becoming a parent.\nIt's important to recognise these feelings of loneliness. There are ways to ___9___ a social life, but it can feel overwhelming ___10___ . It's a great idea to start by thinking about hobbies you enjoy. You can then find groups and activities related to those where you will be able to meet ___11___ people. There are groups aimed at new parents, at those who want to ___12___ a new sport for the first time, or networking events for those in the same profession to meet up and ___13___ ideas.\nOn the other hand, it's ___14___ possible to have too much of a social life. If you feel like you're always doing something and there is never any ___15___ in your calendar for downtime, you could suffer social burnout or social ___16___ . We all have our own social limit and it's important to recognise when you're feeling like it's all too much. Low mood, low energy, irritability and trouble sleeping could all be ___17___ of poor social health. Make sure you ___18___ some time in your diary when you're ___19___ for socialising and use this time to relax, ___20___ and recover.",
+  "passage_zh": "你的社交生活被定义为\"当你不工作时，为了娱乐而与他人一起做的活动\"。拥有社交生活很重要,但适合一个人的方式不一定适合另一个人。我们中的一些人会因为与他人共度大量时间而感到精力充沛,而我们中的另一些人可能会感到疲惫,即使是在做自己喜欢的事情。\n这就是为什么在社交生活中找到平衡是关键。独自度过太多时间,不与他人见面,会让你感到孤独和疏离。众所周知,孤独会影响你的心理健康并导致情绪低落。任何人在任何时候都可能感到孤独。例如,如果你在家工作,错过了办公室里通常发生的社交对话,这种情况可能尤其真实。其他生活变化也可能引发孤独时期,比如退休、换工作或成为父母。\n认识到这些孤独感很重要。有一些方法可以重建社交生活,但一开始可能会让人感到难以应对。从思考你喜欢的爱好开始是个好主意。然后你可以找到与这些爱好相关的群体和活动,在那里你将能够遇到志同道合的人。有针对新手父母的群体,针对想首次尝试新运动的人的群体,或者针对同一职业的人聚会和分享想法的社交活动。\n另一方面,社交生活也可能过度。如果你觉得自己总是在做某事,日程表上永远没有任何休息时间,你可能会遭受社交倦怠或社交疲劳。我们每个人都有自己的社交极限,重要的是要认识到何时你感觉这一切太多了。情绪低落、精力不足、易怒和睡眠困难都可能是社交健康不良的迹象。确保在你的日程表中标出一些无法参加社交活动的时间,利用这段时间来放松、休息和恢复。",
+  "blanks": [
+   {
+    "opts": [
+     "because",
+     "unless",
+     "whereas",
+     "until"
+    ],
+    "ans": 2,
+    "explain": "同句左右两半呈正反对照"
+   },
+   {
+    "opts": [
+     "contrast",
+     "balance",
+     "link",
+     "gap"
+    ],
+    "ans": 1,
+    "explain": "P2 与 P4 一正一反共同呼应 \"平衡\" 主旨"
+   },
+   {
+    "opts": [
+     "seeing",
+     "pleasing",
+     "judging",
+     "teaching"
+    ],
+    "ans": 0,
+    "explain": "上下文围绕 \"独处 → 孤独\""
+   },
+   {
+    "opts": [
+     "misguided",
+     "surprised",
+     "spoiled",
+     "disconnected"
+    ],
+    "ans": 3,
+    "explain": "lonely 决定并列形容词应同向"
+   },
+   {
+    "opts": [
+     "contribute to",
+     "rely on",
+     "interfere with",
+     "go against"
+    ],
+    "ans": 0,
+    "explain": "loneliness 的负面效应链"
+   },
+   {
+    "opts": [
+     "in fact",
+     "of course",
+     "for example",
+     "on average"
+    ],
+    "ans": 2,
+    "explain": "前句抽象、空后给出具体场景"
+   },
+   {
+    "opts": [
+     "cutting back",
+     "missing out",
+     "breaking in",
+     "looking down"
+    ],
+    "ans": 1,
+    "explain": "+on 的常用搭配 + 上下文 \"在家工作错失办公室寒暄\""
+   },
+   {
+    "opts": [
+     "shorten",
+     "trigger",
+     "follow",
+     "interrupt"
+    ],
+    "ans": 1,
+    "explain": "举例支持 \"引发 → 孤独期\""
+   },
+   {
+    "opts": [
+     "assess",
+     "interpret",
+     "provide",
+     "regain"
+    ],
+    "ans": 3,
+    "explain": "P3 提供 \"重建社交\" 的具体方法"
+   },
+   {
+    "opts": [
+     "at first",
+     "in turn",
+     "on time",
+     "by chance"
+    ],
+    "ans": 0,
+    "explain": "下一句紧接 \"先从兴趣入手\"——暗示 \"起步阶段\""
+   },
+   {
+    "opts": [
+     "far-sighted",
+     "strong-willed",
+     "kind-hearted",
+     "like-minded"
+    ],
+    "ans": 3,
+    "explain": "前文提兴趣团体，下文列同好群体"
+   },
+   {
+    "opts": [
+     "try",
+     "promote",
+     "watch",
+     "describe"
+    ],
+    "ans": 0,
+    "explain": "for the first time 锁定 \"首次尝试\""
+   },
+   {
+    "opts": [
+     "test",
+     "share",
+     "accept",
+     "revise"
+    ],
+    "ans": 1,
+    "explain": "networking events 目的=互通有无"
+   },
+   {
+    "opts": [
+     "already",
+     "thus",
+     "also",
+     "only"
+    ],
+    "ans": 2,
+    "explain": "段首 On the other hand 暗示并列对立"
+   },
+   {
+    "opts": [
+     "list",
+     "order",
+     "space",
+     "boundary"
+    ],
+    "ans": 2,
+    "explain": "downtime 需要 \"留白\""
+   },
+   {
+    "opts": [
+     "fatigue",
+     "criticism",
+     "injustice",
+     "dilemma"
+    ],
+    "ans": 0,
+    "explain": "social burnout = social ___ 同义替换"
+   },
+   {
+    "opts": [
+     "sources",
+     "standards",
+     "signs",
+     "scores"
+    ],
+    "ans": 2,
+    "explain": "列举出的都是 \"表现\"，不是 \"成因\""
+   },
+   {
+    "opts": [
+     "take over",
+     "wipe off",
+     "add up",
+     "mark out"
+    ],
+    "ans": 3,
+    "explain": "下文给出 \"留出来的目的\"——休息、放松、恢复"
+   },
+   {
+    "opts": [
+     "ungrateful",
+     "unavailable",
+     "responsible",
+     "regretful"
+    ],
+    "ans": 1,
+    "explain": "段意是 \"专门划出不社交的时间\""
+   },
+   {
+    "opts": [
+     "react",
+     "repeat",
+     "return",
+     "rest"
+    ],
+    "ans": 3,
+    "explain": "三连并列里前后都是 \"休/恢复\""
+   }
+  ]
+ },
+ {
+  "id": "zy-2024-match",
+  "type": "新题型",
+  "title": "2024年真题 · 新题型（多项对应）",
+  "score": 10,
+  "minutes": 8,
+  "intro": "Read the following text and match each of the numbered items in the left column to its corresponding information in the right column. There are two extra choices in the right column. Mark your answers on the ANSWER SHEET. (10 points)",
+  "titles": [
+   "A. Students who stand out in a specific extracurricular activity will be favored by top-tier institutions.",
+   "B. Students whose extracurricular activity has benefited their community are likely to win a scholarship.",
+   "C. Undertaking too many extracurricular activities will hardly be seen as a plus by colleges.",
+   "D. A student who exhibits abilities in doing business can impress colleges.",
+   "E. High school students participating in a popular activity should excel in it.",
+   "F. Engaging in uncommon activities can demonstrate students' determination and dedication.",
+   "G. It is advisable for students to choose an extracurricular activity that is related to their future study at college."
+  ],
+  "paras": [
+   {
+    "text": "41. Sue Rexford\n\"Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for a student filling out the Common Application to list 10 activities in the application.\"",
+    "ans": 2,
+    "explain": "信息在文中第 3 段，定位句为「Sue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for a student filling out the "
+   },
+   {
+    "text": "42. Sara Harberson\n\"The competition to stand out and make an impact is going to be much stiffer, and so if they're going to do a popular activity, I'd say, be the best at it,\" says Sara Harberson, a college admissions consultant.\"",
+    "ans": 4,
+    "explain": "信息在文中第 6 段，定位句为「\"The competition to stand out and make an impact is going to be much stiffer, and so if they're going to do a popular activity, I'd say, be the "
+   },
+   {
+    "text": "43. Katie Kelley\n\"Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process, especially for highly selective institutions, where having top grades and test scores is not enough,\" Katie Kelley, admissions counselor at IvyWise admissions consultancy, wrote in an email.\"",
+    "ans": 0,
+    "explain": "信息在文中第 11 段，定位句为「\"Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process, especially for highly sel"
+   },
+   {
+    "text": "44. Mayghin Levine\n\"If you already know your major, having an extracurricular that fits into that major can be a big plus,\" says Mayghin Levine, the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center.\"",
+    "ans": 6,
+    "explain": "信息在文中第 12 段，定位句为「\"If you already know your major, having an extracurricular that fits into that major can be a big plus,\" says Mayghin Levine, the manager of ed"
+   },
+   {
+    "text": "45. Erica Gwyn\n\"High school students who have had a strong positive influence on their community through an extracurricular activity may impress a college and win a scholarship, says Erica Gwyn, a former math and science magnet program assistant at a public high school who is now executive director of the Kaleidoscope Careers Academy in Atlanta, a nonprofit organization.\"",
+    "ans": 1,
+    "explain": "信息在文中第 13 段，定位句为「High school students who have had a strong positive influence on their community through an extracurricular activity may impress a college and "
+   }
+  ],
+  "passage": "High school students eager to stand out in the college application process often participate in a litany of extracurricular activities hoping to bolster their chances of admission to a selective undergraduate institution.\nHowever, college admissions experts say that the quality of a college hopeful's extracurricular activities matters more than the number of activities he or she participates in.\nSue Rexford, the director of college guidance at the Charles E. Smith Jewish Day School, says it is not necessary for a student filling out the Common Application to list 10 activities in the application.\n\"No college will expect that a student has a huge laundry list of extracurriculars that they have been passionately involved in each for an extended period of time,\" Rexford wrote in an email.\nExperts say it is tougher to distinguish oneself in a school-affiliated extracurricular activity that is common among high school students than it is to stand out while doing an uncommon activity.\n\"The competition to stand out and make an impact is going to be much stiffer, and so if they're going to do a popular activity, I'd say, be the best at it,\" says Sara Harberson, a college admissions consultant.\nHigh school students who have an impressive personal project they are working on independently often impress colleges, experts say.\n\"For example, a student with an interest in entrepreneurship could demonstrate skill and potential by starting a profitable small business,\" Olivia Valdes, the founder of Zen Admissions consulting firm, wrote in an email.\nJoseph Adegboyega-Edun, a Maryland high school guidance counselor, says unconventional extracurricular activities can help students impress college admissions offices, assuming they demonstrated serious commitment. \"Again, since one of the big questions high school seniors must consider is 'What makes you unique?,' having an uncommon extracurricular activity vs. a conventional one is an advantage,\" he wrote in an email.\nExperts say demonstrating talent in at least one extracurricular activity can help in the college admissions process, especially at top-tier undergraduate institutions.\n\"Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process, especially for highly selective institutions, where having top grades and test scores is not enough,\" Katie Kelley, admissions counselor at IvyWise admissions consultancy, wrote in an email. \"Students need to have that quality or hook that will appeal to admissions officers and allow them to visualize how the student might come and enrich their campus community.\"\nExtracurricular activities related to the college major declared on a college application are beneficial, experts suggest. \"If you already know your major, having an extracurricular that fits into that major can be a big plus,\" says Mayghin Levine, the manager of educational opportunities with The Cabbage Patch Settlement House, a Louisville, Kentucky, nonprofit community center.\nHigh school students who have had a strong positive influence on their community through an extracurricular activity may impress a college and win a scholarship, says Erica Gwyn, a former math and science magnet program assistant at a public high school who is now executive director of the Kaleidoscope Careers Academy in Atlanta, a nonprofit organization.",
+  "passage_zh": "渴望在大学申请过程中脱颖而出的高中生往往参加一系列课外活动,希望提高被精英本科院校录取的机会。\n然而,大学招生专家表示,大学申请者课外活动的质量比他或她参加的活动数量更重要。\nCharles E. Smith Jewish Day School的大学升学指导主任Sue Rexford说,学生在填写Common Application时没有必要列出10项活动。\nRexford在一封电子邮件中写道:\"没有哪所大学会期望学生有一长串课外活动清单,并且每项活动都长期充满激情地参与其中。\"\n专家表示,在高中生中常见的校内课外活动中脱颖而出,比在不常见的活动中突出自己更困难。\n大学招生顾问Sara Harberson说:\"脱颖而出并产生影响的竞争会激烈得多,所以如果他们要做一项热门活动,我会说,做到最好。\"\n专家表示,正在独立开展令人印象深刻的个人项目的高中生往往能打动大学。\nZen Admissions咨询公司创始人Olivia Valdes在一封电子邮件中写道:\"例如,对创业感兴趣的学生可以通过创办一家盈利的小企业来展示技能和潜力。\"\n马里兰州高中升学顾问Joseph Adegboyega-Edun说,非传统的课外活动可以帮助学生给大学招生办公室留下深刻印象,前提是他们表现出认真的投入。他在一封电子邮件中写道:\"再次强调,由于高中毕业生必须考虑的一个重要问题是'是什么让你与众不同?',拥有一项不常见的课外活动相比传统活动是一种优势。\"\n专家表示,在至少一项课外活动中展示才能有助于大学录取过程,尤其是在顶尖本科院校。\nIvyWise招生咨询公司的招生顾问Katie Kelley在一封电子邮件中写道:\"在一种专注的课外活动类型中使自己脱颖而出,在录取过程中可能是一个积极因素,尤其是对于高度精英化的院校,在这些院校,仅有顶尖成绩和考试分数是不够的。学生需要有那种能吸引招生官的品质或亮点,让他们能够想象学生可能如何来丰富他们的校园社区。\"\n专家建议,与大学申请中申报的专业相关的课外活动是有益的。路易斯维尔市肯塔基州非营利社区中心The Cabbage Patch Settlement House的教育机会主管Mayghin Levine说:\"如果你已经知道自己的专业,拥有一项符合该专业的课外活动可能是一大优势。\"\n曾任公立高中数学和科学磁石项目助理、现为亚特兰大非营利组织Kaleidoscope Careers Academy执行主任的Erica Gwyn说,通过课外活动对社区产生强烈积极影响的高中生可能会给大学留下深刻印象并赢得奖学金。"
+ },
+ {
+  "id": "zy-2024-trans",
+  "type": "翻译",
+  "title": "2024年真题 · 翻译",
+  "score": 15,
+  "minutes": 20,
+  "intro": "Translate the following text into Chinese. Write your translation on the ANSWER SHEET. (15 points)",
+  "passage": "With the smell of coffee and fresh bread floating in the air, stalls bursting with colourful vegetables and tempting cheeses, and the buzz of friendly chats, farmers' markets are a feast for the senses. They also provide an opportunity to talk to the people responsible for growing or raising your food, support your local economy and pick up fresh seasonal produce—all at the same time.\nFarmers' markets are usually weekly or monthly events, most often with outdoor stalls, which allow farmers or producers to sell their food directly to customers. The size or regularity of markets can vary from season to season, depending on the area's agricultural calendar, and you're likely to find different produce on sale at different times of the year. By cutting out the middlemen, the farmers secure more profit for their produce. Shoppers also benefit from seeing exactly where—and to whom—their money is going.",
+  "passage_zh": "空气中飘着咖啡和新鲜面包的香味，摊位上堆满五颜六色的蔬菜和诱人的奶酪，耳边是友善交谈的阵阵热闹声——农夫市场，俨然是一场感官的盛宴。除此之外，它还提供了这样的机会：你可以和那些负责种植或饲养你所吃食物的人直接交谈，可以支持当地经济，还能挑到新鲜的时令农产品——而且一次就能全部做到。\n农夫市场通常每周或每月举办一次，大多采用露天摊位的形式，这让农户或生产者可以把自己的食品直接卖给顾客。市场的规模和开办频率会因季节而异，这取决于当地的农事时令；一年中的不同时节，往往也能看到不同的农产品在售。对农户而言，省去中间商之后，他们便能从自己的农产品中获得更多利润；而对顾客来说，他们同样从中获益——能清清楚楚地看到自己的钱到底花到了哪里、最终又流进了谁的口袋。"
+ },
+ {
+  "id": "zy-2024-write-a",
+  "type": "写作",
+  "title": "2024年真题 · 小作文",
+  "score": 10,
+  "minutes": 15,
+  "prompt": "Suppose you and Jack are going to do a survey on the protection of old houses in an ancient town. Write him an email to1) put forward your plan, and2) ask for his opinion.Write your answer in about 100 words on the ANSWER SHEET.Do not use your own name in your email; Use “Li Ming” instead. (10 points)",
+  "tips": "2024年考研英语二真题 写作的中心立意是本信交际目的：把我拟好的古镇老房子保护调查计划告诉 Jack，并请他一起把方案敲定——落点在 ask for his opinion 上的'共同商量'，而非单方面通知。可展开的要点：对应 put forward your plan：给出调查的时间、你我分工、调查对象与方式等具体安排；对应 ask for his opinion：邀请 Jack 评估方案、提",
+  "sample": "Dear Jack,I'm writing to share my plan for our survey on the protection of old houses in our ancient town, and to hear what you think.I suggest we begin next Saturday. In the morning, I will interview elderly residents about the houses' history, while you photograph the buildings and record their present condition. In the afternoon, we can hand out questionnaires to visitors to collect wider opinions on preservation.Does this arrangement suit you? Please feel free to share any suggestions or changes you would prefer, and we can discuss the details before we start.Yours,\nLi Ming"
+ },
+ {
+  "id": "zy-2024-write-b",
+  "type": "写作",
+  "title": "2024年真题 · 大作文",
+  "score": 15,
+  "minutes": 30,
+  "prompt": "Write an essay based on the chart below. In your essay, you should1) describe and interpret the chart, and2) give your comments.Write your answer in about 150 words on the ANSWER SHEET. (15 points)",
+  "tips": "2024年考研英语二真题 写作的中心立意是本篇中心：劳动实践课在传授知识、锻炼动手能力上收获显著，但在培养合作能力上明显不足，值得重视与改进。这个立场直接从 学习了相关知识 与 增强了合作能力 的巨大数值反差生出，站得住、好展开。可展开的要点：第一要点是客观描述：点出 学习了相关知识 91.3% 最高、增强了合作能力 32.6% 最低这一对极值，配上居中两项，用两三句概括而非罗列全部数字；第二要点",
+  "sample": "As is shown in the bar chart, a survey on students' main gains from a university's labor practice course lists four benefits. Learning relevant knowledge tops the list at 91.3%, closely followed by improved hands-on ability at 84.8%. Feeling relaxed accounts for 54.4%, while enhanced cooperation ranks lowest, at only 32.6%.Behind these figures lies a clear message. That knowledge and practical skills score so high suggests such courses effectively combine theory with practice, which is exactly their design purpose. The low figure for cooperation, however, may indicate that most tasks are completed individually, offering students few chances to work as a team.In my view, labor practice deserves greater emphasis in schools, for it cultivates abilities that textbooks alone cannot. Meanwhile, educators should redesign group-based tasks so that cooperation is strengthened. Only in this way can such courses truly benefit students in an all-round manner.",
+  "chart": {
+   "type": "bar",
+   "title": "某高校劳动实践课学生主要收获调查",
+   "unit": "%",
+   "items": [
+    {
+     "label": "提升了动手能力",
+     "value": 84.8
+    },
+    {
+     "label": "学习了相关知识",
+     "value": 91.3
+    },
+    {
+     "label": "增强了合作能力",
+     "value": 32.6
+    },
+    {
+     "label": "感觉到心情舒畅",
+     "value": 54.4
+    }
+   ]
+  }
+ }
+]
