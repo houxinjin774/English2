@@ -3,9 +3,15 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#f6f4ee">
-<meta name="description" content="考研英语二学习台：内置 2010–2026 历年真题练习、答题判分、进度统计与生词积累，支持离线使用与数据备份。">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%232d4a6f'/%3E%3Cpath d='M14 44l10-12 8 8 12-16' fill='none' stroke='%23f6f4ee' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M44 24h6v6' fill='none' stroke='%23f6f4ee' stroke-width='5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<meta name="theme-color" content="#f4f4f5">
+<meta name="description" content="考研英语二学习台：153 篇历年真题练习、目标打卡、专注时钟、生词刷词与学习统计，支持离线使用与数据备份。">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="学习台">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>考研英语二 · 学习台</title>
 <!-- 本工作台通过 WorkBuddy 资料库能力（library skill）搭建、存储和部署 -->
 <style>
@@ -369,6 +375,114 @@ html[data-theme="dark"] .word-item .lv[data-l="掌握"]{color:var(--accent)}
 .bnav button.on{color:var(--accent);font-weight:700}
 .bnav button.on::after{content:"";position:absolute;bottom:1px;width:14px;height:3px;border-radius:99px;background:var(--accent)}
 
+
+/* ===== 生词/目标子模式切换 ===== */
+.sub-modes{display:flex;gap:4px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px;margin-bottom:16px}
+.sub-modes button{flex:1;padding:9px 4px;font-size:13px;font-weight:600;color:var(--ink2);border-radius:9px;min-height:40px;transition:all .18s}
+.sub-modes button.on{background:var(--ink);color:var(--bg)}
+
+/* ===== 目标 ===== */
+.goal-row{display:flex;flex-direction:column;gap:10px;padding:16px 14px;border:1px solid var(--line);border-radius:var(--r-md);background:var(--card);margin-bottom:12px}
+.goal-row .g-top{display:flex;align-items:center;gap:9px}
+.goal-row .g-dot{width:10px;height:10px;border-radius:50%;flex:none}
+.goal-row .g-name{font-size:15px;font-weight:700;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.goal-row .g-streak{font-size:11.5px;color:var(--ink3);white-space:nowrap;font-variant-numeric:tabular-nums}
+.goal-row .g-meta{display:flex;gap:6px;flex-wrap:wrap;font-size:11.5px;color:var(--ink3);align-items:center}
+.goal-row .g-bar{height:8px;background:var(--line);border-radius:99px;overflow:hidden}
+.goal-row .g-bar i{display:block;height:100%;border-radius:99px;transition:width .4s ease}
+.goal-row .g-check{display:flex;gap:8px;align-items:center;border-top:1px dashed var(--line);padding-top:10px;flex-wrap:wrap}
+.goal-row .g-check input{border:1px solid var(--line);border-radius:9px;padding:8px 10px;background:var(--card);min-height:38px;width:88px;font-size:14px;transition:border-color .15s,box-shadow .15s}
+.goal-row .g-check input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);outline:none}
+.goal-row .g-check input.g-amt{width:80px}
+.goal-row .g-check input.g-min{width:70px}
+.goal-row .g-hint{font-size:11.5px;color:var(--ink3);flex:1;min-width:0}
+.tag-mini{font-size:11px;font-weight:600;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--ink2);white-space:nowrap}
+.tag-mini.done{color:var(--accent-strong);border-color:var(--accent-line);background:var(--accent-soft)}
+html[data-theme="dark"] .tag-mini.done{color:var(--accent)}
+.tag-mini.over{color:var(--red);border-color:var(--red-line);background:var(--red-soft)}
+.empty-goal{text-align:center;padding:26px 16px;color:var(--ink3);font-size:13.5px;border:1px dashed var(--line);border-radius:var(--r-md)}
+.goal-form{display:grid;grid-template-columns:1fr 84px 84px;gap:8px}
+.goal-form input,.goal-form select{border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--card);min-height:42px;font-size:14px;transition:border-color .15s,box-shadow .15s}
+.goal-form input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);outline:none}
+.goal-form input.gf-wide{grid-column:1/-1}
+.goal-edit{display:flex;gap:6px}
+.goal-edit .btn-mini{min-height:34px;padding:6px 12px}
+/* 近 14 天柱状 */
+.days14{display:flex;align-items:flex-end;gap:5px;height:120px}
+.days14 .d{flex:1;display:flex;flex-direction:column;align-items:center;gap:5px;height:100%;justify-content:flex-end}
+.days14 .d i{display:block;width:100%;max-width:30px;background:var(--accent);border-radius:6px 6px 2px 2px;min-height:2px;opacity:.9}
+.days14 .d.today i{background:var(--ink)}
+.days14 .d span{font-size:10px;color:var(--ink3)}
+/* 35 天热力图 */
+.heat-wrap{overflow-x:auto;padding-bottom:4px}
+.heat{display:grid;grid-auto-flow:column;grid-template-rows:repeat(7,14px);gap:3px;width:max-content}
+.heat i{width:14px;height:14px;border-radius:4px;background:var(--line)}
+.heat i.l1{background:var(--accent-line)}
+html[data-theme="dark"] .heat i.l1{background:#14532d}
+.heat i.l2{background:var(--accent);opacity:.55}
+.heat i.l3{background:var(--accent)}
+.heat-legend{display:flex;align-items:center;gap:4px;font-size:11px;color:var(--ink3);margin-top:8px;justify-content:flex-end}
+.heat-legend i{width:12px;height:12px;border-radius:3px;display:inline-block}
+/* 周报 */
+.wk-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
+.wk-head .wk-nav{display:flex;gap:4px}
+.wk-head .wk-nav button{width:34px;height:34px;border-radius:9px;border:1px solid var(--line);background:var(--card);color:var(--ink2);font-size:15px}
+.wk-head .wk-nav button:hover{color:var(--ink);border-color:var(--line-strong)}
+.wk-label{font-size:13px;font-weight:700;color:var(--ink)}
+.wk-fields{display:grid;gap:10px}
+.wk-fields label{display:block;font-size:12.5px;color:var(--ink2);margin-bottom:5px;font-weight:600}
+.wk-fields textarea{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--card);min-height:56px;resize:vertical;font-family:inherit;font-size:14px;transition:border-color .15s,box-shadow .15s}
+.wk-fields textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);outline:none}
+.wk-item{border:1px solid var(--line);border-radius:var(--r-sm);padding:12px 14px;margin-bottom:10px;background:var(--bg)}
+.wk-item .wt{font-size:12.5px;font-weight:700;margin-bottom:6px}
+.wk-item .wl{font-size:12.5px;color:var(--ink2);line-height:1.7}
+.wk-item .wl b{color:var(--ink3);font-weight:600}
+
+/* ===== 专注时钟 ===== */
+.focus-wrap{max-width:430px;margin:0 auto;text-align:center}
+.dial-wrap2{position:relative;width:min(70vw,260px);height:min(70vw,260px);margin:8px auto 2px}
+.dial-wrap2 svg{width:100%;height:100%;display:block;transform:rotate(-90deg)}
+.dial-wrap2 .ring-track{stroke:var(--line)}
+.dial-wrap2 .ring-fill{stroke:var(--accent);transition:stroke-dashoffset .5s ease,stroke .3s ease}
+.dial-wrap2 .ring-fill.eye{stroke:var(--amber)}
+.dial-wrap2 .ring-fill.rest{stroke:var(--ink3)}
+.dial-center{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.dial-center .time{font-size:44px;font-weight:800;letter-spacing:-1.5px;font-variant-numeric:tabular-nums;line-height:1.1}
+.dial-center .state-label{font-size:13px;color:var(--ink3);font-weight:600;margin-top:4px}
+.dial-center .state-label.studying{color:var(--accent)}
+.dial-center .state-label.eye{color:var(--amber)}
+.focus-next{min-height:20px;font-size:12.5px;color:var(--ink3);margin:2px 0 16px}
+.focus-controls{display:flex;gap:10px;justify-content:center;margin-bottom:10px}
+.focus-controls .btn{min-width:150px}
+.focus-cycles{font-size:12.5px;color:var(--ink3);margin-bottom:14px}
+.focus-cycles b{color:var(--ink);font-weight:800;font-size:15px}
+.focus-tip{font-size:12px;color:var(--ink3);line-height:1.7;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;text-align:left}
+/* 专注 → 目标 联动卡 */
+.focus-logcard{border:1px solid var(--accent-line);background:var(--accent-soft);border-radius:var(--r-md);padding:14px;margin:0 auto 14px;text-align:left;max-width:430px}
+html[data-theme="dark"] .focus-logcard{background:var(--card)}
+.focus-logcard .ft{font-size:13px;font-weight:700;margin-bottom:10px}
+.focus-logcard .fr{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.focus-logcard select{border:1px solid var(--line);border-radius:9px;padding:8px 10px;background:var(--card);min-height:38px;font-size:13.5px;flex:1;min-width:150px}
+.focus-logcard input{border:1px solid var(--line);border-radius:9px;padding:8px 10px;background:var(--card);min-height:38px;width:78px;font-size:13.5px}
+/* 专注设置弹层 */
+.sheet{position:fixed;left:50%;bottom:0;width:min(430px,100vw);background:var(--bg);z-index:41;border:1px solid var(--line);border-bottom:none;border-radius:20px 20px 0 0;padding:20px 20px calc(20px + env(safe-area-inset-bottom));max-height:88vh;overflow-y:auto;transform:translate(-50%,105%);transition:transform .3s cubic-bezier(.32,.72,.35,1);box-shadow:var(--shadow-lg)}
+.sheet.on{transform:translate(-50%,0)}
+.sheet-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.sheet-head h3{font-size:16px;font-weight:800}
+.sheet-head .icon-btn{border:1px solid var(--line);background:var(--card)}
+.field{margin:13px 0}
+.field label{display:block;font-size:12.5px;color:var(--ink2);margin-bottom:6px;font-weight:600}
+.field input[type=number],.field select{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--card);min-height:42px;font-size:15px;transition:border-color .15s,box-shadow .15s}
+.field input[type=number]:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);outline:none}
+.field-row{display:flex;gap:8px}
+.field-row .field{flex:1;margin:0}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.seg button{flex:1;padding:9px 6px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink2);font-size:13px;font-weight:600;min-height:40px;transition:all .15s}
+.seg button:hover{border-color:var(--line-strong)}
+.seg button.active{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+input[type=range]{width:100%;accent-color:var(--accent);min-height:28px}
+.range-val{font-size:12px;color:var(--ink3);text-align:right;margin-top:2px}
+
 /* ===== 响应式 ===== */
 @media (max-width:640px){
   .wrap{padding:0 14px 110px}
@@ -440,8 +554,10 @@ html[data-theme="dark"] .word-item .lv[data-l="掌握"]{color:var(--accent)}
   <!-- Tab -->
   <div class="tabs" id="tabs">
     <button class="on" data-tab="practice"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19V5m0 14h16M4 5h16v14M8 9l3 3 4-5 3 4" stroke-linecap="round" stroke-linejoin="round"/></svg>真题练习</button>
-    <button data-tab="stats"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18" stroke-linecap="round"/><rect x="7" y="10" width="3" height="8" rx="1"/><rect x="13" y="6" width="3" height="12" rx="1"/><rect x="19" y="13" width="3" height="5" rx="1"/></svg>学习统计</button>
+    <button data-tab="goals"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg>目标打卡</button>
+    <button data-tab="focus"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6" stroke-linecap="round" stroke-linejoin="round"/></svg>专注时钟</button>
     <button data-tab="words"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2V5z" stroke-linejoin="round"/><path d="M4 19a2 2 0 0 1 2-2h14" stroke-linecap="round"/><path d="M9 8h6M9 12h4" stroke-linecap="round"/></svg>生词本</button>
+    <button data-tab="stats"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18" stroke-linecap="round"/><rect x="7" y="10" width="3" height="8" rx="1"/><rect x="13" y="6" width="3" height="12" rx="1"/><rect x="19" y="13" width="3" height="5" rx="1"/></svg>学习统计</button>
   </div>
 
   <!-- 真题练习 -->
@@ -514,14 +630,60 @@ html[data-theme="dark"] .word-item .lv[data-l="掌握"]{color:var(--accent)}
     </div>
   </div>
 
+  <!-- 目标打卡 -->
+  <div class="panel" id="tab-goals">
+    <div class="sub-modes" id="goal-modes">
+      <button class="on" data-gm="today">今日打卡</button>
+      <button data-gm="board">进度看板</button>
+      <button data-gm="weekly">周报复盘</button>
+      <button data-gm="manage">管理目标</button>
+    </div>
+    <div id="goal-view"></div>
+  </div>
+
+  <!-- 专注时钟 -->
+  <div class="panel" id="tab-focus">
+    <div id="focus-view"></div>
+  </div>
+
+</div>
+
+<!-- 专注设置弹层 -->
+<div class="overlay" id="focus-overlay"></div>
+<div class="sheet" id="focus-sheet">
+  <div class="sheet-head">
+    <h3>专注设置</h3>
+    <button class="icon-btn" id="btn-focus-close" aria-label="关闭"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12" stroke-linecap="round"/></svg></button>
+  </div>
+  <div class="field"><label>学习时长（分钟）</label><input type="number" id="fs-study" min="5" max="300" value="90"></div>
+  <div class="field"><label>长休息（分钟）</label><input type="number" id="fs-rest" min="1" max="120" value="20"></div>
+  <div class="field"><label>闭眼休息（秒）</label><input type="number" id="fs-eye" min="3" max="120" value="10"></div>
+  <div class="field"><label>提示音间隔（分钟，随机区间）</label>
+    <div class="field-row">
+      <div class="field"><input type="number" id="fs-chmin" min="1" max="60" value="3"></div>
+      <div class="field"><input type="number" id="fs-chmax" min="1" max="60" value="5"></div>
+    </div>
+  </div>
+  <div class="field"><label>提示音色</label>
+    <div class="seg" id="fs-type">
+      <button data-v="dingdong" class="active">叮咚</button>
+      <button data-v="bell">钟声</button>
+      <button data-v="chord">和弦</button>
+      <button data-v="soft">柔和</button>
+    </div>
+  </div>
+  <div class="field"><label>音量</label><input type="range" id="fs-vol" min="0" max="100" value="80"><div class="range-val" id="fs-volval">80%</div></div>
+  <div class="hint-txt" style="margin-top:12px">学习期间每 3~5 分钟随机响起一次提示音：听到后闭眼休息，结束再响一声提醒睁眼。学习结束后自动进入长休息。专注完成的学习时长可一键记入目标打卡。</div>
+  <button class="btn block" id="btn-focus-save" style="margin-top:14px">保存并试听</button>
 </div>
 
 <!-- 底部导航 -->
 <nav class="bnav" id="bnav">
   <button class="on" data-tab="practice"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 19V5m0 14h16M4 5h16v14M8 9l3 3 4-5 3 4" stroke-linecap="round" stroke-linejoin="round"/></svg>练习</button>
-  <button data-tab="stats"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18" stroke-linecap="round"/><rect x="7" y="10" width="3" height="8" rx="1"/><rect x="13" y="6" width="3" height="12" rx="1"/><rect x="19" y="13" width="3" height="5" rx="1"/></svg>统计</button>
+  <button data-tab="goals"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/></svg>目标</button>
+  <button data-tab="focus"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5M9 2h6" stroke-linecap="round" stroke-linejoin="round"/></svg>专注</button>
   <button data-tab="words"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 5a2 2 0 0 1 2-2h14v16H6a2 2 0 0 0-2 2V5z" stroke-linejoin="round"/><path d="M4 19a2 2 0 0 1 2-2h14" stroke-linecap="round"/><path d="M9 8h6M9 12h4" stroke-linecap="round"/></svg>生词</button>
-  <button id="bnav-drawer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.6 5.6l1.4 1.4m10 10 1.4 1.4M18.4 5.6l-1.4 1.4m-10 10-1.4 1.4" stroke-linecap="round"/></svg>数据</button>
+  <button data-tab="stats"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18" stroke-linecap="round"/><rect x="7" y="10" width="3" height="8" rx="1"/><rect x="13" y="6" width="3" height="12" rx="1"/><rect x="19" y="13" width="3" height="5" rx="1"/></svg>统计</button>
 </nav>
 
 <!-- 抽屉 -->
@@ -2185,6 +2347,9 @@ document.querySelectorAll('#word-filters .fchip').forEach(function(b){
 document.querySelectorAll('#word-modes .wmode-btn').forEach(function(b){
   b.onclick = function(){ setWordMode(b.getAttribute('data-wm')); };
 });
+document.querySelectorAll('#goal-modes button').forEach(function(b){
+  b.onclick = function(){ setGoalMode(b.getAttribute('data-gm')); };
+});
 
 /* ================= 通用 ================= */
 function toast(msg,warn){ var t=$('toast'); t.textContent=msg; t.className=warn?'on warn':'on'; clearTimeout(toast._t); toast._t=setTimeout(function(){ t.className=''; },2200); }
@@ -2205,13 +2370,14 @@ function switchTab(name){
   $('tab-'+name).classList.add('on');
   document.querySelectorAll('.tabs button, .bnav button').forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-tab')===name); });
   if(name==='practice') renderPractice();
+  if(name==='goals') renderGoals();
+  if(name==='focus') renderFocus();
   if(name==='stats') renderStats();
   if(name==='words') renderWords();
 }
 document.querySelectorAll('.tabs button, .bnav button[data-tab]').forEach(function(b){
   b.onclick = function(){ switchTab(b.getAttribute('data-tab')); };
 });
-$('bnav-drawer').onclick = function(){ openDrawer(true); };
 $('btn-drawer').onclick = function(){ openDrawer(true); };
 $('overlay').onclick = function(){ openDrawer(false); };
 function openDrawer(on){ $('drawer').classList.toggle('on',on); $('overlay').classList.toggle('on',on); }
@@ -2290,6 +2456,528 @@ $('btn-clear-demo').onclick = function(){
   });
 };
 
+/* ================= 目标打卡（源自 learning-goal-dashboard，本地数据层重构） ================= */
+var goalMode = LS.get('goalMode') || 'today';
+var goalWeekOffset = 0;
+var goalEditId = null;
+var goalEditColor = null;
+var GOAL_COLORS = ['#059669','#0891b2','#6366f1','#d97706','#dc2626','#7c3aed','#0d9488','#be185d'];
+function goalsData(){ return LS.get('goals') || []; }
+function goalLogsData(){ return LS.get('goalLogs') || []; }
+function weeklyData(){ return LS.get('weekly') || []; }
+function saveGoals(a){ LS.set('goals', a); }
+function saveGoalLogs(a){ LS.set('goalLogs', a); }
+function saveWeekly(a){ LS.set('weekly', a); }
+function goalById(id){ return goalsData().filter(function(g){ return g._id===id; })[0]; }
+function addDaysStr(ds, n){ var d = new Date(ds + 'T00:00:00'); d.setDate(d.getDate() + n); return dateStr(d); }
+function diffDaysStr(a, b){ return Math.round((new Date(b + 'T00:00:00') - new Date(a + 'T00:00:00')) / 864e5); }
+function mondayOf(ds){ var d = new Date(ds + 'T00:00:00'); var wd = d.getDay() === 0 ? 7 : d.getDay(); d.setDate(d.getDate() - (wd - 1)); return dateStr(d); }
+function dateSetOf(gid){ var s = {}; goalLogsData().forEach(function(l){ if(l.目标ID === gid && (l.打卡量 || 0) > 0) s[l.日期] = 1; }); return s; }
+function doneAmount(gid){ return goalLogsData().reduce(function(s, l){ return l.目标ID === gid ? s + (l.打卡量 || 0) : s; }, 0); }
+function minOn(gid, d){ return goalLogsData().filter(function(l){ return l.目标ID === gid && l.日期 === d; }).reduce(function(s, l){ return s + (l.用时分钟 || 0); }, 0); }
+/* 连续打卡天数：本周内前面全勤的休息日不扣 */
+function isRestDayFor(g, d, dates){
+  var mon = mondayOf(d);
+  var cur = mon < g.createdAt ? g.createdAt : mon;
+  while(cur < d){ if(!dates[cur]) return false; cur = addDaysStr(cur, 1); }
+  return true;
+}
+function streakOf(g){
+  var dates = dateSetOf(g._id);
+  var d = todayStr();
+  if(!dates[d]) d = addDaysStr(d, -1);
+  var s = 0;
+  while(d >= g.createdAt){
+    if(dates[d]){ s++; d = addDaysStr(d, -1); continue; }
+    if(isRestDayFor(g, d, dates)){ d = addDaysStr(d, -1); continue; }
+    break;
+  }
+  return s;
+}
+function last7Sum(gid){
+  var t = todayStr(), from = addDaysStr(t, -6), s = 0;
+  goalLogsData().forEach(function(l){ if(l.目标ID === gid && l.日期 >= from && l.日期 <= t) s += (l.打卡量 || 0); });
+  return s;
+}
+function etaOf(g){
+  var done = doneAmount(g._id), remain = g.总量 - done;
+  if(remain <= 0) return { status: 'done' };
+  var speed = last7Sum(g._id) / 7;
+  if(speed <= 0) return { status: 'unknown' };
+  var days = Math.ceil(remain / speed);
+  var etaDate = addDaysStr(todayStr(), days);
+  return { status: 'ok', date: etaDate, diff: diffDaysStr(etaDate, g.截止日) };
+}
+function dailySuggest(g){
+  var remain = g.总量 - doneAmount(g._id);
+  if(remain <= 0) return 0;
+  var left = diffDaysStr(todayStr(), g.截止日);
+  if(left < 0) return remain;
+  return Math.ceil(remain / Math.max(1, left + 1) * 10) / 10;
+}
+function goalRowHtml(g, withCheck){
+  var done = doneAmount(g._id);
+  var pct = g.总量 > 0 ? Math.min(100, Math.round(done / g.总量 * 100)) : 0;
+  var st = streakOf(g);
+  var eta = etaOf(g);
+  var today = todayStr();
+  var todayLogs = goalLogsData().filter(function(l){ return l.目标ID === g._id && l.日期 === today; });
+  var todayAmt = todayLogs.reduce(function(s, l){ return s + (l.打卡量 || 0); }, 0);
+  var todayMin = todayLogs.reduce(function(s, l){ return s + (l.用时分钟 || 0); }, 0);
+  var unit = esc(g.单位 || '');
+  var tags = '';
+  if(done >= g.总量) tags = '<span class="tag-mini done">已完成</span>';
+  else if(diffDaysStr(today, g.截止日) < 0) tags = '<span class="tag-mini over">已逾期</span>';
+  var meta = '<span>' + done + ' / ' + g.总量 + ' ' + unit + ' · ' + pct + '%</span>'
+    + '<span>今日 ' + (todayAmt ? (todayAmt + ' ' + unit + (todayMin ? ' · ' + todayMin + ' 分钟' : '')) : '未打卡') + '</span>';
+  if(!withCheck && eta.status === 'ok'){
+    meta += '<span>预计 ' + eta.date.slice(5).replace('-', '/') + (eta.diff >= 0 ? ' · 提前 ' + eta.diff + ' 天' : ' · 晚 ' + (-eta.diff) + ' 天') + '</span>';
+  } else if(!withCheck && eta.status === 'unknown'){
+    meta += '<span>预计完成：打卡后可估算</span>';
+  }
+  var html = '<div class="goal-row">'
+    + '<div class="g-top"><span class="g-dot" style="background:' + esc(g.颜色 || '#059669') + '"></span><span class="g-name">' + esc(g.名称) + '</span>'
+    + (st > 0 ? '<span class="g-streak">连续 ' + st + ' 天</span>' : '')
+    + tags + '</div>'
+    + '<div class="g-meta">' + meta + '</div>'
+    + '<div class="g-bar"><i style="width:' + pct + '%;background:' + esc(g.颜色 || '#059669') + '"></i></div>';
+  if(withCheck){
+    var hint;
+    if(eta.status === 'done') hint = '目标已完成，保持节奏';
+    else hint = '每日建议 ' + dailySuggest(g) + ' ' + unit;
+    html += '<div class="g-check">'
+      + '<input class="g-amt" id="ga-' + g._id + '" type="number" min="0" step="any" placeholder="' + (unit || '打卡量') + '">'
+      + '<input class="g-min" id="gm-' + g._id + '" type="number" min="0" placeholder="分钟">'
+      + '<button class="btn-mini" data-glog="' + g._id + '">打卡</button>'
+      + '<span class="g-hint">' + hint + '</span></div>';
+  }
+  return html + '</div>';
+}
+function setGoalMode(m){
+  goalMode = m; LS.set('goalMode', m);
+  document.querySelectorAll('#goal-modes button').forEach(function(b){ b.classList.toggle('on', b.getAttribute('data-gm') === m); });
+  renderGoals();
+}
+function renderGoals(){
+  var v = $('goal-view'); if(!v) return;
+  if(goalMode === 'today') renderGoalToday(v);
+  else if(goalMode === 'board') renderGoalBoard(v);
+  else if(goalMode === 'weekly') renderGoalWeekly(v);
+  else renderGoalManage(v);
+}
+function renderGoalToday(v){
+  var goals = goalsData();
+  if(!goals.length){
+    v.innerHTML = '<div class="empty-goal">还没有学习目标。<br>目标要有终点、有总量，例如：背完考研核心词 · 3000 个 · 2026-12-19。</div>'
+      + '<div style="text-align:center;margin-top:12px"><button class="btn" id="btn-go-manage">去创建目标</button></div>';
+    $('btn-go-manage').onclick = function(){ setGoalMode('manage'); };
+    return;
+  }
+  v.innerHTML = '<div class="sec-title" style="margin-top:2px"><h2>今日打卡</h2><span class="hint">' + todayStr() + '</span></div>'
+    + goals.map(function(g){ return goalRowHtml(g, true); }).join('');
+  v.querySelectorAll('button[data-glog]').forEach(function(b){
+    b.onclick = function(){
+      var gid = b.getAttribute('data-glog');
+      var amt = parseFloat(($('ga-' + gid) || {}).value);
+      var min = parseInt(($('gm-' + gid) || {}).value, 10);
+      if(isNaN(amt) && isNaN(min)){ toast('填一下打卡量或用时', 'warn'); return; }
+      addGoalLog(gid, isNaN(amt) ? 0 : amt, isNaN(min) ? 0 : min, todayStr());
+    };
+  });
+}
+function addGoalLog(gid, amt, min, date){
+  var g = goalById(gid); if(!g) return;
+  var logs = goalLogsData();
+  logs.unshift({ _id: uid(), 目标ID: gid, 日期: date, 打卡量: amt, 用时分钟: min });
+  saveGoalLogs(logs);
+  toast('已打卡「' + g.名称 + '」');
+  renderGoals();
+}
+function renderGoalBoard(v){
+  var goals = goalsData();
+  if(!goals.length){ v.innerHTML = '<div class="empty-goal">先创建目标，再看进度。</div>'; return; }
+  var html = '<div class="card"><h3>目标进度</h3>' + goals.map(function(g){ return goalRowHtml(g, false); }).join('') + '</div>';
+  /* 近 14 天投入 */
+  var t = todayStr(), vals = [], labels = [], max = 1;
+  for(var i = 13; i >= 0; i--){
+    var d = addDaysStr(t, -i);
+    var sum = 0;
+    goalLogsData().forEach(function(l){ if(l.日期 === d) sum += (l.用时分钟 || 0); });
+    vals.push(sum); labels.push(i === 0 ? '今' : d.slice(5).replace('-', '/'));
+    if(sum > max) max = sum;
+  }
+  html += '<div class="card"><h3>近 14 天投入时长</h3><div class="days14">'
+    + vals.map(function(val, idx){
+        var h = Math.max(2, Math.round(val / max * 92));
+        return '<div class="d' + (idx === 13 ? ' today' : '') + '"><i style="height:' + h + 'px' + (val ? '' : ';background:var(--line)') + '"></i><span>' + labels[idx] + '</span></div>';
+      }).join('')
+    + '</div><div class="legend" style="margin-top:10px"><span><i style="background:var(--accent)"></i>有投入</span><span><i style="background:var(--line)"></i>无记录</span></div></div>';
+  /* 35 天热力 */
+  var cells = '';
+  for(var k = 34; k >= 0; k--){
+    var dd = addDaysStr(t, -k);
+    var n = goalLogsData().filter(function(l){ return l.日期 === dd && ((l.打卡量 || 0) > 0 || (l.用时分钟 || 0) > 0); }).length;
+    var lv = n === 0 ? '' : (n === 1 ? ' l1' : (n === 2 ? ' l2' : ' l3'));
+    cells += '<i class="' + lv + '" title="' + dd + (n ? ' · ' + n + ' 项打卡' : '') + '"></i>';
+  }
+  html += '<div class="card"><h3>打卡热力（近 5 周）</h3><div class="heat-wrap"><div class="heat">' + cells + '</div></div>'
+    + '<div class="heat-legend">少 <i style="background:var(--accent-line)"></i><i style="background:var(--accent);opacity:.55"></i> 多 <i style="background:var(--accent)"></i></div></div>';
+  v.innerHTML = html;
+}
+function renderGoalWeekly(v){
+  var t = todayStr();
+  var ws = addDaysStr(mondayOf(t), goalWeekOffset * 7);
+  var we = addDaysStr(ws, 6);
+  var saved = weeklyData().filter(function(w){ return w.周起始日 === ws; })[0] || {};
+  var canFuture = goalWeekOffset > 0;
+  v.innerHTML = '<div class="card"><div class="wk-head"><span class="wk-label">' + ws.slice(5).replace('-', '/') + ' - ' + we.slice(5).replace('-', '/') + (goalWeekOffset === 0 ? '（本周）' : '') + '</span>'
+    + '<span class="wk-nav"><button id="wk-prev" title="上一周">‹</button><button id="wk-next" title="下一周" ' + (goalWeekOffset >= 0 ? 'disabled style="opacity:.4"' : '') + '>›</button></span></div>'
+    + '<div class="wk-fields">'
+    + '<div><label>保持（做对了什么）</label><textarea id="wk-keep">' + esc(saved.保持 || '') + '</textarea></div>'
+    + '<div><label>问题（哪里卡住了）</label><textarea id="wk-prob">' + esc(saved.问题 || '') + '</textarea></div>'
+    + '<div><label>尝试（下周怎么调整）</label><textarea id="wk-try">' + esc(saved.尝试 || '') + '</textarea></div>'
+    + '<div><label>下周预案</label><textarea id="wk-plan">' + esc(saved.预案 !== undefined ? saved.预案 : (saved.下周预案 || '')) + '</textarea></div>'
+    + '</div>'
+    + '<button class="btn block" id="btn-wk-save" style="margin-top:14px">保存本周复盘</button></div>'
+    + '<div class="card"><h3>历史周报</h3><div id="wk-history"></div></div>';
+  $('wk-prev').onclick = function(){ goalWeekOffset--; renderGoalWeekly(v); };
+  var nx = $('wk-next');
+  if(nx && goalWeekOffset < 0) nx.onclick = function(){ goalWeekOffset++; renderGoalWeekly(v); };
+  $('btn-wk-save').onclick = function(){
+    var rec = { _id: saved._id || uid(), 周起始日: ws, 保持: $('wk-keep').value, 问题: $('wk-prob').value, 尝试: $('wk-try').value, 下周预案: $('wk-plan').value };
+    var all = weeklyData().filter(function(w){ return w.周起始日 !== ws; });
+    all.push(rec);
+    saveWeekly(all);
+    toast('周报已保存');
+    renderGoalWeekly(v);
+  };
+  var hist = weeklyData().slice().sort(function(a, b){ return b.周起始日 > a.周起始日 ? 1 : -1; }).slice(0, 5);
+  var histEl = $('wk-history');
+  if(!hist.length){ histEl.innerHTML = '<div class="empty-line">还没有保存过周报</div>'; }
+  else {
+    histEl.innerHTML = hist.map(function(w){
+      var line = [];
+      if(w.保持) line.push('<b>保持：</b>' + esc(w.保持));
+      if(w.问题) line.push('<b>问题：</b>' + esc(w.问题));
+      if(w.尝试) line.push('<b>尝试：</b>' + esc(w.尝试));
+      if(w.下周预案 || w.预案) line.push('<b>预案：</b>' + esc(w.下周预案 || w.预案));
+      return '<div class="wk-item"><div class="wt">' + esc(w.周起始日) + ' 那一周</div><div class="wl">' + (line.join('<br>') || '（空）') + '</div></div>';
+    }).join('');
+  }
+}
+function renderGoalManage(v){
+  var goals = goalsData();
+  var editing = goalEditId ? goalById(goalEditId) : null;
+  var color = goalEditColor || (editing ? editing.颜色 : GOAL_COLORS[goals.length % GOAL_COLORS.length]);
+  goalEditColor = color;
+  var dots = GOAL_COLORS.map(function(c){
+    return '<span class="g-dot" data-color="' + c + '" style="background:' + c + ';width:22px;height:22px;cursor:pointer;border:2px solid ' + (c === color ? 'var(--ink)' : 'transparent') + ';border-radius:50%;display:inline-block;box-sizing:border-box"></span>';
+  }).join('');
+  v.innerHTML = '<div class="card"><h3>' + (editing ? '编辑目标' : '新增目标') + '</h3>'
+    + '<div class="goal-form">'
+    + '<input class="gf-wide" id="gf-name" placeholder="目标名称，如：背完考研核心词" value="' + (editing ? esc(editing.名称) : '') + '">'
+    + '<input id="gf-unit" placeholder="单位（个/篇/时）" value="' + (editing ? esc(editing.单位 || '') : '') + '">'
+    + '<input id="gf-total" type="number" min="1" placeholder="总量" value="' + (editing ? esc(editing.总量) : '') + '">'
+    + '<input id="gf-deadline" type="date" value="' + (editing ? esc(editing.截止日) : '') + '">'
+    + '<div style="display:flex;align-items:center;gap:6px;grid-column:1/-1"><span style="font-size:12px;color:var(--ink2)">颜色</span>' + dots + '</div>'
+    + '</div>'
+    + '<div class="row" style="margin-top:12px"><button class="btn" id="btn-goal-save">' + (editing ? '保存修改' : '添加目标') + '</button>'
+    + (editing ? '<button class="btn ghost" id="btn-goal-cancel">取消</button>' : '') + '</div></div>'
+    + '<div class="card"><h3>全部目标（' + goals.length + '）</h3><div id="goal-list-m"></div></div>';
+  v.querySelectorAll('.g-dot[data-color]').forEach(function(d){
+    d.onclick = function(){
+      goalEditColor = d.getAttribute('data-color');
+      /* 原地更新选中态，避免重渲染清空正在填写的表单 */
+      v.querySelectorAll('.g-dot[data-color]').forEach(function(x){
+        x.style.border = '2px solid ' + (x.getAttribute('data-color') === goalEditColor ? 'var(--ink)' : 'transparent');
+      });
+    };
+  });
+  $('btn-goal-save').onclick = function(){
+    var name = $('gf-name').value.trim();
+    var total = parseFloat($('gf-total').value);
+    if(!name){ toast('请填写目标名称', 'warn'); return; }
+    if(isNaN(total) || total <= 0){ toast('请填写有效的总量', 'warn'); return; }
+    var dl = $('gf-deadline').value;
+    var gs = goalsData();
+    if(editing){
+      editing.名称 = name; editing.单位 = $('gf-unit').value.trim(); editing.总量 = total;
+      editing.截止日 = dl || editing.截止日; editing.颜色 = goalEditColor;
+      saveGoals(gs);
+      toast('已保存修改');
+    } else {
+      gs.push({ _id: uid(), 名称: name, 单位: $('gf-unit').value.trim(), 总量: total, 截止日: dl || addDaysStr(todayStr(), 30), 颜色: goalEditColor, createdAt: todayStr() });
+      saveGoals(gs);
+      toast('目标已创建');
+    }
+    goalEditId = null; goalEditColor = null;
+    renderGoalManage(v);
+  };
+  var cc = $('btn-goal-cancel');
+  if(cc) cc.onclick = function(){ goalEditId = null; goalEditColor = null; renderGoalManage(v); };
+  var listEl = $('goal-list-m');
+  if(!goals.length){ listEl.innerHTML = '<div class="empty-line">还没有目标</div>'; return; }
+  listEl.innerHTML = goals.map(function(g){
+    return '<div class="paper-item"><div class="info"><div class="t"><span class="g-dot" style="background:' + esc(g.颜色) + '"></span>' + esc(g.名称) + '</div><div class="s">'
+      + doneAmount(g._id) + ' / ' + g.总量 + ' ' + esc(g.单位 || '') + ' · 截止 ' + esc(g.截止日) + '</div></div>'
+      + '<div class="goal-edit"><button class="btn-mini gray" data-gedit="' + g._id + '">编辑</button><button class="btn-mini danger" data-gdel="' + g._id + '">删除</button></div></div>';
+  }).join('');
+  listEl.querySelectorAll('button[data-gedit]').forEach(function(b){
+    b.onclick = function(){ goalEditId = b.getAttribute('data-gedit'); renderGoalManage(v); v.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+  });
+  listEl.querySelectorAll('button[data-gdel]').forEach(function(b){
+    b.onclick = function(){
+      var gid = b.getAttribute('data-gdel');
+      var g = goalById(gid);
+      if(!confirm('删除目标「' + g.名称 + '」？其打卡记录会保留但不再展示。')) return;
+      saveGoals(goalsData().filter(function(x){ return x._id !== gid; }));
+      toast('已删除');
+      renderGoalManage(v);
+    };
+  });
+}
+
+/* ================= 专注时钟（源自 random-clock，融合改造） ================= */
+var F_DEFAULTS = { studyMinutes: 90, longRestMinutes: 20, eyeRestSeconds: 10, chimeMin: 3, chimeMax: 5, chimeType: 'dingdong', volume: 0.8 };
+var focusS = (function(){ var s = LS.get('focus_settings'); return s ? Object.assign({}, F_DEFAULTS, s) : Object.assign({}, F_DEFAULTS); })();
+var focusState = 'idle'; /* idle | studying | eyeRest | longRest | done */
+var focusPaused = false;
+var focusTotalMs = 0, focusRemainMs = 0, chimeRemainMs = 0, eyeRemainMs = 0, restRemainMs = 0;
+var focusCycles = 0, focusLastTick = 0;
+var focusAudioCtx = null;
+var focusPendingMin = 0; /* 待记入目标的专注时长 */
+var RING_LEN = 2 * Math.PI * 120;
+(function(){
+  var saved = LS.get('focus_stats');
+  var tk = new Date().toISOString().slice(0, 10);
+  if(saved && saved.date === tk) focusCycles = saved.cycles || 0;
+})();
+function saveFocusAll(){
+  LS.set('focus_settings', focusS);
+  LS.set('focus_stats', { date: new Date().toISOString().slice(0, 10), cycles: focusCycles });
+}
+function focusEnsureAudio(){
+  if(!focusAudioCtx){
+    var AC = window.AudioContext || window.webkitAudioContext;
+    if(AC) focusAudioCtx = new AC();
+  }
+  if(focusAudioCtx && focusAudioCtx.state === 'suspended') focusAudioCtx.resume();
+}
+function focusTone(freq, when, dur, type, peak){
+  if(!focusAudioCtx) return;
+  var t0 = focusAudioCtx.currentTime + when;
+  var osc = focusAudioCtx.createOscillator();
+  var gain = focusAudioCtx.createGain();
+  osc.type = type || 'sine';
+  osc.frequency.setValueAtTime(freq, t0);
+  gain.gain.setValueAtTime(0.0001, t0);
+  gain.gain.exponentialRampToValueAtTime(Math.max(0.001, peak * focusS.volume), t0 + 0.015);
+  gain.gain.exponentialRampToValueAtTime(0.0001, t0 + dur);
+  osc.connect(gain).connect(focusAudioCtx.destination);
+  osc.start(t0);
+  osc.stop(t0 + dur + 0.05);
+}
+function playChime(){
+  focusEnsureAudio();
+  var t = focusS.chimeType;
+  if(t === 'dingdong'){ focusTone(659.25, 0, 0.9, 'sine', 0.5); focusTone(523.25, 0.18, 1.2, 'sine', 0.5); }
+  else if(t === 'bell'){ focusTone(523.25, 0, 2.2, 'sine', 0.5); focusTone(1046.5, 0, 1.4, 'sine', 0.18); focusTone(1567.98, 0, 0.9, 'sine', 0.08); }
+  else if(t === 'chord'){ focusTone(523.25, 0, 1.6, 'sine', 0.4); focusTone(659.25, 0, 1.6, 'sine', 0.4); focusTone(783.99, 0, 1.6, 'sine', 0.4); }
+  else { focusTone(440, 0, 0.7, 'sine', 0.35); focusTone(660, 0.12, 0.7, 'sine', 0.25); }
+}
+function playWake(){ focusEnsureAudio(); focusTone(587.33, 0, 0.35, 'sine', 0.4); focusTone(880, 0.16, 0.5, 'sine', 0.4); }
+function randomIntervalMs(){
+  var lo = Math.min(focusS.chimeMin, focusS.chimeMax);
+  var hi = Math.max(focusS.chimeMin, focusS.chimeMax);
+  return (lo + Math.random() * (hi - lo)) * 60 * 1000;
+}
+function focusSetState(s){
+  focusState = s;
+  var label = { idle: '准备就绪', studying: '专注学习中', eyeRest: '闭眼休息', longRest: '长休息', done: '本轮完成' }[s];
+  var el = $('focus-state'); if(el){ el.textContent = label; el.className = 'state-label ' + (s === 'studying' ? 'studying' : (s === 'eyeRest' ? 'eye' : '')); }
+  var ring = $('focus-ring'); if(ring){ ring.className = 'ring-fill' + (s === 'eyeRest' ? ' eye' : (s === 'longRest' ? ' rest' : '')); }
+  focusRender();
+}
+function focusStart(){
+  focusEnsureAudio();
+  focusTotalMs = focusS.studyMinutes * 60 * 1000;
+  focusRemainMs = focusTotalMs;
+  chimeRemainMs = randomIntervalMs();
+  focusPaused = false;
+  focusLastTick = performance.now();
+  focusSetState('studying');
+}
+function focusEyeRest(){
+  eyeRemainMs = focusS.eyeRestSeconds * 1000;
+  focusSetState('eyeRest');
+  playChime();
+}
+function focusLongRest(){
+  restRemainMs = focusS.longRestMinutes * 60 * 1000;
+  focusCycles += 1;
+  focusPendingMin = Math.max(1, Math.round(focusTotalMs / 60000));
+  saveFocusAll();
+  focusSetState('longRest');
+  playWake();
+}
+function focusDone(){
+  focusSetState('done');
+  playWake();
+  focusPaused = false;
+  focusRender();
+}
+function focusTick(){
+  if(focusPaused || focusState === 'idle' || focusState === 'done') return;
+  var now = performance.now();
+  var delta = now - focusLastTick;
+  focusLastTick = now;
+  if(focusState === 'studying'){
+    focusRemainMs -= delta;
+    chimeRemainMs -= delta;
+    if(chimeRemainMs <= 0){ focusEyeRest(); return; }
+    if(focusRemainMs <= 0){ focusLongRest(); return; }
+  } else if(focusState === 'eyeRest'){
+    eyeRemainMs -= delta;
+    if(eyeRemainMs <= 0){
+      playWake();
+      chimeRemainMs = randomIntervalMs();
+      focusLastTick = performance.now();
+      focusSetState('studying');
+      return;
+    }
+  } else if(focusState === 'longRest'){
+    restRemainMs -= delta;
+    if(restRemainMs <= 0){ focusDone(); return; }
+  }
+  focusRender();
+}
+function fmtMs(ms){
+  if(ms < 0) ms = 0;
+  var total = Math.round(ms / 1000);
+  var m = Math.floor(total / 60), s = total % 60;
+  return String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+}
+function focusRender(){
+  var elTime = $('focus-time'); if(!elTime) return;
+  var displayMs = 0, progress = 0, nextTxt = '', mainTxt = '开始学习';
+  if(focusState === 'idle'){ displayMs = focusS.studyMinutes * 60000; nextTxt = ''; }
+  else if(focusState === 'studying'){ displayMs = focusRemainMs; progress = 1 - focusRemainMs / focusTotalMs; nextTxt = '提示音随机响起 · 保持专注'; }
+  else if(focusState === 'eyeRest'){ displayMs = eyeRemainMs; progress = 1 - eyeRemainMs / (focusS.eyeRestSeconds * 1000); nextTxt = '闭眼放松，睁眼提示音响起后继续'; }
+  else if(focusState === 'longRest'){ displayMs = restRemainMs; progress = 1 - restRemainMs / (focusS.longRestMinutes * 60000); nextTxt = '好好休息，恢复精力'; }
+  else { displayMs = 0; progress = 1; nextTxt = '本轮完成！点击按钮开始下一轮'; }
+  if(focusState === 'done') mainTxt = '开始下一轮';
+  else if(focusPaused) mainTxt = '继续';
+  else if(focusState !== 'idle') mainTxt = '暂停';
+  elTime.textContent = fmtMs(displayMs);
+  var ring = $('focus-ring');
+  if(ring){ ring.style.strokeDashoffset = String(RING_LEN * (1 - progress)); }
+  var nx = $('focus-next'); if(nx) nx.textContent = nextTxt;
+  var cy = $('focus-cycles-n'); if(cy) cy.textContent = focusCycles;
+  var main = $('btn-focus-main'); if(main) main.textContent = mainTxt;
+  var lc = $('focus-logcard');
+  if(lc){
+    var show = focusPendingMin > 0 && (focusState === 'longRest' || focusState === 'done' || focusState === 'idle');
+    lc.hidden = !show;
+    if(show && !lc.dataset.built){
+      var goals = goalsData();
+      lc.dataset.built = '1';
+      $('fl-fields').innerHTML = goals.length
+        ? '<select id="fl-goal">' + goals.map(function(g){ return '<option value="' + g._id + '">' + esc(g.名称) + '</option>'; }).join('') + '</select>'
+          + '<input id="fl-min" type="number" min="1" value="' + focusPendingMin + '" title="分钟">'
+        : '<span style="font-size:13px;color:var(--ink2)">还没有目标，创建后即可把专注时长记入打卡。</span>';
+    }
+  }
+  document.title = (focusState === 'studying' || focusState === 'eyeRest' || focusState === 'longRest')
+    ? fmtMs(displayMs) + ' · ' + ({studying:'专注中',eyeRest:'闭眼休息',longRest:'长休息'})[focusState] : '考研英语二 · 学习台';
+}
+function renderFocus(){
+  var v = $('focus-view'); if(!v) return;
+  v.innerHTML = '<div class="focus-wrap">'
+    + '<div class="focus-logcard" id="focus-logcard" hidden><div class="ft">本轮专注完成，记入目标打卡？</div><div class="fr" id="fl-fields"></div>'
+    + '<div class="fr" style="margin-top:10px"><button class="btn-mini" id="fl-save">记入打卡</button><button class="btn-mini gray" id="fl-skip">忽略</button></div></div>'
+    + '<div class="dial-wrap2"><svg viewBox="0 0 260 260">'
+    + '<circle class="ring-track" cx="130" cy="130" r="120" fill="none" stroke-width="12"/>'
+    + '<circle class="ring-fill" id="focus-ring" cx="130" cy="130" r="120" fill="none" stroke-width="12" stroke-linecap="round" stroke-dasharray="' + RING_LEN + '" stroke-dashoffset="0" transform="rotate(-90 130 130)"/>'
+    + '</svg><div class="dial-center"><div class="time" id="focus-time">90:00</div><div class="state-label" id="focus-state">准备就绪</div></div></div>'
+    + '<div class="focus-next" id="focus-next"></div>'
+    + '<div class="focus-controls"><button class="btn" id="btn-focus-main">开始学习</button><button class="btn ghost" id="btn-focus-reset" style="min-width:0;padding:12px 16px" aria-label="重置"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 3-6.7M3 4v5h5" stroke-linecap="round" stroke-linejoin="round"/></svg></button><button class="btn ghost" id="btn-focus-settings" style="min-width:0;padding:12px 16px" aria-label="设置"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.6 5.6l1.4 1.4m10 10 1.4 1.4M18.4 5.6l-1.4 1.4m-10 10-1.4 1.4" stroke-linecap="round"/></svg></button></div>'
+    + '<div class="focus-cycles">今日已完成 <b id="focus-cycles-n">' + focusCycles + '</b> 轮</div>'
+    + '<div class="focus-tip">随机提示音专注法：学习期间每 ' + focusS.chimeMin + '~' + focusS.chimeMax + ' 分钟随机响起一次提示音，无法预判；听到后闭眼休息 ' + focusS.eyeRestSeconds + ' 秒再继续。每学习 ' + focusS.studyMinutes + ' 分钟自动进入 ' + focusS.longRestMinutes + ' 分钟长休息。</div>'
+    + '</div>';
+  $('btn-focus-main').onclick = function(){
+    focusEnsureAudio();
+    if(focusState === 'idle' || focusState === 'done'){ focusStart(); }
+    else if(focusPaused){ focusPaused = false; focusLastTick = performance.now(); focusRender(); }
+    else { focusPaused = true; focusRender(); }
+  };
+  $('btn-focus-reset').onclick = function(){
+    focusPaused = false;
+    focusRemainMs = 0; chimeRemainMs = 0; eyeRemainMs = 0; restRemainMs = 0;
+    focusSetState('idle');
+  };
+  $('btn-focus-settings').onclick = openFocusSheet;
+  if(focusPendingMin > 0 && !$('fl-fields').innerHTML){
+    /* logcard 内容在 focusRender 里补 */
+  }
+  focusRender();
+}
+function openFocusSheet(){
+  $('fs-study').value = focusS.studyMinutes;
+  $('fs-rest').value = focusS.longRestMinutes;
+  $('fs-eye').value = focusS.eyeRestSeconds;
+  $('fs-chmin').value = focusS.chimeMin;
+  $('fs-chmax').value = focusS.chimeMax;
+  $('fs-vol').value = Math.round(focusS.volume * 100);
+  $('fs-volval').textContent = Math.round(focusS.volume * 100) + '%';
+  document.querySelectorAll('#fs-type button').forEach(function(b){ b.classList.toggle('active', b.getAttribute('data-v') === focusS.chimeType); });
+  $('focus-sheet').classList.add('on');
+  $('focus-overlay').classList.add('on');
+}
+function closeFocusSheet(){ $('focus-sheet').classList.remove('on'); $('focus-overlay').classList.remove('on'); }
+function clampInt(v, lo, hi, dflt){ v = parseInt(v, 10); if(isNaN(v)) return dflt; return Math.max(lo, Math.min(hi, v)); }
+document.querySelectorAll('#fs-type button').forEach(function(b){
+  b.onclick = function(){
+    document.querySelectorAll('#fs-type button').forEach(function(x){ x.classList.remove('active'); });
+    b.classList.add('active');
+    focusS.chimeType = b.getAttribute('data-v');
+  };
+});
+$('fs-vol').oninput = function(){ focusS.volume = this.value / 100; $('fs-volval').textContent = this.value + '%'; };
+$('btn-focus-close').onclick = closeFocusSheet;
+$('focus-overlay').onclick = closeFocusSheet;
+$('btn-focus-save').onclick = function(){
+  focusS.studyMinutes = clampInt($('fs-study').value, 5, 300, 90);
+  focusS.longRestMinutes = clampInt($('fs-rest').value, 1, 120, 20);
+  focusS.eyeRestSeconds = clampInt($('fs-eye').value, 3, 120, 10);
+  focusS.chimeMin = clampInt($('fs-chmin').value, 1, 60, 3);
+  focusS.chimeMax = clampInt($('fs-chmax').value, 1, 60, 5);
+  if(focusS.chimeMin > focusS.chimeMax){ var t = focusS.chimeMin; focusS.chimeMin = focusS.chimeMax; focusS.chimeMax = t; }
+  saveFocusAll();
+  closeFocusSheet();
+  focusRender();
+  playChime();
+};
+/* 专注 → 目标 打卡联动 */
+document.addEventListener('click', function(ev){
+  if(ev.target.id === 'fl-save'){
+    var sel = $('fl-goal');
+    var min = parseInt(($('fl-min') || {}).value, 10);
+    if(!sel){ toast('先去「目标打卡 · 管理目标」创建一个目标', 'warn'); return; }
+    if(isNaN(min) || min <= 0){ toast('填写本次专注分钟数', 'warn'); return; }
+    addGoalLog(sel.value, 0, min, todayStr());
+    focusPendingMin = 0;
+    var lc = $('focus-logcard'); if(lc){ lc.hidden = true; lc.dataset.built = ''; }
+  } else if(ev.target.id === 'fl-skip'){
+    focusPendingMin = 0;
+    var lc2 = $('focus-logcard'); if(lc2){ lc2.hidden = true; }
+  }
+});
+
+
+document.querySelectorAll('#goal-modes button').forEach(function(b){
+  b.classList.toggle('on', b.getAttribute('data-gm') === goalMode);
+});
+
 /* ================= 初始化 ================= */
 /* 初试日期：每年 12 月倒数第二个周六（教育部惯例），考完自动滚到下一年 */
 function examDate(){
@@ -2317,7 +3005,7 @@ function renderHero(){
   $('hero').innerHTML = '<div class="hero-l"><div class="hero-greet">'+greet+'，练点什么？</div><div class="hero-date">'+ds+' · 距初试 <b>'+daysToExam()+'</b> 天</div></div>'
     + '<div class="hero-r"><div class="hero-divider desktop-only"></div><div class="hero-stat"><div class="v">'+st.streak+'</div><div class="l">连续打卡（天）</div></div></div>';
 }
-function renderAll(){ renderHero(); renderToday(); renderPractice(); renderStats(); renderWords(); }
+function renderAll(){ renderHero(); renderToday(); renderPractice(); renderGoals(); renderStats(); renderWords(); renderFocus(); }
 setSync(ONLINE?'loading':'offline');
 $('cd-days').textContent = daysToExam();
 /* 主题：auto / light / dark，跟随系统 + 手动切换 */
@@ -2329,6 +3017,10 @@ function applyTheme(){
   if(meta) meta.setAttribute('content', dark ? '#0f0f10' : '#f4f4f5');
 }
 applyTheme();
+setInterval(focusTick, 200);
+if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+  try { navigator.serviceWorker.register('sw.js').catch(function(){}); } catch(e){}
+}
 window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').addEventListener && window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(){ if((LS.get('theme')||'auto')==='auto') applyTheme(); });
 $('btn-theme').onclick = function(){
   var order = ['auto','light','dark'];
